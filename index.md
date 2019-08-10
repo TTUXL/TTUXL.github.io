@@ -5,4 +5,4 @@
 
 [Ubuntu](https://ttuxl.github.io/ubuntu-XL/)
 
-[Weekly Report](https://ttuxl.github.io/weekly report/)
+[Weekly Report](https://ttuxl.github.io/weeklyreport/)
