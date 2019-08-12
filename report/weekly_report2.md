@@ -8,11 +8,14 @@
 <img src="./Photos/ArgosV2-Front.jpg" width="300" height="300"> <img src="./Photos/ArgosV2-Side.jpg" width="300" height="300">
 
 #### [lund University](https://www.lunduniversity.lu.se/search?tab=publications&query=mimo&page=1&filter=LupfilterByGenreen-Journal%20article_LupfilterByConstituent-yes)
-![Lund universtiy](./Photos/Lund_univesity_massive_mimo.png)
+<img src="./Photos/Lund_univesity_massive_mimo.png" width="550" height="400">
 
 #### [University of bristol](https://www.bristol.ac.uk/engineering/research/smart/5g-demonstrations/massive-mimo/)
-![bristol_university](./Photos/bristol_university_massive_mimo.png)
+<img src="./Photos/bristol_university_massive_mimo.png" width="550" height="400">
 
+#### [Rutgers University](https://www.orbit-lab.org/)
+[[github]](https://github.com/Wimnet/flexicon_orbit) [[Columbia FlexICoN]](https://flexicon.ee.columbia.edu/)
+<img src="./Photos/Rutgers University.jpg" width="550" height="400">
 ---
 ### executed projects on testbed
 [1] [Zhang, Changchun, and Robert C. Qiu. "Massive MIMO as a big data system: Random matrix models and testbed." IEEE access 3 (2015): 837-851.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7112627)
