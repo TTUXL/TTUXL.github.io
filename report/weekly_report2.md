@@ -2,7 +2,7 @@
 
 [toc]
 
-### Large-ßcale "SDR testbed" at Universities
+### Large-Scale "SDR testbed" at Universities
 #### [Rice University](http://argos.rice.edu/#Photos)
 
 <img src="./Photos/ArgosV2-Front.jpg" width="300" height="300"> <img src="./Photos/ArgosV2-Side.jpg" width="300" height="300">
