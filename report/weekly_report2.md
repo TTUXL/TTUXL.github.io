@@ -21,7 +21,7 @@
 ### Executed Projects on Testbed
 [1] [Zhang, Changchun, and Robert C. Qiu. "Massive MIMO as a big data system: Random matrix models and testbed." IEEE access 3 (2015): 837-851.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7112627)
 
-[2]  [Vinogradova, Julia, Emil Björnson, and Erik G. Larsson. "Detection and mitigation of jamming attacks in massive MIMO systems using random matrix theory." 2016 IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC). IEEE, 2016.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7536868)
+[2]  [Vinogradova, Julia, Emil Björnson, and Erik G. Larsson. "Jamming massive MIMO using massive MIMO: Asymptotic separability results." 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2017.](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7952798)
 
 [3] [Github GPS-SDR-SIM](https://github.com/osqzss/gps-sdr-sim)
 
