@@ -84,9 +84,11 @@ Cognitive Radios technology enables spectrum sharing without causing harmful int
 >>[17-20]Implement a practical downlink NOMA system based on an open-source software defined radio (SDR) platform named as OpenAirInterface (OAI).
 
 LTE open source software
->[a] Open Air Interface-OAI  https://www.openairinterface.org/
->[b] SoftwareRadioSystems- srsLTE  http://www.softwareradiosystems.com/
->[c] OpenLTE  http://openlte.sourceforge.net/
+>[a] Open Air Interface-OAI  [https://www.openairinterface.org/](https://www.openairinterface.org/)
+
+>[b] SoftwareRadioSystems- srsLTE  [http://www.softwareradiosystems.com/](http://www.softwareradiosystems.com)
+
+>[c] OpenLTE  [http://openlte.sourceforge.net/](http://openlte.sourceforge.net/)
 
 #### Ad-Hoc Game theory
 >Musical Chairs
