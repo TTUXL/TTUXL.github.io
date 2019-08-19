@@ -39,6 +39,7 @@ Cognitive Radios technology enables spectrum sharing without causing harmful int
 - Time delay
 - Minimize energy consumption
 - Network connectivity
+
 ### Survey of Implementation DSA on SDR Testbed
 
 <center>
