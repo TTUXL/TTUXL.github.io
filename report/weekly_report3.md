@@ -4,7 +4,7 @@
 
 Dynamic spectrum access is the process of increasing spectrum efficiency via the real-time adjustment of radio resources. In the same frequency range, there are two co-existing systems: primary system and secondary system. Primary system refers to the licensed system with legacy spectrum. This system has the exclusive privilege to access the assigned spectrum. Secondary system refers to the unlicensed cognitive system and can only opportunistically access the spectrum holes which are not used by the primary system. We call the subscriber in the primary system as Primary User (**PU**) and the subscriber in the secondary system as Secondary User (**SU**). The SUs are able to dynamically access the licensed frequency bands without any modification to the primary system.
 
-:pectrum users sharing spectrum access on **negotiated** or **opportunistic** strategies.The most research area is Opportunistic Spectrum Access(**OSA**)[[1]](#id1)
+Spectrum users sharing spectrum access on **negotiated** or **opportunistic** strategies.The most research area is Opportunistic Spectrum Access(**OSA**)[[1]](#id1)
 
 ### Cognitive Radio Functions
 Four of the most important CR functions for spectrum control are: spectrum mobility, spectrum sensing, spectrum sharing, and spectrum decision.[[2]](#id2)
