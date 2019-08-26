@@ -10,7 +10,7 @@
 **1. There is no multi-node ultra-dense network Experimental system.**
 >**Possible Reason:**
 - One USRP node costs almost $3,000，and regularly 4-8 nodes is enough to build a MIMO system.
-- Although there are enough nodes in Lund University and University of Bristol，since the nodes are fixed together, it is only suitable for the MIMO.
+- Although there are enough nodes in Lund University or University of Bristol，since the nodes are fixed together, it is only suitable for the MIMO.
 
 **2. Other researchers have only studied the number of SU nodes less than the number of channels because there are few nodes. in the future, there may be hundreds of SU nodes in one cell.**
 
