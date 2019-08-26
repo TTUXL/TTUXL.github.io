@@ -16,11 +16,14 @@
 
 ### To do list:
 
-Set up a simple ultra-dense network demonstration system.（maybe can write a paper on this demo）
+**1. Set up a simple ultra-dense network demonstration system.**（maybe can write a paper on this demo）
+
 <center>
 <img src="./Photos/edge_computing.jpg" width="700" height="450">
 <center>Figure 1. Model implementation  of Edge Computing in Software-Defined Ultra-Dense Network</center>
 </center>
+
+**2. When the number of nodes is greater than the number of channels, what is the best way to access?**
 
 ----
 #### [Manjesh Kumar Hanawal](https://scholar.google.com/citations?hl=zh-CN&user=vtVK3KUAAAAJ&view_op=list_works&sortby=pubdate)
