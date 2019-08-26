@@ -34,7 +34,7 @@ Set up a simple ultra-dense network demonstration system.（maybe can write a pa
 **USRP Model:** USRP-2922
 
 
-#### 2019_Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers[[1]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8770293)
+#### 2019_Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers[[11]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8770293)
 
 
 **The network Model:**
@@ -57,7 +57,7 @@ malicious users (MUs).</center>
 <center>Figure 3. USRP Testbed in reference [1]</center>
 </center>
 
-#### 2019_Distributed Learning and Optimal Assignment in Multiplayer Heterogeneous Networks[[2]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737653)
+#### 2019_Distributed Learning and Optimal Assignment in Multiplayer Heterogeneous Networks[[12]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737653)
 
 
 **The Network Model:**
@@ -120,3 +120,27 @@ PH.D.-[Mahmood Baraani Dastjerdi](https://scholar.google.com/citations?hl=zh-CN&
 <span id="id">
 </span>
 ### References
+
+[1]Harris, Paul, et al. "A distributed massive MIMO testbed to assess real-world performance and feasibility." 2015 IEEE 81st Vehicular Technology Conference (VTC Spring). IEEE, 2015.
+
+[2]Harris, Paul, et al. "LOS throughput measurements in real-time with a 128-antenna massive MIMO testbed." 2016 IEEE Global Communications Conference (GLOBECOM). IEEE, 2016.
+
+[3]Yang, Xi, et al. "Design and implementation of a TDD-based 128-antenna massive MIMO prototype system." China Communications 14.12 (2017): 162-187.
+
+[4]Chen, Tingjun, et al. "Demo abstract: Open-access full-duplex wireless in the ORBIT testbed." IEEE INFOCOM 2018-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS). IEEE, 2018.
+
+[5]Chen, Tingjun, et al. "Open-access full-duplex wireless in the ORBIT testbed." arXiv preprint arXiv:1801.03069 (2018).
+
+[6]Monfared, Shaghayegh, et al. "Experimental demonstration of BLE transmitter positioning based on AOA estimation." 2018 IEEE 29th Annual International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC). IEEE, 2018.
+
+[7]Jia, Wen-Kang, Yun Zheng, and Tain Sao Chang. "A fast spectrum sensing and revocation testbed based on USRP and GNU radio for cognitive radio networks." Proceedings of the 4th International Conference on Communication and Information Processing. ACM, 2018.
+
+[8]Wassie, Dereje Assefa, et al. "An agile multi-node multi-antenna wireless channel sounding system." Ieee Access 7 (2019): 17503-17516.
+
+[9] Özdemir, Özgür, et al. "Sparsity-aware joint frame synchronization and channel estimation: Algorithm and USRP implementation." MILCOM 2017-2017 IEEE Military Communications Conference (MILCOM). IEEE, 2017.
+
+[10]Kramarev, Dmitry. "Accurate symbol-level synchronization of universal software radio peripherals for physical-layer network coding applications." MILCOM 2017-2017 IEEE Military Communications Conference (MILCOM). IEEE, 2017.
+
+[11]Sawant, Suneet, et al. "Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers." IEEE Transactions on Mobile Computing (2019).
+
+[12]Tibrewal, Harshvardhan, et al. "Distributed Learning and Optimal Assignment in Multiplayer Heterogeneous Networks." IEEE INFOCOM 2019-IEEE Conference on Computer Communications. IEEE, 2019.
