@@ -4,6 +4,7 @@
 #### Current Status:
 - **More research on large-scale SDR Testbed at the physical layer.**[[1-5]](#id)(MU-MIMO, Full-Duplex Transmission)
 - **Distributed SDR testbed is mostly to do wireless sensor.**[[6-10]](#id)(Positioning, Energy Detection, Channels Sounding, Synchronization)
+
 #### Our Advantage:
 
 **1. There is no multi-node ultra-dense network Experimental system.**
@@ -24,17 +25,20 @@ Set up a simple ultra-dense network demonstration system.（maybe can write a pa
 ----
 #### [Manjesh Kumar Hanawal](https://scholar.google.com/citations?hl=zh-CN&user=vtVK3KUAAAAJ&view_op=list_works&sortby=pubdate)
 
-**Keywords:** <font color=#DC143C>*Opportunistic Spectrum Access*, *Multi-Player Bandit*, *Musical Chair*,</font>
+**Keywords:** *Opportunistic Spectrum Access*, *Multi-Player Bandit*, *Musical Chair*
+
 **Software:** Labview
+
 **Modulation:** OFDM
+
 **USRP Model:** USRP-2922
 
 
 ##### 2019_Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers[[1]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8770293)
 
-<font color=#D87093>
+
 The network Model:
-</font>
+
 <center>
 <img src="./Photos/learning_to_coordinate_presence_of_jammers.png" width="700" height="300">
 <center>Figure 2. (a) The network Model, and (b) Status of frequency
@@ -44,9 +48,9 @@ events.
 malicious users (MUs).</center>
 </center>
 
-<font color=#D87093>
+
 USRP Testbed：
-</font>
+
 
 <center>
 <img src="./Photos/DA_OSA_CRN.png" width="400" height="200">
@@ -55,17 +59,17 @@ USRP Testbed：
 
 ##### 2019_Distributed Learning and Optimal Assignment in Multiplayer Heterogeneous Networks[[2]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737653)
 
-<font color=#D87093>
+
 The Network Model:
-</font>
+
 <center>
 <img src="./Photos/Distributed_Learning_and_Optimal_Assignment_in_Multiplayer_Heterogeneous_Networks.jpg" width="500" height="250">
 <center>Figure 4.  A network with 2 users, 3 channels and rate matrix M</center>
 </center>
 
-<font color=#D87093>
+
 USRP Testbed：
-</font>
+
 <center>
 <img src="./Photos/DA_DSA_CRN.png" width="500" height="200">
 <center>Figure 5. USRP Testbed in reference [2]</center>
@@ -102,5 +106,5 @@ PH.D.-[Mahmood Baraani Dastjerdi](https://scholar.google.com/citations?hl=zh-CN&
 • Backhaul resource allocation
 • Allocation of storage and computing resources in the cloud
 
-<a href=”#id”>
+
 ### References
