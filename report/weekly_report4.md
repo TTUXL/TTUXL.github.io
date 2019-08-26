@@ -11,6 +11,9 @@
 >**Possible Reason:**
 - One USRP node costs almost $3,000，and regularly 4-8 nodes is enough to build a MIMO system.
 - Although there are enough nodes in Lund University or University of Bristol，since the nodes are fixed together, it is only suitable for the MIMO.
+<center>
+<img src="./Photos/bristol_university_massive_mimo.png" width="200" height="150"><img src="./Photos/Lund_univesity_massive_mimo.png" width="200" height="150">
+</center>
 
 **2. Other researchers have only studied the number of SU nodes less than the number of channels because there are few nodes. in the future, there may be hundreds of SU nodes in one cell.**
 
