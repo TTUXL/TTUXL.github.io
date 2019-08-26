@@ -77,18 +77,23 @@ malicious users (MUs).</center>
 ---
 ### Ohter Researcher
 [Dereje Assefa Wassie](https://scholar.google.com/citations?hl=zhCN&user=2pB2I2EAAAAJ&view_op=list_works&sortby=pubdate), Aalborg University, **Keywords:** Full-Duplex, Interference Suppression, Channel Sounding, Distributed Synchronization
+
 [Adrian Kliks](https://scholar.google.com/citations?hl=zh-CN&user=52l_IewAAAAJ&view_op=list_works&sortby=pubdate), Poznan University of Technology, **Keywords:** Opportunistic Spectrum Access, Brain-Inspired, Database, DVB, HetNets,
 
 [Kae Won Choi](https://ciot.skku.edu/), Seoul National University of Science and Technology, **Keywords:** IoT, Wireless Power Transfer,
 
 **Rice University**
 Adviser-[Lin Zhong](https://scholar.google.com/citations?hl=zh-CN&user=hJPN-G8AAAAJ&view_op=list_works&sortby=pubdate), **Keywords:** MU-MIMO, Channel Estimation, Full-Duplex Transmission
+
 Post-doctoral-[Rahman Doost-Mohammady](https://scholar.google.com/citations?hl=zh-CN&user=kuJfCcsAAAAJ),
+
 Ph.D.-[Clayton Shepard](https://scholar.google.com/citations?hl=zh-CN&user=uQXZx1gAAAAJ),
 
 **Columbia University(ORBIT)**
 Adviser-[Harish Krishnaswamy](http://cosmiccolumbia.com/), **Keywords:** millimetre wave circulators, CMOS integrated circuits, interference suppression
+
 Ph.D.-[Tingjun Chen](https://scholar.google.com/citations?hl=zh-CN&user=RPmhP24AAAAJ)
+
 PH.D.-[Mahmood Baraani Dastjerdi](https://scholar.google.com/citations?hl=zh-CN&user=Lz1eKC8AAAAJ)
 
 ---
@@ -100,9 +105,13 @@ PH.D.-[Mahmood Baraani Dastjerdi](https://scholar.google.com/citations?hl=zh-CN&
 
 ##### Resource management in the context of wireless IoT may include several aspects[1](Game Theoretic Mechanisms for Resource Management in Massive Wireless IoT Systems)
 • Spectrum allocation
+
 • Power control
+
 • Interference management
+
 • Backhaul resource allocation
+
 • Allocation of storage and computing resources in the cloud
 
 
