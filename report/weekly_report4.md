@@ -1,11 +1,11 @@
 
 ## The purpose of establishing USRP testbed is to validate new theories and protocols in a real-world environment.
 ----
-#### Current Status:
+### Current Status:
 - **More research on large-scale SDR Testbed at the physical layer.**[[1-5]](#id)(MU-MIMO, Full-Duplex Transmission)
 - **Distributed SDR testbed is mostly to do wireless sensor.**[[6-10]](#id)(Positioning, Energy Detection, Channels Sounding, Synchronization)
 
-#### Our Advantage:
+### Our Advantage:
 
 **1. There is no multi-node ultra-dense network Experimental system.**
 >**Possible Reason:**
@@ -14,7 +14,7 @@
 
 **2. Other researchers have only studied the number of SU nodes less than the number of channels because there are few nodes. in the future, there may be hundreds of SU nodes in one cell.**
 
-#### To do list:
+### To do list:
 
 Set up a simple ultra-dense network demonstration system.（maybe can write a paper on this demo）
 <center>
@@ -34,10 +34,10 @@ Set up a simple ultra-dense network demonstration system.（maybe can write a pa
 **USRP Model:** USRP-2922
 
 
-##### 2019_Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers[[1]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8770293)
+#### 2019_Learning to Coordinate in a Decentralized Cognitive Radio Network in Presence of Jammers[[1]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8770293)
 
 
-The network Model:
+**The network Model:**
 
 <center>
 <img src="./Photos/learning_to_coordinate_presence_of_jammers.png" width="700" height="300">
@@ -49,7 +49,7 @@ malicious users (MUs).</center>
 </center>
 
 
-USRP Testbed：
+**USRP Testbed：**
 
 
 <center>
@@ -57,18 +57,17 @@ USRP Testbed：
 <center>Figure 3. USRP Testbed in reference [1]</center>
 </center>
 
-##### 2019_Distributed Learning and Optimal Assignment in Multiplayer Heterogeneous Networks[[2]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737653)
+#### 2019_Distributed Learning and Optimal Assignment in Multiplayer Heterogeneous Networks[[2]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737653)
 
 
-The Network Model:
+**The Network Model:**
 
 <center>
 <img src="./Photos/Distributed_Learning_and_Optimal_Assignment_in_Multiplayer_Heterogeneous_Networks.jpg" width="500" height="250">
 <center>Figure 4.  A network with 2 users, 3 channels and rate matrix M</center>
 </center>
 
-
-USRP Testbed：
+**USRP Testbed：**
 
 <center>
 <img src="./Photos/DA_DSA_CRN.png" width="500" height="200">
