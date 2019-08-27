@@ -29,6 +29,11 @@
 **2. When the number of nodes is greater than the number of channels, what is the best way to access?**
 
 ----
+<center>
+<img src="./Photos/Multi-Player_Bandits_and_Dynamic_Spectrum_Access.png" width="800" height="200">
+<center>Figure 2. Algorithmic timeline of solving MPB problem in dynamic spectrum access</center>
+</center>
+
 #### [Manjesh Kumar Hanawal](https://scholar.google.com/citations?hl=zh-CN&user=vtVK3KUAAAAJ&view_op=list_works&sortby=pubdate)
 
 **Keywords:** *Opportunistic Spectrum Access*, *Multi-Player Bandit*, *Musical Chair*
@@ -47,7 +52,7 @@
 
 <center>
 <img src="./Photos/learning_to_coordinate_presence_of_jammers.png" width="700" height="300">
-<center>Figure 2. (a) The network Model, and (b) Status of frequency
+<center>Figure 3. (a) The network Model, and (b) Status of frequency
 bands at different time instant along with various collision
 events.
 
@@ -60,7 +65,7 @@ malicious users (MUs).</center>
 
 <center>
 <img src="./Photos/DA_OSA_CRN.png" width="400" height="200">
-<center>Figure 3. USRP Testbed in reference [1]</center>
+<center>Figure 4. USRP Testbed in reference [1]</center>
 </center>
 
 #### 2019_Distributed Learning and Optimal Assignment in Multiplayer Heterogeneous Networks[[12]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8737653)
@@ -70,14 +75,14 @@ malicious users (MUs).</center>
 
 <center>
 <img src="./Photos/Distributed_Learning_and_Optimal_Assignment_in_Multiplayer_Heterogeneous_Networks.jpg" width="500" height="250">
-<center>Figure 4.  A network with 2 users, 3 channels and rate matrix M</center>
+<center>Figure 5.  A network with 2 users, 3 channels and rate matrix M</center>
 </center>
 
 **USRP Testbed：**
 
 <center>
 <img src="./Photos/DA_DSA_CRN.png" width="500" height="200">
-<center>Figure 5. USRP Testbed in reference [2]</center>
+<center>Figure 6. USRP Testbed in reference [2]</center>
 </center>
 
 ---
