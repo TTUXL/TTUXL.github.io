@@ -70,6 +70,6 @@ As an important branch of the Internet of Things, the Internet of Vehicles is po
  7. **Signal to Noise Ratio (SNR): SNR** The ratio of signal power to the noise power,
 
  <center>
- <img src="./Photos/Handover_Decision_Schemes.png" width="650" height="700">
+ <img src="./Photos/Handover_Decision_Schemes.png" width="1250" height="700">
  <center>Figure 2. Research Direction of Handover Decisions </center>
  </center>
