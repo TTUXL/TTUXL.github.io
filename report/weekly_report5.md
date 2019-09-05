@@ -68,7 +68,8 @@ As an important branch of the Internet of Things, the Internet of Vehicles is po
  6. **Bit error rate (BER):** BER is the number of received bits that have been altered due to noise and interference, divided by the total number of transferred bits during a time interval.
 
  7. **Signal to Noise Ratio (SNR): SNR** The ratio of signal power to the noise power,
+
  <center>
- <img src="./Photos/Handover_Decision_Schemes.png" width="850" height="1000">
+ <img src="./Photos/Handover_Decision_Schemes.png" width="650" height="700">
  <center>Figure 2. Research Direction of Handover Decisions </center>
  </center>
