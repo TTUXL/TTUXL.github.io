@@ -1,4 +1,4 @@
-## The Topic: Handover Management of High-Speed Mobile Users in Ultra-Density Networks
+## The Topic: Handover Management of High-Speed Mobile Users in Ultra-Dense Networks
 ----
 ### Motivation
 
