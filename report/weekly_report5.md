@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ## The topic:
 ----
 ## Introduction
@@ -9,5 +8,4 @@
 
 #### An Overview of UDN
 
-Ultra-Dense Networks can be defined as those networks where there are more cells than active users [7], [11]–[14]. In other words, $λ_b > λ_u$,where $λ_b$ is the density of access points, and $λ_u$ is the density of users. Another![](http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)})
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+Ultra-Dense Networks can be defined as those networks where there are more cells than active users [7], [11]–[14]. In other words, ![](http://latex.codecogs.com/gif.latex?\\{lambda _b} \gg {\lambda _u}),where ![](http://latex.codecogs.com/gif.latex?\\lambda_b) is the density of access points, and ![](http://latex.codecogs.com/gif.latex?\\lambda_u) is the density of users. Another  
