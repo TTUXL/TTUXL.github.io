@@ -1,11 +1,16 @@
-## The Topic:
+## The Topic: Handover Management of High-Speed Mobile Users in Ultra-Density Networks
 ----
-### An Overview of UDN
+### Motivation
+
+As an important branch of the Internet of Things, the Internet of Vehicles is popular among users because it can relieve traffic pressure and help people to travel safely and conveniently. In the face of current heterogeneous high-density networks, vehicles will generate a large number of Handover decision during high-speed driving. To ensure the stability of the connection and low latency, it is necessary to find the best solution.The results of this research will be applied to UAV, high-speed trains etc.
+
+----
+### An Introduction of UDN
 **A. Definitions of UDN**
 
-Ultra-Dense Networks can be defined as those networks where there are more cells than active users [7], [11]–[14]. In other words, ![](http://latex.codecogs.com/gif.latex?{\lambda _b} \gg {\lambda _u}), where ![](http://latex.codecogs.com/gif.latex?\lambda_b) is the density of access points, and ![](http://latex.codecogs.com/gif.latex?\lambda_u) is the density of users.  
+>Ultra-Dense Networks can be defined as those networks where there are more cells than active users [7], [11]–[14]. In other words, ![](http://latex.codecogs.com/gif.latex?{\lambda _b} \gg {\lambda _u}), where ![](http://latex.codecogs.com/gif.latex?\lambda_b) is the density of access points, and ![](http://latex.codecogs.com/gif.latex?\lambda_u) is the density of users.  
 
-Another definition of UDN was solely given in terms of the cell density, irrespective of the users density. Ding et al. [15] provided a quantitative measure of the density at which a network can be considered ultra-dense (≥ 103 cells/km2).
+>Another definition of UDN was solely given in terms of the cell density, irrespective of the users density. Ding et al. [15] provided a quantitative measure of the density at which a network can be considered ultra-dense (≥ 103 cells/km2).
 
 **B. Features of UDN**
 1. A small coverage area, many small cells would be in a very close distance to the users.
@@ -34,3 +39,36 @@ Another definition of UDN was solely given in terms of the cell density, irrespe
 6. **Energy Efficiency:** The ratio of the network through- put or the ASE to the power consumption per unit area.
 
 7. **Fairness:** The fairness index measures how likely a given resource allocation scheme is fair.
+
+
+<center>
+<img src="./Photos/Ultra-Dense_Networks.png" width="850" height="1000">
+<center>Figure 1. Research Direction of Ultra-Dense networks </center>
+</center>
+
+---
+
+### An Introduction of Vertical Handover Decisions
+**A. Definitions**
+ > *Horizontal Handover:* The mobile node (MN) moves between two cells using the same technology.
+
+ > *Vertical Handover:* A handover between two different access technologies.
+
+ **B. Handover Decision Metrics**
+ 1. **Received Signal Strength Indicator(RSSI):** RSSI provides information about the power level being received by the antenna.
+
+ 2. **Network Load:** bandwidth
+
+ 3. **Handover Delay/Latency:** Users to make a new association with the network and this procedure might take delays
+
+ 4. **Handover failure probability:** It occurs when a handover is initialized by the network ’A’ but the target network ’B’ does not accommodate the handover request due to deficiency of resources.
+
+ 5. **Throughput:** It refers to the data rate provided to the MNs in a network. Mobile
+
+ 6. **Bit error rate (BER):** BER is the number of received bits that have been altered due to noise and interference, divided by the total number of transferred bits during a time interval.
+
+ 7. **Signal to Noise Ratio (SNR): SNR** The ratio of signal power to the noise power,
+ <center>
+ <img src="./Photos/Handover_Decision_Schemes.png" width="850" height="1000">
+ <center>Figure 2. Research Direction of Handover Decisions </center>
+ </center>
