@@ -8,9 +8,9 @@ As an important branch of the Internet of Things, the Internet of Vehicles is po
 ### An Introduction of UDN
 **A. Definitions of UDN**
 
->Ultra-Dense Networks can be defined as those networks where there are more cells than active users [7], [11]–[14]. In other words, ![](http://latex.codecogs.com/gif.latex?{\lambda _b} \gg {\lambda _u}), where ![](http://latex.codecogs.com/gif.latex?\lambda_b) is the density of access points, and ![](http://latex.codecogs.com/gif.latex?\lambda_u) is the density of users.  
+>Ultra-Dense Networks can be defined as those networks where there are more cells than active users. In other words, ![](http://latex.codecogs.com/gif.latex?{\lambda _b} \gg {\lambda _u}), where ![](http://latex.codecogs.com/gif.latex?\lambda_b) is the density of access points, and ![](http://latex.codecogs.com/gif.latex?\lambda_u) is the density of users.  
 
->Another definition of UDN was solely given in terms of the cell density, irrespective of the users density. Ding et al. [15] provided a quantitative measure of the density at which a network can be considered ultra-dense (≥ 103 cells/km2).
+>Another definition of UDN was solely given in terms of the cell density, irrespective of the users density. Ding et al. provided a quantitative measure of the density at which a network can be considered ultra-dense (≥ 103 cells/km2).
 
 **B. Features of UDN**
 1. A small coverage area, many small cells would be in a very close distance to the users.
