@@ -14,7 +14,11 @@
 
 ---
 #### Open Research Questions
+1. We know，the global knowledge could provide enhanced information to mobile terminals(MTs) enabling dynamically optimized policies, towards achieving a local optimum in balance with the global optimum, according to an evolutionary process. but how to do?[1]-2019
 
+2. The energy efficient wireless backhauling[2]-2016
+
+3. 
 
 
 ---
@@ -39,7 +43,7 @@
   * Native support to Collaborative Radio technologies: Any BBU can talk with any other BBU within the BBU pool with very high bandwidth (10Gbit/s and above) and low latency (10us level).
   * Real-time virtualization capability based on open platform: A C-RAN BBU pool is built on open hardware, like x86/ARM CPU based servers, and interface cards that handle fiber links to RRHs and inter-connections in the pool.
 
-  >**MME**
+
 
 
 [1]:https://www.exfo.com/en/resources/glossary/baseband-unit/
