@@ -17,7 +17,7 @@
 ![](./Photos/lab_map2.png)
 ---
 #### Open Research Questions
-1. We know，the global knowledge could provide enhanced information to mobile terminals(MTs) enabling dynamically optimized policies, towards achieving a local optimum in balance with the global optimum, according to an evolutionary process. but how to do?[1]-2019
+1. We know，the global knowledge could provide enhanced information to mobile terminals(MTs) enabling dynamically optimized policies, towards achieving a local optimum in balance with the global optimum, according to an evolutionary process. but how to do? Coalitional game theory[1]-2019
 
 
 ---
