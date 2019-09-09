@@ -1,6 +1,7 @@
 ## Demonstration System of Ultra-Dense Network  Using USRP Testbed
 ---
 #### Steps of Project Implementation
+![](./Photos/LTE_classic_architecture.png)
 1.Building a simple eNB+UE network(1 to 1) based on the open source project 'OpenAirInterface' or 'srsLTE'.
 https://github.com/srsLTE/srsLTE
 
@@ -12,8 +13,8 @@ https://github.com/srsLTE/srsLTE
 ![](./Photos/2TO1.png)
 
 3.Continue to expand the network scale to achieve ultra-dense network demonstration system
-![](./Photos/LTE_classic_architecture.png)
 
+![](./Photos/lab_map2.png)
 ---
 #### Open Research Questions
 1. We know，the global knowledge could provide enhanced information to mobile terminals(MTs) enabling dynamically optimized policies, towards achieving a local optimum in balance with the global optimum, according to an evolutionary process. but how to do?[1]-2019
