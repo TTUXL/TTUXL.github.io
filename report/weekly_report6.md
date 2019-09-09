@@ -16,15 +16,15 @@
 #### Open Research Questions
 1. We know，the global knowledge could provide enhanced information to mobile terminals(MTs) enabling dynamically optimized policies, towards achieving a local optimum in balance with the global optimum, according to an evolutionary process. but how to do?[1]-2019
 
-2. The energy efficient wireless backhauling[2]-2016
+2. 
 
-3. 
+3.
 
 
 ---
 #### Definition
 
->**eNodeB:** **Evolved Node B**(abbreviated as **eNodeB** or **eNB**).eNodeB=RRU+BBU+RNC.
+>**eNodeB:** **Evolved Node B**(abbreviated as **eNodeB** or **eNB**). eNodeB=RRU+BBU+RNC.
 
 >**Remote Radio Unit(RRU):** Digital front end for base.
 
