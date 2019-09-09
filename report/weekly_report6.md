@@ -11,8 +11,11 @@
 ![](./Photos/2TO1.png)
 
 >3. Continue to expand the network scale to achieve ultra-dense network demonstration system
+
 ---
+
 #### Definition
+
 >**eNodeB:** **Evolved Node B**(abbreviated as **eNodeB** or **eNB**).eNodeB=RRU+BBU+RNC.
 
 >**Remote Radio Unit(RRU):** Digital front end for base.
@@ -26,6 +29,7 @@
  * Serving Gateway – Helps in routing data packets across the network
  * Packet Data Node Gateway – Helps in managing quality of service provided and also in deep packet inspection
  * Policy and Charging Rules Function – Helps in policy enforcement and in supporting service data flow detection
+
  >**Centralized radio access networks(C-RAN):** C-RAN architecture has the following characteristics:
   * Large scale centralized deployment: Allows many RRHs to connect to a centralized BBU pool.
   * Native support to Collaborative Radio technologies: Any BBU can talk with any other BBU within the BBU pool with very high bandwidth (10Gbit/s and above) and low latency (10us level).
