@@ -13,7 +13,11 @@
 >3. Continue to expand the network scale to achieve ultra-dense network demonstration system
 
 ---
+#### Open Research Questions
 
+
+
+---
 #### Definition
 
 >**eNodeB:** **Evolved Node B**(abbreviated as **eNodeB** or **eNB**).eNodeB=RRU+BBU+RNC.
@@ -34,6 +38,8 @@
   * Large scale centralized deployment: Allows many RRHs to connect to a centralized BBU pool.
   * Native support to Collaborative Radio technologies: Any BBU can talk with any other BBU within the BBU pool with very high bandwidth (10Gbit/s and above) and low latency (10us level).
   * Real-time virtualization capability based on open platform: A C-RAN BBU pool is built on open hardware, like x86/ARM CPU based servers, and interface cards that handle fiber links to RRHs and inter-connections in the pool.
+
+  >**MME**
 
 
 [1]:https://www.exfo.com/en/resources/glossary/baseband-unit/
