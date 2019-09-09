@@ -1,16 +1,17 @@
 ## Demonstration System of Ultra-Dense Network  Using USRP Testbed
 ---
 #### Steps of Project Implementation
->1.Building a simple eNB+UE network(1 to 1) based on the open source project 'OpenAirInterface' or 'srsLTE'.
+>* Building a simple eNB+UE network(1 to 1) based on the open source project 'OpenAirInterface' or 'srsLTE'.
+https://github.com/srsLTE/srsLTE
 
 ![](./Photos/1TO1.png)
 
 
->2.Building an eNB+eNB+UE network(2 to 1) try cell handover.
+>* Building an eNB+eNB+UE network(2 to 1) try cell handover.
 
 ![](./Photos/2TO1.png)
 
->3.Continue to expand the network scale to achieve ultra-dense network demonstration system
+>* Continue to expand the network scale to achieve ultra-dense network demonstration system
 
 ---
 #### Open Research Questions
