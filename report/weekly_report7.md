@@ -5,11 +5,15 @@
 [https://gitlab.eurecom.fr/oai/openairinterface5g/wikis/OpenAirSystemRequirements#supported-rf](https://gitlab.eurecom.fr/oai/openairinterface5g/wikis/OpenAirSystemRequirements#supported-rf)
 >**Supported RF:**
 >
->  * USRP B210 [http://www.ettus.com/product/details/UB210-KIT](http://www.ettus.com/product/details/UB210-KIT)
->  * USRP X310 [http://www.ettus.com/product/details/X310-KIT](http://www.ettus.com/product/details/X310-KIT)
->  * BladeRF [http://nuand.com/](http://nuand.com/)
->  * LimeSDR [http://limesdr.org/](http://limesdr.org/)
->  * EURECOM EXPRESSMIMO2 RF, [http://openairinterface.eurecom.fr](http://openairinterface.eurecom.fr)
+>   USRP B210 [http://www.ettus.com/product/details/UB210-KIT](http://www.ettus.com/product/details/UB210-KIT)
+>
+>   USRP X310 [http://www.ettus.com/product/details/X310-KIT](http://www.ettus.com/product/details/X310-KIT)
+>
+>   BladeRF [http://nuand.com/](http://nuand.com/)
+>
+>   LimeSDR [http://limesdr.org/](http://limesdr.org/)
+>
+>   EURECOM EXPRESSMIMO2 RF, [http://openairinterface.eurecom.fr](http://openairinterface.eurecom.fr)
 
 #### 2. srsLTE
 [https://github.com/srsLTE/srsLTE#hardware](https://github.com/srsLTE/srsLTE#hardware)
