@@ -48,9 +48,7 @@ A6. The software should run, but the reference on the N210 is not at a frequency
 
 
 
-### Reference
-[1] https://gitlab.eurecom.fr/oai/openairinterface5g/wikis/FAQ
-
-[2] https://docs.srslte.com/en/latest/srsue/source/1_ue_intro.html
-
-[3] http://www.sharetechnote.com/html/SDR_srsLTE_Api.html
+### Reference  
+[1] https://gitlab.eurecom.fr/oai/openairinterface5g/wikis/FAQ  
+[2] https://docs.srslte.com/en/latest/srsue/source/1_ue_intro.html  
+[3] http://www.sharetechnote.com/html/SDR_srsLTE_Api.html  
