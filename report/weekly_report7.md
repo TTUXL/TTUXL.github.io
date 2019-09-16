@@ -30,7 +30,10 @@
 The hardware limitation is that master clock of the N210 is fixed at 100 MHz, which is not a multiple of common LTE sample rates.
 
 Physical Layer Parameter
-![](./Photos/Physical_Layer_Parameter.png)
+<center>
+<img src="./Photos/Physical_Layer_Parameter.png" width="700" height="250">
+</center>
+
 USRP Parameter
 ![](./Photos/usrp_hardware.png)
 
