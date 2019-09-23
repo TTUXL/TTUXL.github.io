@@ -6,13 +6,13 @@ The first step of implementing a CR is to capture the relevant information about
 #### algorithms of Spectrum prediction Usage
 The traditional spectrum prediction model is as follows：
 <center>
-<img src="./Photos/Specturm_prediction_algorithms.gif" width="650" height="300">
+<img src="./Photos/Specturm_prediction_algorithms.gif" width="750" height="500">
 <center>Figure 1. Handover Management of Vehicular</center>
 </center>
 
 #### Game theory model in Cognitive radio Networks
 <center>
-<img src="./Photos/gt_model_in_CRN.gif" width="450" height="400">
+<img src="./Photos/gt_model_in_CRN.gif" width="650" height="600">
 <center>Figure 1. Handover Management of Vehicular</center>
 </center>
 
