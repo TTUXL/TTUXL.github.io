@@ -4,10 +4,10 @@
 The first step of implementing a CR is to capture the relevant information about the spectral evolution. spectrum sensing determines the spectrum state in a passive manner using various signal detection methods. By contrast, spectrum inference/prediction is a promising technique of inferring the occupied/free state of radio spectrum from already known/measured spectrum occupancy statistics by effectively exploiting the inherent correlations among them.
 
 ### algorithms of Spectrum prediction Usage
-The traditional spectrum prediction model is as follows：
+The traditional spectrum prediction algorithms is as follows：
 <center>
-<img src="./Photos/Specturm_prediction_algorithms.gif" width="750" height="500">
-<center>Figure 1. Handover Management of Vehicular</center>
+<img src="./Photos/Specturm_prediction_algorithms.gif" width="850" height="500">
+<center>Figure 1. Taxonomy of spectrum prediction algorithms</center>
 </center>
 
 ### Game theory model in Cognitive radio Networks
