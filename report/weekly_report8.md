@@ -13,7 +13,7 @@ The traditional spectrum prediction algorithms is as follows：
 ### Game theory model in Cognitive radio Networks
 <center>
 <img src="./Photos/gt_model_in_CRN.gif" width="650" height="600">
-<center>Figure 2. Social Game Model in Cognitive Radio Networks[2]</center>
+<center>Figure 2. Social Game Model in Cognitive Radio Networks[2](2)</center>
 </center>
 
 ### A game in which cooperative games and non-cooperative games coexist（hawk-dove game）
@@ -29,3 +29,4 @@ The traditional spectrum prediction algorithms is as follows：
 
 
 [1]:https://ieeexplore.ieee.org/document/8031332
+[2]:https://ieeexplore.ieee.org/document/7795166
