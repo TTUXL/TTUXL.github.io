@@ -18,7 +18,7 @@ The traditional spectrum prediction algorithms is as follows：
 
 ---
 
-### Prediction based on node rational behavior（Perfect Bayesian equilibrium）
+### Prediction based on node rationality behavior（Perfect Bayesian equilibrium）
 >Rationality[[3]](http://www.gametheory.net/dictionary/Rationality.html)：One of the most common assumptions made in game theory (along with common knowledge of rationality). In its mildest form, rationality implies that every player is motivated by maximizing his own payoff. In a stricter sense, it implies that every player always maximizes his utility, thus being able to perfectly calculate the probabilistic result of every action.
 
 **Assuming nodes are rational, node behavior is predictable.**  
