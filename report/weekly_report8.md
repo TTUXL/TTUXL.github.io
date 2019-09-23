@@ -10,7 +10,7 @@ The traditional spectrum prediction algorithms is as follows：
 <center>Figure 1. Taxonomy of spectrum prediction algorithms<a href="https://ieeexplore.ieee.org/document/8031332">[1]</a></center>
 </center>
 
-### Game theory model in Cognitive radio Networks
+### Game Theory Model in Cognitive Radio Networks
 <center>
 <img src="./Photos/gt_model_in_CRN.gif" width="650" height="600">
 <center>Figure 2. Social Game Model in Cognitive Radio Networks<a href="https://ieeexplore.ieee.org/document/7795166">[2]</a></center>
@@ -18,20 +18,20 @@ The traditional spectrum prediction algorithms is as follows：
 
 ---
 
-### Prediction based on node rationality behavior（Perfect Bayesian equilibrium）
+### Prediction Based on Node Rationality Behavior（Perfect Bayesian equilibrium）
 >Rationality[[3]](http://www.gametheory.net/dictionary/Rationality.html)：One of the most common assumptions made in game theory (along with common knowledge of rationality). In its mildest form, rationality implies that every player is motivated by maximizing his own payoff. In a stricter sense, it implies that every player always maximizes his utility, thus being able to perfectly calculate the probabilistic result of every action.
 
 **Assuming nodes are rational, node behavior is predictable.**  
 **This prediction is necessarily better than the results based on statistics.**
 
 ---
-### Estimate strategy profile based on statistical information
+### Estimate Strategy Profile Based on Statistical Information
 >Trembling hand perfect equilibrium[[4]](https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium)：This is the "trembling hands" of the players; they sometimes play a different strategy, other than the one they intended to play. Then define a strategy set S (in a base game) as being trembling hand perfect if there is a sequence of perturbed games that converge to the base game in which there is a series of Nash equilibria that converge to S.
 1. Assume each participant's strategy space is a subset of European space.
 2. kakutani fixed point theorem:The process of iterating a function produces a fixed point.
 3. result：Convergence to the Markov matrix
 
-### A game in which cooperative games and non-cooperative games coexist（hawk-dove game）
+### A Game in which Cooperative Games and Non-cooperative Games Coexist（hawk-dove game）
 >**HAWK:** very aggressive, always fights for some resource. (Greedy algorithm)  
 >1. Simple algorithm  
 >2. Real-time   
