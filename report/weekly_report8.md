@@ -16,14 +16,15 @@ The traditional spectrum prediction algorithms is as follows：
 <center>Figure 2. Social Game Model in Cognitive Radio Networks<a href="https://ieeexplore.ieee.org/document/7795166">[2]</a></center>
 </center>
 
-### Prediction based on node rational behavior
+### Prediction based on node rational behavior（Perfect Bayesian equilibrium）
 Rationality：One of the most common assumptions made in game theory (along with common knowledge of rationality). In its mildest form, rationality implies that every player is motivated by maximizing his own payoff. In a stricter sense, it implies that every player always maximizes his utility, thus being able to perfectly calculate the probabilistic result of every action.[[3]](http://www.gametheory.net/dictionary/Rationality.html)
 
+**Assuming nodes are rational, node behavior is predictable.**  
+**This prediction is necessarily better than the results based on statistics.**
 
 
-### open Issues
-1 据我们所知，很少有研究集中在频谱推断的理论性能分析上。正如香农容量给出了各种调制和编码方案的上限一样，各种频谱推断技术也应该有基本的性能极限。  当前人们使用信息商的方法判断预测的性能极限，也有人用张量，那我就更进一步
-我这里给出基于随机矩阵理论的检测方法，优点1，天生处理矩阵。 2 对相关性敏感，
+### Estimate strategy profile based on statistical information
+
 
 
 2 Spectrum demand forecast based on road information
