@@ -25,7 +25,7 @@ The traditional spectrum prediction algorithms is as follows：
 **This prediction is necessarily better than the results based on statistics.**
 
 ---
-### Estimate Strategy Profile Based on Statistical Information
+### Estimate Strategy Combination
 >Trembling hand perfect equilibrium[[4]](https://en.wikipedia.org/wiki/Trembling_hand_perfect_equilibrium)：This is the "trembling hands" of the players; they sometimes play a different strategy, other than the one they intended to play. Then define a strategy set S (in a base game) as being trembling hand perfect if there is a sequence of perturbed games that converge to the base game in which there is a series of Nash equilibria that converge to S.
 1. Assume each participant's strategy space is a subset of European space.
 2. kakutani fixed point theorem:The process of iterating a function produces a fixed point.
