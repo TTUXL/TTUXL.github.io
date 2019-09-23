@@ -7,7 +7,7 @@ The first step of implementing a CR is to capture the relevant information about
 The traditional spectrum prediction algorithms is as follows：
 <center>
 <img src="./Photos/Specturm_prediction_algorithms.gif" width="850" height="500">
-<center>Figure 1. Taxonomy of spectrum prediction algorithms[1](https://ieeexplore.ieee.org/document/8031332)</center>
+<center>Figure 1. Taxonomy of spectrum prediction algorithms[1][1]</center>
 </center>
 
 ### Game theory model in Cognitive radio Networks
