@@ -7,16 +7,17 @@ The first step of implementing a CR is to capture the relevant information about
 The traditional spectrum prediction algorithms is as follows：
 <center>
 <img src="./Photos/Specturm_prediction_algorithms.gif" width="850" height="500">
-<center>Figure 1. Taxonomy of spectrum prediction algorithms[1][1]</center>
+<center>Figure 1. Taxonomy of spectrum prediction algorithms<a href="https://ieeexplore.ieee.org/document/8031332">[1]</a></center>
 </center>
 
 ### Game theory model in Cognitive radio Networks
 <center>
 <img src="./Photos/gt_model_in_CRN.gif" width="650" height="600">
-<center>Figure 2. Social Game Model in Cognitive Radio Networks[2](2)</center>
+<center>Figure 2. Social Game Model in Cognitive Radio Networks<a href="https://ieeexplore.ieee.org/document/7795166">[2]</a></center>
 </center>
 
-### A game in which cooperative games and non-cooperative games coexist（hawk-dove game）
+### Prediction based on node rational behavior
+Rationality：One of the most common assumptions made in game theory (along with common knowledge of rationality). In its mildest form, rationality implies that every player is motivated by maximizing his own payoff. In a stricter sense, it implies that every player always maximizes his utility, thus being able to perfectly calculate the probabilistic result of every action.[[3]](http://www.gametheory.net/dictionary/Rationality.html)
 
 
 
@@ -26,7 +27,9 @@ The traditional spectrum prediction algorithms is as follows：
 
 
 2 Spectrum demand forecast based on road information
+### A game in which cooperative games and non-cooperative games coexist（hawk-dove game）
 
-
-[1]:https://ieeexplore.ieee.org/document/8031332
-[2]:https://ieeexplore.ieee.org/document/7795166
+### Reference
+[1] Ding, Guoru, et al. "Spectrum inference in cognitive radio networks: Algorithms and applications." IEEE Communications Surveys & Tutorials 20.1 (2017): 150-182.  
+[2] Huang, Zhaolong, et al. "Social-aware resource allocation for content dissemination networks: An evolutionary game approach." IEEE Access 5 (2016): 9568-9579.
+[3] http://www.gametheory.net/dictionary/Rationality.html
