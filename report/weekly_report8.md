@@ -7,16 +7,17 @@ The first step of implementing a CR is to capture the relevant information about
 The traditional spectrum prediction algorithms is as follows：
 <center>
 <img src="./Photos/Specturm_prediction_algorithms.gif" width="850" height="500">
-<center>Figure 1. Taxonomy of spectrum prediction algorithms</center>
+<center>Figure 1. Taxonomy of spectrum prediction algorithms[1](https://ieeexplore.ieee.org/document/8031332)</center>
 </center>
 
 ### Game theory model in Cognitive radio Networks
 <center>
 <img src="./Photos/gt_model_in_CRN.gif" width="650" height="600">
-<center>Figure 1. Handover Management of Vehicular</center>
+<center>Figure 2. Social Game Model in Cognitive Radio Networks[2]</center>
 </center>
 
-### 非合作博弈与合作博弈共存的竞争，（hawk-dove game）
+### A game in which cooperative games and non-cooperative games coexist（hawk-dove game）
+
 
 
 ### open Issues
@@ -25,3 +26,6 @@ The traditional spectrum prediction algorithms is as follows：
 
 
 2 Spectrum demand forecast based on road information
+
+
+[1]:https://ieeexplore.ieee.org/document/8031332
