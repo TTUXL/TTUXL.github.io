@@ -35,3 +35,45 @@ and
  To realize mmWave massive-MIMO-based backhaul, the cost of conventional high-speed ADC with high resolution can be unaffordable, so low-resolution ADC with low hardware cost is appealing. So far, l-bit ADC-based signal detection and precoding/com-bining have been investigated for mmWave massive MIMO. if low-resolution ADC is adopted, constellation mapping, channel estimation, training signals, and so on may need to be reconsidered.
 
 ---
+
+#### Terahertz-Enabled Wireless System for Beyond-5G Ultra-Fast Networks: A Brief Survey, IEEE Network, 2019[[4]](https://ieeexplore.ieee.org/abstract/document/8782882)
+
+This article provides a brief survey of the challenges and opportunities of THz band operation in wireless communication, along with some potential applications and future research directions.
+
+**Beyond-5G (B5G) system**: With 5G Phase 1 finalized and 5G Phase 2 recently defined by 3GPP, B5G is expected to further enhance network performance.
+
+##### There are three major ways to obtain several orders of increase in throughput gain:
+  1. Extreme densification of the communication infrastructure.  
+  2. Large quantities of newly available spectrum.  
+  3. Massive antenna systems, allowing a throughput gain in the spatial dimension.
+
+##### THz spectrum is different from mmWave spectrum
+1.  In fact, in THz communications, tera-bit-per-second links could be realized with less spectral efficiency (SE) than at mmWave frequencies.
+2.  In addition, THz frequencies enable more directionality than mmWave due to reduced antenna aperture.
+3. The shorter wavelength of THz when compared to mmWave makes it more directional and less prone to free-space diffraction.
+4. distances between the transmitter and receiver in THz will be much shorter than in mmWave. This will result in the reduction of power consumption.
+
+##### The primary technical objectives for THz communication for B5G ultra-fast networks
+* Ultra-high data rates per device (from multiple tens of gigabits to terabits per second) with sufficient transmission distance in complex network environments  
+* Ultra-high data rates per area and ultra-massive amounts of connected devices  
+* Ultra-reliable connectivity to support various critical applications in mobility environments  
+*  Very high energy efficiency (EE) to support ultra-high rates for various mobile terminals and networks  
+
+##### Standardization of THz Communication
+Standardization of THz wireless communications started in early **2008** when IEEE established an Interest Group on THz communications (IGTHz).Subsequently, after a couple of years of inactivity, the **IEEE 802.15.3d** (100 Gb/s Wireless) Task Group was established in order to facilitate the standardization of THz communications.  The frequency range in focus has been mostly limited to **252–325 GHz**, while different types of communications (backhaul/fronthaul) for 5G.
+
+##### Emerging Applications of THz Band Communication
+automotive, indoor networking, aerospace, healthcare, intrinsically safe environments, location-based services, defense, underwater communication, and so on.  
+**Vehicular Communications**
+* **Vehicle-to-vehicle (V2V)** communications, where neighboring/cooperating vehicles share perceptual data with each other using THz bands for high-rate and low-latency communication.Each vehicle can use the shared data to extend its perception range, which enables it to reveal hidden objects ahead or in its blind spots and thereby avoid collision with other vehicles.   
+
+* **ehicle-to-infrastructure (V2I)** communications in which the infrastructure or *roadside units (RSUs)* gather sensing data about the vehicles and the surrounding traffic. The sensed data can be used to provide realtime maps of the environment. These maps can be used by the transportation control system for congestion avoidance.
+
+* **In-car communications** where THz bands can provide ultra-high-rate and short-range in-car communication for autonomous driving systems, as well as device-to-device (D2D)-like services for the passengers of the vehicles.
+
+**THz Wireless Fronthaul for a C-RAN-Based System**  
+The THz fronthaul is compatible with the ultra-dense deployment of small cells because the fronthaul link can be rather short, so as to mitigate the high path loss of THz signals and guarantee connectivity via line-of-sight (LoS) links.
+<center>
+<img src="./Photos/THz_fronthaul_c_ran.gif" width="850" height="300">
+<center>Figure 1. THz band wireless fronthaul for C-RAN.<a href="https://ieeexplore.ieee.org/abstract/document/8782882">[4]</a></center>
+</center>
