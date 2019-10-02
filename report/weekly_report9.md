@@ -36,7 +36,7 @@ and
 
 ---
 
-#### Terahertz-Enabled Wireless System for Beyond-5G Ultra-Fast Networks: A Brief Survey, IEEE Network, 2019[[4]](https://ieeexplore.ieee.org/abstract/document/8782882)
+### Terahertz-Enabled Wireless System for Beyond-5G Ultra-Fast Networks: A Brief Survey, IEEE Network, 2019[[4]](https://ieeexplore.ieee.org/abstract/document/8782882)
 
 This article provides a brief survey of the challenges and opportunities of THz band operation in wireless communication, along with some potential applications and future research directions.
 
