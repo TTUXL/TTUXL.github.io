@@ -14,5 +14,4 @@ In this article, The author discusses the feasibility of mmWave massive-MIMO-bas
 
 #### MmWave Channels with Spatial/Angular Sparsity
 MmWave massive MIMO channels exhibit the obviously spatial/angular sparsity due to its high path loss for non-line-of-sight (NLOS) signals. If we consider the widely used uniform linear array (ULA), the point-to-point mmWave massive MIMO channel can be modeled as[[3]](https://ieeexplore.ieee.org/abstract/document/6847111)(Cited by 1091):  
-
-<img src="http://latex.codecogs.com/gif.latex? \\H = \sqrt {\frac{{{N_T}{N_R}}}{\rho }}\sum\limits_{l = 1}^L{{\alpha_l}{\mathbf{a}_T}({\theta_l})\mathbf{b}_R^*({\varphi_l})}" />
+<img src="http://latex.codecogs.com/gif.latex?H = \sqrt {\frac{{{N_T}{N_R}}}{\rho }}\sum\limits_{l = 1}^L{{\alpha_l}{\mathbf{a}_T}({\theta_l})\mathbf{b}_R^*({\varphi_l})} " />
