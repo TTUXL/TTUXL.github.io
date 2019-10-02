@@ -109,7 +109,7 @@ p^{\textrm {cov}}\left(\lambda,\gamma \right)=\textrm {Pr}\left[\mathrm{SINR}>\g
 " />  
 where the SINR is computed by
 
-<img src="https://latex.codecogs.com/gif.latex?\mathrm{SINR}=\frac{P\zeta&space;(r)h}{I_{\textrm&space;{agg}}&plus;P_{{\rm&space;{N}}}}" title="\mathrm{SINR}=\frac{P\zeta (r)h}{I_{\textrm {agg}}+P_{{\rm {N}}}}" />
+<img src="https://latex.codecogs.com/gif.latex?\mathrm{SINR}=\frac{P\zeta (r)h}{I_{\textrm {agg}}+P_{{\rm {N}}}}" title="\mathrm{SINR}=\frac{P\zeta (r)h}{I_{\textrm {agg}}+P_{{\rm {N}}}}" />
 
 Here, h is the channel gain, which is modeled as an exponentially distributed random variable (RV) with a mean of one (due to our consideration of Rayleigh fading mentioned above), P and PN are the BS transmission power and the additive white Gaussian noise (AWGN) power at each UE, respectively, and Iagg is the cumulative interference given by
 
