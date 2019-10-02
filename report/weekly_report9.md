@@ -42,27 +42,27 @@ This article provides a brief survey of the challenges and opportunities of THz 
 
 **Beyond-5G (B5G) system**: With 5G Phase 1 finalized and 5G Phase 2 recently defined by 3GPP, B5G is expected to further enhance network performance.
 
-##### There are three major ways to obtain several orders of increase in throughput gain:
+#### There are three major ways to obtain several orders of increase in throughput gain:
   1. Extreme densification of the communication infrastructure.  
   2. Large quantities of newly available spectrum.  
   3. Massive antenna systems, allowing a throughput gain in the spatial dimension.
 
-##### THz spectrum is different from mmWave spectrum
+#### THz spectrum is different from mmWave spectrum
 1.  In fact, in THz communications, tera-bit-per-second links could be realized with less spectral efficiency (SE) than at mmWave frequencies.
 2.  In addition, THz frequencies enable more directionality than mmWave due to reduced antenna aperture.
 3. The shorter wavelength of THz when compared to mmWave makes it more directional and less prone to free-space diffraction.
 4. distances between the transmitter and receiver in THz will be much shorter than in mmWave. This will result in the reduction of power consumption.
 
-##### The primary technical objectives for THz communication for B5G ultra-fast networks
+#### The primary technical objectives for THz communication for B5G ultra-fast networks
 * Ultra-high data rates per device (from multiple tens of gigabits to terabits per second) with sufficient transmission distance in complex network environments  
 * Ultra-high data rates per area and ultra-massive amounts of connected devices  
 * Ultra-reliable connectivity to support various critical applications in mobility environments  
 *  Very high energy efficiency (EE) to support ultra-high rates for various mobile terminals and networks  
 
-##### Standardization of THz Communication
+#### Standardization of THz Communication
 Standardization of THz wireless communications started in early **2008** when IEEE established an Interest Group on THz communications (IGTHz).Subsequently, after a couple of years of inactivity, the **IEEE 802.15.3d** (100 Gb/s Wireless) Task Group was established in order to facilitate the standardization of THz communications.  The frequency range in focus has been mostly limited to **252–325 GHz**, while different types of communications (backhaul/fronthaul) for 5G.
 
-##### Emerging Applications of THz Band Communication
+#### Emerging Applications of THz Band Communication
 automotive, indoor networking, aerospace, healthcare, intrinsically safe environments, location-based services, defense, underwater communication, and so on.  
 **Vehicular Communications**
 * **Vehicle-to-vehicle (V2V)** communications, where neighboring/cooperating vehicles share perceptual data with each other using THz bands for high-rate and low-latency communication.Each vehicle can use the shared data to extend its perception range, which enables it to reveal hidden objects ahead or in its blind spots and thereby avoid collision with other vehicles.   
@@ -88,7 +88,7 @@ Since the future ultra-fast B5G THz network will be modeled in ultra-dense setup
 * **Redesign of MAC and Upper Layers for Ubiquitous Terabit-Per-Second Access**  
 The high-frequency band also leads to high path loss and weak diffusion signals. Highly directional signals are easily blocked and hard for mobility applications. High path loss leads to the very limited transmission distance. Thus, new error control mechanisms should be proposed, and new networking strategies should be developed to improve the coverage and support the seamless connection.  
 
-#### Performance Impact of Idle Mode Capability on Dense Small Cell Networks,  IEEE Transactions on Vehicular Technology, 2018 [[5]](https://ieeexplore.ieee.org/document/8046057)
+### Performance Impact of Idle Mode Capability on Dense Small Cell Networks,  IEEE Transactions on Vehicular Technology, 2018 [[5]](https://ieeexplore.ieee.org/document/8046057)
 
  the authors of [7] found that the coverage probability performance will start to decrease when the BS density is sufficiently large. The intuition behind this result is that as the BS density becomes larger than a threshold, the aggregate interference power increases faster than the signal power due to the transition of a large number of interference paths from NLoS to LoS.
 
