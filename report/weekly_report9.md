@@ -48,8 +48,8 @@ This article provides a brief survey of the challenges and opportunities of THz 
   3. Massive antenna systems, allowing a throughput gain in the spatial dimension.
 
 #### THz spectrum is different from mmWave spectrum
-1.  In fact, in THz communications, tera-bit-per-second links could be realized with less spectral efficiency (SE) than at mmWave frequencies.
-2.  In addition, THz frequencies enable more directionality than mmWave due to reduced antenna aperture.
+1. In THz communications, tera-bit-per-second links could be realized with less spectral efficiency (SE) than at mmWave frequencies.
+2. THz frequencies enable more directionality than mmWave due to reduced antenna aperture.
 3. The shorter wavelength of THz when compared to mmWave makes it more directional and less prone to free-space diffraction.
 4. distances between the transmitter and receiver in THz will be much shorter than in mmWave. This will result in the reduction of power consumption.
 
