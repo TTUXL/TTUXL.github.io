@@ -122,7 +122,7 @@ where bo is the BS serving the typical UE, and bi, βi and gi are the i -th inte
 #### Path Loss Model
 A very general path loss model as follows, in which the path loss ζ(r) as a function of r is segmented into N pieces written as
 
-<img src="https://latex.codecogs.com/gif.latex?\zeta&space;(r)&space;=&space;\left\{&space;{\begin{array}{*{20}{l}}&space;{\zeta&space;_1(r),}&{{\rm{when}}0&space;\le&space;r&space;\le&space;{d_1}}\\&space;{\zeta&space;_2(r),}&{{\rm{when}}{d_1}&space;<&space;r&space;\le&space;{d_2}}\\&space;\vdots&space;&&space;\vdots&space;\\&space;{\zeta&space;_N(r),}&{{\rm{when}}r&space;>&space;{d_{N&space;-&space;1}}}&space;\end{array}}&space;\right." title="\zeta (r) = \left\{ {\begin{array}{*{20}{l}} {{\zeta _1}(r),}&{{\rm{when}}0 \le r \le {d_1}}\\ {{\zeta _2}(r),}&{{\rm{when}}{d_1} < r \le {d_2}}\\ \vdots & \vdots \\ {{\zeta _N}(r),}&{{\rm{when}}r > {d_{N - 1}}} \end{array}} \right." />
+<img src="https://latex.codecogs.com/gif.latex?\zeta&space;(r)&space;=&space;\left\{&space;{\begin{array}{*{20}{l}}&space;{\zeta&space;_1(r),}&{{\rm{when}}0&space;\le&space;r&space;\le&space;{d_1}}\\&space;{\zeta&space;_2(r),}&{{\rm{when}}{d_1}&space;<&space;r&space;\le&space;{d_2}}\\&space;\vdots&space;&&space;\vdots&space;\\&space;{\zeta&space;_N(r),}&{{\rm{when}}r&space;>&space;{d_{N&space;-&space;1}}}&space;\end{array}}&space;\right." title="\zeta (r) = \left\{ {\begin{array}{*{20}{l}} {\zeta _1(r),}&{{\rm{when}}0 \le r \le {d_1}}\\ {\zeta _2(r),}&{{\rm{when}}{d_1} < r \le {d_2}}\\ \vdots & \vdots \\ {{\zeta _N}(r),}&{{\rm{when}}r > {d_{N - 1}}} \end{array}} \right." />
 
 where each piece ζn(r),n∈{1,2,…,N} is modeled as
 
