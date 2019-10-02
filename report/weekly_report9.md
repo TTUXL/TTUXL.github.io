@@ -64,10 +64,11 @@ Standardization of THz wireless communications started in early **2008** when IE
 
 #### Emerging Applications of THz Band Communication
 automotive, indoor networking, aerospace, healthcare, intrinsically safe environments, location-based services, defense, underwater communication, and so on.  
+
 **Vehicular Communications**
 * **Vehicle-to-vehicle (V2V)** communications, where neighboring/cooperating vehicles share perceptual data with each other using THz bands for high-rate and low-latency communication.Each vehicle can use the shared data to extend its perception range, which enables it to reveal hidden objects ahead or in its blind spots and thereby avoid collision with other vehicles.   
 
-* **ehicle-to-infrastructure (V2I)** communications in which the infrastructure or *roadside units (RSUs)* gather sensing data about the vehicles and the surrounding traffic. The sensed data can be used to provide realtime maps of the environment. These maps can be used by the transportation control system for congestion avoidance.
+* **Vehicle-to-infrastructure (V2I)** communications in which the infrastructure or *roadside units (RSUs)* gather sensing data about the vehicles and the surrounding traffic. The sensed data can be used to provide realtime maps of the environment. These maps can be used by the transportation control system for congestion avoidance.
 
 * **In-car communications** where THz bands can provide ultra-high-rate and short-range in-car communication for autonomous driving systems, as well as device-to-device (D2D)-like services for the passengers of the vehicles.
 
