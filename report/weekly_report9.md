@@ -100,3 +100,79 @@ The high-frequency band also leads to high path loss and weak diffusion signals.
 <img src="./Photos/BS_density.gif" width="650" height="550">
 <center>Figure 2. Theoretical performance comparison of the coverage probability when the SINR threshold γ=0 dB <a href="https://ieeexplore.ieee.org/abstract/document/8782882">[4]</a></center>
 </center>
+
+#### The Coverage Probability
+the **Coverage Probability** is defined as the probability that the signal-to-interference-plus-noise ratio (SINR) of a typical user equipment (UE) is above a SINR threshold γ.
+
+<img src="http://latex.codecogs.com/gif.latex?
+p^{\textrm {cov}}\left(\lambda,\gamma \right)=\textrm {Pr}\left[\mathrm{SINR}>\gamma \right]
+" />  
+where the SINR is computed by
+
+<img src="http://latex.codecogs.com/gif.latex?
+\mathrm{SINR}=\frac{P\zeta (r)h}{I_{\textrm {agg}}+P_{{\rm {N}}}}.
+" />  
+Here, h is the channel gain, which is modeled as an exponentially distributed random variable (RV) with a mean of one (due to our consideration of Rayleigh fading mentioned above), P and PN are the BS transmission power and the additive white Gaussian noise (AWGN) power at each UE, respectively, and Iagg is the cumulative interference given by
+
+<img src="http://latex.codecogs.com/gif.latex?
+I_{\textrm {agg}}=\sum _{i:\,b_{i}\in \tilde{\Phi }\setminus b_{o}}P\beta _{i}g_{i}
+" />  
+where bo is the BS serving the typical UE, and bi, βi and gi are the i -th interfering BS, the path loss from bi to the typical UE and the multi-path fading channel gain associated with bi, respectively.the BSs in idle modes are not taken into account in the analysis of Iagg.
+
+#### Path Loss Model
+A very general path loss model as follows, in which the path loss ζ(r) as a function of r is segmented into N pieces written as
+
+<img src="https://latex.codecogs.com/gif.latex?\zeta&space;(r)&space;=&space;\left\{&space;{\begin{array}{*{20}{l}}&space;{{\zeta&space;_1}(r),}&{{\rm{when}}0&space;\le&space;r&space;\le&space;{d_1}}\\&space;{{\zeta&space;_2}(r),}&{{\rm{when}}{d_1}&space;<&space;r&space;\le&space;{d_2}}\\&space;\vdots&space;&&space;\vdots&space;\\&space;{{\zeta&space;_N}(r),}&{{\rm{when}}r&space;>&space;{d_{N&space;-&space;1}}}&space;\end{array}}&space;\right." title="\zeta (r) = \left\{ {\begin{array}{*{20}{l}} {{\zeta _1}(r),}&{{\rm{when}}0 \le r \le {d_1}}\\ {{\zeta _2}(r),}&{{\rm{when}}{d_1} < r \le {d_2}}\\ \vdots & \vdots \\ {{\zeta _N}(r),}&{{\rm{when}}r > {d_{N - 1}}} \end{array}} \right." />
+
+where each piece ζn(r),n∈{1,2,…,N} is modeled as
+
+<img src="http://latex.codecogs.com/gif.latex?
+{\zeta_n}(r) = \left\{ {\begin{array}{*{20}{l}}
+{\begin{array}{*{20}{l}}
+{\zeta_n^{\rm{L}}(r) = A_n^{\rm{L}}{r^{ - \alpha_n^{\rm{L}}}},}\\
+{\zeta_n^{{\rm{NL}}}(r) = A_n^{{\rm{NL}}}{r^{ - \alpha_n^{{\rm{NL}}}}},}
+\end{array}}&{\begin{array}{*{20}{l}}
+{{\rm{LoSProb}}.:\,{\rm{Pr}}_n^{\rm{L}}(r)}\\
+{{\rm{NLoSProb}}.:\,1 - {\rm{Pr}}_n^{\rm{L}}(r)}
+\end{array},}
+\end{array}} \right.
+" />  
+In practice, ALn, ANLn, αLn and αNLn are constants obtainable from field tests [6], [7].
+
+#### The 3GPP Special Cases  
+
+ we use the path loss function ζ(r), defined in the 3GPP as [6]
+
+<img src="http://latex.codecogs.com/gif.latex?
+\zeta (r)=\left\lbrace \begin{array}{ll}\begin{array}{l}A^{{\rm {L}}}r^{-\alpha ^{{\rm {L}}}},\\ A^{{\rm {NL}}}r^{-\alpha ^{{\rm {NL}}}}, \end{array} & \begin{array}{l}\textrm {\textrm {LoS:}\,}\textrm {Pr}^{\textrm {L}}(r)\\ \textrm {\textrm {NLoS:}\,}1-\textrm {Pr}^{\textrm {L}}(r) \end{array}\end{array}\right.
+" />  
+
+together with a linear LoS probability function of PrL(r), defined in the 3GPP as  [7]
+
+<img src="http://latex.codecogs.com/gif.latex?
+{\rm{P}}{{\rm{r}}^{\rm{L}}}(r) = \left\{ {\begin{array}{*{20}{l}}
+{\begin{array}{*{20}{l}}
+{1 - \frac{r}{{{d_1}}},}\\
+{0,}
+\end{array}}&{\begin{array}{*{20}{l}}
+{0 < r \le {d_1}}\\
+{r > {d_1}}
+\end{array}}
+\end{array}} \right.,
+" />  
+this 3GPP special case is referred to as **3GPP Case 1** in the sequel.
+
+Moreover, as another application of our analytical work and to demonstrate that our conclusions have general significance, we consider another widely used LoS probability function, which is a two-piece exponential function defined in the 3GPP as [6], [10]
+
+<img src="http://latex.codecogs.com/gif.latex?
+\textrm {Pr}^{\textrm {L}}(r)=\left\lbrace \begin{array}{ll}\begin{array}{l}1-5\exp \left(-R_{1}/r\right),\\ 5\exp \left(-r/R_{2}\right), \end{array} & \begin{array}{l}0<r\leq d_{1}\\ r> d_{1} \end{array}\end{array}\right.
+" />  
+For clarity, this combined case with both the path loss function and the LoS probability function coming from [6] is referred to as **3GPP Case 2** hereafter.
+
+----
+#### Reference
+[1]: Gao, Zhen, et al. "MmWave massive-MIMO-based wireless backhaul for the 5G ultra-dense network." IEEE Wireless Communications 22.5 (2015): 13-21.  
+[2]: Wei, Lili, et al. "Key elements to enable millimeter wave communications for 5G wireless systems." IEEE Wireless Communications 21.6 (2014): 136-143.  
+[3]: Alkhateeb, Ahmed, et al. "Channel estimation and hybrid precoding for millimeter wave cellular systems." IEEE Journal of Selected Topics in Signal Processing 8.5 (2014): 831-846.  
+[4]: Huq, Kazi Mohammed Saidul, et al. "Terahertz-Enabled Wireless System for Beyond-5G Ultra-Fast Networks: A Brief Survey." IEEE Network 33.4 (2019): 89-95.  
+[5]: Ding, Ming, et al. "Performance impact of idle mode capability on dense small cell networks." IEEE Transactions on Vehicular Technology 66.11 (2017): 10446-10460.
