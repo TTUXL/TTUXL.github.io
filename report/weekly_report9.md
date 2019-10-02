@@ -88,7 +88,7 @@ Since the future ultra-fast B5G THz network will be modeled in ultra-dense setup
 * **Redesign of MAC and Upper Layers for Ubiquitous Terabit-Per-Second Access**  
 The high-frequency band also leads to high path loss and weak diffusion signals. Highly directional signals are easily blocked and hard for mobility applications. High path loss leads to the very limited transmission distance. Thus, new error control mechanisms should be proposed, and new networking strategies should be developed to improve the coverage and support the seamless connection.  
 
-#### Performance Impact of Idle Mode Capability on Dense Small Cell Networks,  IEEE Transactions on Vehicular Technology, 2018 [[5]](https://ieeexplore.ieee.org/document/8485755)
+#### Performance Impact of Idle Mode Capability on Dense Small Cell Networks,  IEEE Transactions on Vehicular Technology, 2018 [[5]](https://ieeexplore.ieee.org/document/8046057)
 本文作者咋地咋地
 
 
