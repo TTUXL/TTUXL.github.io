@@ -89,10 +89,8 @@ Since the future ultra-fast B5G THz network will be modeled in ultra-dense setup
 The high-frequency band also leads to high path loss and weak diffusion signals. Highly directional signals are easily blocked and hard for mobility applications. High path loss leads to the very limited transmission distance. Thus, new error control mechanisms should be proposed, and new networking strategies should be developed to improve the coverage and support the seamless connection.  
 
 #### Performance Impact of Idle Mode Capability on Dense Small Cell Networks,  IEEE Transactions on Vehicular Technology, 2018 [[5]](https://ieeexplore.ieee.org/document/8046057)
-本文作者咋地咋地
 
-
- the authors of [8]– [10] found that the coverage probability performance will start to decrease when the BS density is sufficiently large. The intuition behind this result is that as the BS density becomes larger than a threshold, the aggregate interference power increases faster than the signal power due to the transition of a large number of interference paths from NLoS to LoS.
+ the authors of [7] found that the coverage probability performance will start to decrease when the BS density is sufficiently large. The intuition behind this result is that as the BS density becomes larger than a threshold, the aggregate interference power increases faster than the signal power due to the transition of a large number of interference paths from NLoS to LoS.
 
  in this paper, The intuition behind the Coverage Probability Takeoff is that beyond a certain BS density threshold, the aggregate interference power will be less than that of the case with all BSs being active thanks to the BS IMC, plus the signal power will continuously rise due to the BS diversity gain, thus leading to a better SINR performance as the network evolves into a dense and ultra-dense one.
 
@@ -152,5 +150,7 @@ For clarity, this combined case with both the path loss function and the LoS pro
 [1]: Gao, Zhen, et al. "MmWave massive-MIMO-based wireless backhaul for the 5G ultra-dense network." IEEE Wireless Communications 22.5 (2015): 13-21.  
 [2]: Wei, Lili, et al. "Key elements to enable millimeter wave communications for 5G wireless systems." IEEE Wireless Communications 21.6 (2014): 136-143.  
 [3]: Alkhateeb, Ahmed, et al. "Channel estimation and hybrid precoding for millimeter wave cellular systems." IEEE Journal of Selected Topics in Signal Processing 8.5 (2014): 831-846.  
-[4]: Huq, Kazi Mohammed Saidul, et al. "Terahertz-Enabled Wireless System for Beyond-5G Ultra-Fast Networks: A Brief Survey." IEEE Network 33.4 (2019): 89-95.  
-[5]: Ding, Ming, et al. "Performance impact of idle mode capability on dense small cell networks." IEEE Transactions on Vehicular Technology 66.11 (2017): 10446-10460.
+[4]: Huq, Kazi Mohammed Saidul, et al. "Terahertz-Enabled Wireless System for Beyond-5G Ultra-Fast Networks: A Brief Survey." IEEE Network 33.4 (2019): 89-95.   
+[5]: Ding, Ming, et al. "Performance impact of idle mode capability on dense small cell networks." IEEE Transactions on Vehicular Technology 66.11 (2017): 10446-10460.  
+[6]: J. Andrews, F. Baccelli, R. Ganti, "A tractable approach to coverage and rate in cellular networks", IEEE Trans. Commun., vol. 59, no. 11, pp. 3122-3134, Nov. 2011.  
+[7]: X. Zhang, J. Andrews, "Downlink cellular network analysis with multi-slope path loss models", IEEE Trans. Commun., vol. 63, no. 5, pp. 1881-1894, May 2015.  
