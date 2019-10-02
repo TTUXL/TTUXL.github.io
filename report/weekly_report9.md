@@ -121,30 +121,19 @@ where bo is the BS serving the typical UE, and bi, βi and gi are the i -th inte
 #### Path Loss Model
 A very general path loss model as follows, in which the path loss ζ(r) as a function of r is segmented into N pieces written as
 
-<img src="https://latex.codecogs.com/gif.latex?\zeta&space;(r)&space;=&space;\left\{&space;{\begin{array}{*{20}{l}}&space;{\zeta&space;_1(r),}&{{\rm{when}}0&space;\le&space;r&space;\le&space;{d_1}}\\&space;{\zeta&space;_2(r),}&{{\rm{when}}{d_1}&space;<&space;r&space;\le&space;{d_2}}\\&space;\vdots&space;&&space;\vdots&space;\\&space;{\zeta&space;_N(r),}&{{\rm{when}}r&space;>&space;{d_{N&space;-&space;1}}}&space;\end{array}}&space;\right." title="\zeta (r) = \left\{ {\begin{array}{*{20}{l}} {\zeta _1(r),}&{{\rm{when}}0 \le r \le {d_1}}\\ {\zeta _2(r),}&{{\rm{when}}{d_1} < r \le {d_2}}\\ \vdots & \vdots \\ {\zeta _N(r),}&{{\rm{when}}r > {d_{N - 1}}} \end{array}} \right." />
+<img src="https://latex.codecogs.com/gif.latex?\zeta&space;(r)=\left\lbrace&space;\begin{array}{ll}\zeta&space;_{1}(r),&space;&&space;\textrm&space;{when&space;}0\leq&space;r\leq&space;d_{1}\\&space;\zeta&space;_{2}(r),&space;&&space;\textrm&space;{when&space;}d_{1}<r\leq&space;d_{2}\\&space;\vdots&space;&&space;\vdots&space;\\&space;\zeta&space;_{N}(r),&space;&&space;\textrm&space;{when&space;}r>d_{N-1}&space;\end{array}\right." title="\zeta (r)=\left\lbrace \begin{array}{ll}\zeta _{1}(r), & \textrm {when }0\leq r\leq d_{1}\\ \zeta _{2}(r), & \textrm {when }d_{1}<r\leq d_{2}\\ \vdots & \vdots \\ \zeta _{N}(r), & \textrm {when }r>d_{N-1} \end{array}\right." />
 
 where each piece ζn(r),n∈{1,2,…,N} is modeled as
 
-<img src="http://latex.codecogs.com/gif.latex?
-{\zeta_n}(r) = \left\{ {\begin{array}{*{20}{l}}
-{\begin{array}{*{20}{l}}
-{\zeta_n^{\rm{L}}(r) = A_n^{\rm{L}}{r^{ - \alpha_n^{\rm{L}}}},}\\
-{\zeta_n^{{\rm{NL}}}(r) = A_n^{{\rm{NL}}}{r^{ - \alpha_n^{{\rm{NL}}}}},}
-\end{array}}&{\begin{array}{*{20}{l}}
-{{\rm{LoSProb}}.:\,{\rm{Pr}}_n^{\rm{L}}(r)}\\
-{{\rm{NLoSProb}}.:\,1 - {\rm{Pr}}_n^{\rm{L}}(r)}
-\end{array},}
-\end{array}} \right.
-" />  
+<img src="https://latex.codecogs.com/gif.latex?\zeta&space;_{n}(r)=\left\lbrace&space;\begin{array}{ll}\begin{array}{l}\zeta&space;_{n}^{\textrm&space;{L}}(r)=A_{n}^{{\rm&space;{L}}}r^{-\alpha&space;_{n}^{{\rm&space;{L}}}},\\&space;\zeta&space;_{n}^{\textrm&space;{NL}}(r)=A_{n}^{{\rm&space;{NL}}}r^{-\alpha&space;_{n}^{{\rm&space;{NL}}}},&space;\end{array}&space;&&space;\begin{array}{l}\textrm&space;{LoS&space;Prob.:}\,\textrm&space;{Pr}_{n}^{\textrm&space;{L}}(r)\\&space;\textrm&space;{NLoS&space;Prob.:}\,1-\textrm&space;{Pr}_{n}^{\textrm&space;{L}}(r)&space;\end{array},\end{array}\right." title="\zeta _{n}(r)=\left\lbrace \begin{array}{ll}\begin{array}{l}\zeta _{n}^{\textrm {L}}(r)=A_{n}^{{\rm {L}}}r^{-\alpha _{n}^{{\rm {L}}}},\\ \zeta _{n}^{\textrm {NL}}(r)=A_{n}^{{\rm {NL}}}r^{-\alpha _{n}^{{\rm {NL}}}}, \end{array} & \begin{array}{l}\textrm {LoS Prob.:}\,\textrm {Pr}_{n}^{\textrm {L}}(r)\\ \textrm {NLoS Prob.:}\,1-\textrm {Pr}_{n}^{\textrm {L}}(r) \end{array},\end{array}\right." />
+
 In practice, ALn, ANLn, αLn and αNLn are constants obtainable from field tests [6], [7].
 
 #### The 3GPP Special Cases  
 
  we use the path loss function ζ(r), defined in the 3GPP as [6]
 
-<img src="http://latex.codecogs.com/gif.latex?
-\zeta (r)=\left\lbrace \begin{array}{ll}\begin{array}{l}A^{{\rm {L}}}r^{-\alpha ^{{\rm {L}}}},\\ A^{{\rm {NL}}}r^{-\alpha ^{{\rm {NL}}}}, \end{array} & \begin{array}{l}\textrm {\textrm {LoS:}\,}\textrm {Pr}^{\textrm {L}}(r)\\ \textrm {\textrm {NLoS:}\,}1-\textrm {Pr}^{\textrm {L}}(r) \end{array}\end{array}\right.
-" />  
+<img src="https://latex.codecogs.com/gif.latex?\zeta&space;(r)=\left\lbrace&space;\begin{array}{ll}\begin{array}{l}A^{{\rm&space;{L}}}r^{-\alpha&space;^{{\rm&space;{L}}}},\\&space;A^{{\rm&space;{NL}}}r^{-\alpha&space;^{{\rm&space;{NL}}}},&space;\end{array}&space;&&space;\begin{array}{l}\textrm&space;{\textrm&space;{LoS:}\,}\textrm&space;{Pr}^{\textrm&space;{L}}(r)\\&space;\textrm&space;{\textrm&space;{NLoS:}\,}1-\textrm&space;{Pr}^{\textrm&space;{L}}(r)&space;\end{array}\end{array}\right." title="\zeta (r)=\left\lbrace \begin{array}{ll}\begin{array}{l}A^{{\rm {L}}}r^{-\alpha ^{{\rm {L}}}},\\ A^{{\rm {NL}}}r^{-\alpha ^{{\rm {NL}}}}, \end{array} & \begin{array}{l}\textrm {\textrm {LoS:}\,}\textrm {Pr}^{\textrm {L}}(r)\\ \textrm {\textrm {NLoS:}\,}1-\textrm {Pr}^{\textrm {L}}(r) \end{array}\end{array}\right." />  
 
 together with a linear LoS probability function of PrL(r), defined in the 3GPP as  [7]
 
