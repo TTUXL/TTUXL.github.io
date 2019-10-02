@@ -12,6 +12,7 @@ In this article, The author discusses the feasibility of mmWave massive-MIMO-bas
 2. **Immunity to interference:** Due to high path loss, mmWave is suitable for UDN, where improved frequency reuse and reduced inter-cell interference are expected. If we consider very heavy rainfall of 25 mm/hr, the rain attenuation is only around 2 dB in E-band if we consider the distance of a backhaul link is 200 m in typical urban UDN[[2]](https://ieeexplore.ieee.org/abstract/document/7000981).  
 3. **Small form factor:** The small wavelength of mm Wave implies that massive antennas can easily be equipped at both macro and small-cell BSs, which can easily be deployed with low-cost sites(e.g., light poles, building walls, bus stations).
 
+<img src="https://latex.codecogs.com/gif.latex?H&space;=&space;\sqrt&space;{\frac{{{N_T}{N_R}}}{\rho&space;}}&space;\sum\limits_{l&space;=&space;1}^L&space;{{\alpha_l}{\mathbf{a}_T}({\theta_l})\mathbf{b}_R^&space;*({\varphi_l})}" title="H = \sqrt {\frac{{{N_T}{N_R}}}{\rho }} \sum\limits_{l = 1}^L {{\alpha_l}{\mathbf{a}_T}({\theta_l})\mathbf{b}_R^ *({\varphi_l})}" />
 
 #### MmWave Channels with Spatial/Angular Sparsity
 MmWave massive MIMO channels exhibit the obviously spatial/angular sparsity due to its high path loss for non-line-of-sight (NLOS) signals. If we consider the widely used uniform linear array (ULA), the point-to-point mmWave massive MIMO channel can be modeled as[[3]](https://ieeexplore.ieee.org/abstract/document/6847111)(Cited by 1091):
@@ -26,11 +27,11 @@ and
 
 <img src="https://latex.codecogs.com/gif.latex?\mathbf{b}_{R}(\varphi_{l})=\frac{1}{\sqrt{N_{R}}}[1,&space;e^{j2\pi&space;d\sin(\varphi)/\lambda},\cdots,&space;e^{j2\pi(N_{R}-1)d\sin(\varphi_{l})/\lambda}]^{\text{T}}" title="\mathbf{b}_{R}(\varphi_{l})=\frac{1}{\sqrt{N_{R}}}[1, e^{j2\pi d\sin(\varphi)/\lambda},\cdots, e^{j2\pi(N_{R}-1)d\sin(\varphi_{l})/\lambda}]^{\text{T}}" />
 
-##### The Advantages of MmWave Massive MIMO for Channel Estimation  
+#### The Advantages of MmWave Massive MIMO for Channel Estimation  
 1. Due to the fixed BS locations and close proximity, mmWave massive MIMO channels used for backhaul stay almost unchanged for a long time. This long coherence time of channels indicates that channels do not need to be estimated very frequently compared to that in RAN.  
 2. The low-rank property of the mmWave massive MIMO channel matrix indicates that although the dimension of the matrix can be huge, its effective degrees of freedom (DoF) can be small.  
 
-##### Open Issues
+#### Open Issues
  To realize mmWave massive-MIMO-based backhaul, the cost of conventional high-speed ADC with high resolution can be unaffordable, so low-resolution ADC with low hardware cost is appealing. So far, l-bit ADC-based signal detection and precoding/com-bining have been investigated for mmWave massive MIMO. if low-resolution ADC is adopted, constellation mapping, channel estimation, training signals, and so on may need to be reconsidered.
 
 ---
