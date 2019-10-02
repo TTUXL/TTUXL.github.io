@@ -77,3 +77,26 @@ The THz fronthaul is compatible with the ultra-dense deployment of small cells b
 <img src="./Photos/THz_fronthaul_c_ran.gif" width="850" height="300">
 <center>Figure 1. THz band wireless fronthaul for C-RAN.<a href="https://ieeexplore.ieee.org/abstract/document/8782882">[4]</a></center>
 </center>
+
+#### Future Research Directions and Open Issues
+* **Network and Deployment Modeling for THz Mobile Networks**  
+The Poisson point process (PPP) is the most extensively used approach for modeling network deployment and coverage probability as it holds a key advantage in terms of mathematical tractability. However, PPP has been mostly limited to the 2D plane until now, with some extensions to the 2.5D domain, while future emerging deployment scenarios will be in 3D, adding additional challenges to the problem.  
+
+* **Propagation Modeling for the THz Wireless System**  
+Since the future ultra-fast B5G THz network will be modeled in ultra-dense setups consisting of numerous hotspots, researchers should aim to extend the stochastic approach toward the 3D channel model to account for B5G deployment scenarios, including 3D beamforming. Modeling the impact of mobility in THz cellular networks is a fundamental challenge for the B5G system.  
+
+* **Redesign of MAC and Upper Layers for Ubiquitous Terabit-Per-Second Access**  
+The high-frequency band also leads to high path loss and weak diffusion signals. Highly directional signals are easily blocked and hard for mobility applications. High path loss leads to the very limited transmission distance. Thus, new error control mechanisms should be proposed, and new networking strategies should be developed to improve the coverage and support the seamless connection.  
+
+#### Performance Impact of Idle Mode Capability on Dense Small Cell Networks,  IEEE Transactions on Vehicular Technology, 2018 [[5]](https://ieeexplore.ieee.org/document/8485755)
+本文作者咋地咋地
+
+
+ the authors of [8]– [10] found that the coverage probability performance will start to decrease when the BS density is sufficiently large. The intuition behind this result is that as the BS density becomes larger than a threshold, the aggregate interference power increases faster than the signal power due to the transition of a large number of interference paths from NLoS to LoS.
+
+ in this paper, The intuition behind the Coverage Probability Takeoff is that beyond a certain BS density threshold, the aggregate interference power will be less than that of the case with all BSs being active thanks to the BS IMC, plus the signal power will continuously rise due to the BS diversity gain, thus leading to a better SINR performance as the network evolves into a dense and ultra-dense one.
+
+<center>
+<img src="./Photos/BS_density.gif" width="650" height="550">
+<center>Figure 2. Theoretical performance comparison of the coverage probability when the SINR threshold γ=0 dB <a href="https://ieeexplore.ieee.org/abstract/document/8782882">[4]</a></center>
+</center>
