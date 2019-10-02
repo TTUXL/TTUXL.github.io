@@ -148,24 +148,14 @@ In practice, ALn, ANLn, αLn and αNLn are constants obtainable from field tests
 
 together with a linear LoS probability function of PrL(r), defined in the 3GPP as  [7]
 
-<img src="http://latex.codecogs.com/gif.latex?
-{\rm{P}}{{\rm{r}}^{\rm{L}}}(r) = \left\{ {\begin{array}{*{20}{l}}
-{\begin{array}{*{20}{l}}
-{1 - \frac{r}{{{d_1}}},}\\
-{0,}
-\end{array}}&{\begin{array}{*{20}{l}}
-{0 < r \le {d_1}}\\
-{r > {d_1}}
-\end{array}}
-\end{array}} \right.,
-" />  
+<img src="https://latex.codecogs.com/gif.latex?\textrm&space;{Pr}^{\textrm&space;{L}}(r)=\left\lbrace&space;\begin{array}{ll}\begin{array}{l}1-\frac{r}{d_{1}},\\&space;0,&space;\end{array}&space;&&space;\begin{array}{l}0&space;<&space;r\leq&space;d_{1}\\&space;r&space;>&space;d_{1}&space;\end{array}\end{array}\right." title="\textrm {Pr}^{\textrm {L}}(r)=\left\lbrace \begin{array}{ll}\begin{array}{l}1-\frac{r}{d_{1}},\\ 0, \end{array} & \begin{array}{l}0 < r\leq d_{1}\\ r > d_{1} \end{array}\end{array}\right." />
+
 this 3GPP special case is referred to as **3GPP Case 1** in the sequel.
 
 Moreover, as another application of our analytical work and to demonstrate that our conclusions have general significance, we consider another widely used LoS probability function, which is a two-piece exponential function defined in the 3GPP as [6], [10]
 
-<img src="http://latex.codecogs.com/gif.latex?
-\textrm {Pr}^{\textrm {L}}(r)=\left\lbrace \begin{array}{ll}\begin{array}{l}1-5\exp \left(-R_{1}/r\right),\\ 5\exp \left(-r/R_{2}\right), \end{array} & \begin{array}{l}0<r\leq d_{1}\\ r> d_{1} \end{array}\end{array}\right.
-" />  
+<img src="https://latex.codecogs.com/gif.latex?\textrm&space;{Pr}^{\textrm&space;{L}}(r)=\left\lbrace&space;\begin{array}{ll}\begin{array}{l}1-5\exp&space;\left(-R_{1}/r\right),\\&space;5\exp&space;\left(-r/R_{2}\right),&space;\end{array}&space;&&space;\begin{array}{l}0<r\leq&space;d_{1}\\&space;r>&space;d_{1}&space;\end{array}\end{array}\right." title="\textrm {Pr}^{\textrm {L}}(r)=\left\lbrace \begin{array}{ll}\begin{array}{l}1-5\exp \left(-R_{1}/r\right),\\ 5\exp \left(-r/R_{2}\right), \end{array} & \begin{array}{l}0<r\leq d_{1}\\ r> d_{1} \end{array}\end{array}\right." />
+
 For clarity, this combined case with both the path loss function and the LoS probability function coming from [6] is referred to as **3GPP Case 2** hereafter.
 
 ----
