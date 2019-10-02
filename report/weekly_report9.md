@@ -25,3 +25,12 @@ where NT and NR are the numbers of transmit and receive antennas, respectively, 
 and
 
 <img src="https://latex.codecogs.com/gif.latex?\mathbf{b}_{R}(\varphi_{l})=\frac{1}{\sqrt{N_{R}}}[1,&space;e^{j2\pi&space;d\sin(\varphi)/\lambda},\cdots,&space;e^{j2\pi(N_{R}-1)d\sin(\varphi_{l})/\lambda}]^{\text{T}}" title="\mathbf{b}_{R}(\varphi_{l})=\frac{1}{\sqrt{N_{R}}}[1, e^{j2\pi d\sin(\varphi)/\lambda},\cdots, e^{j2\pi(N_{R}-1)d\sin(\varphi_{l})/\lambda}]^{\text{T}}" />
+
+##### The Advantages of MmWave Massive MIMO for Channel Estimation  
+1. Due to the fixed BS locations and close proximity, mmWave massive MIMO channels used for backhaul stay almost unchanged for a long time. This long coherence time of channels indicates that channels do not need to be estimated very frequently compared to that in RAN.  
+2. The low-rank property of the mmWave massive MIMO channel matrix indicates that although the dimension of the matrix can be huge, its effective degrees of freedom (DoF) can be small.  
+
+##### Open Issues
+ To realize mmWave massive-MIMO-based backhaul, the cost of conventional high-speed ADC with high resolution can be unaffordable, so low-resolution ADC with low hardware cost is appealing. So far, l-bit ADC-based signal detection and precoding/com-bining have been investigated for mmWave massive MIMO. if low-resolution ADC is adopted, constellation mapping, channel estimation, training signals, and so on may need to be reconsidered.
+
+---
