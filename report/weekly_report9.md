@@ -126,6 +126,10 @@ A very general path loss model as follows, in which the path loss ζ(r) as a fun
 
 where each piece ζn(r),n∈{1,2,…,N} is modeled as
 
+<img src="http://chart.apis.google.com/chart?cht=tx&chl=p^{{\rm{cov}}}\left({\lambda,\gamma}\right)={\rm{Pr}}\left[{{\rm{SINR}}>\gamma}\right]"/>
+
+
+
 <img src="https://latex.codecogs.com/gif.latex?\zeta&space;_{n}(r)=\left\lbrace&space;\begin{array}{ll}\begin{array}{l}\zeta&space;_{n}^{\textrm&space;{L}}(r)=A_{n}^{{\rm&space;{L}}}r^{-\alpha&space;_{n}^{{\rm&space;{L}}}},\\&space;\zeta&space;_{n}^{\textrm&space;{NL}}(r)=A_{n}^{{\rm&space;{NL}}}r^{-\alpha&space;_{n}^{{\rm&space;{NL}}}},&space;\end{array}&space;&&space;\begin{array}{l}\textrm&space;{LoS&space;Prob.:}\,\textrm&space;{Pr}_{n}^{\textrm&space;{L}}(r)\\&space;\textrm&space;{NLoS&space;Prob.:}\,1-\textrm&space;{Pr}_{n}^{\textrm&space;{L}}(r)&space;\end{array},\end{array}\right." title="\zeta _{n}(r)=\left\lbrace \begin{array}{ll}\begin{array}{l}\zeta _{n}^{\textrm {L}}(r)=A_{n}^{{\rm {L}}}r^{-\alpha _{n}^{{\rm {L}}}},\\ \zeta _{n}^{\textrm {NL}}(r)=A_{n}^{{\rm {NL}}}r^{-\alpha _{n}^{{\rm {NL}}}}, \end{array} & \begin{array}{l}\textrm {LoS Prob.:}\,\textrm {Pr}_{n}^{\textrm {L}}(r)\\ \textrm {NLoS Prob.:}\,1-\textrm {Pr}_{n}^{\textrm {L}}(r) \end{array},\end{array}\right." />
 
 In practice, ALn, ANLn, αLn and αNLn are constants obtainable from field tests [6], [7].
