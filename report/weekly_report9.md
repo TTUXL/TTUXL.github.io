@@ -124,10 +124,7 @@ A very general path loss model as follows, in which the path loss ζ(r) as a fun
 
 <img src="https://latex.codecogs.com/gif.latex?\zeta&space;(r)=\left\lbrace&space;\begin{array}{ll}\zeta&space;_{1}(r),&space;&&space;\textrm&space;{when&space;}0\leq&space;r\leq&space;d_{1}\\&space;\zeta&space;_{2}(r),&space;&&space;\textrm&space;{when&space;}d_{1}<r\leq&space;d_{2}\\&space;\vdots&space;&&space;\vdots&space;\\&space;\zeta&space;_{N}(r),&space;&&space;\textrm&space;{when&space;}r>d_{N-1}&space;\end{array}\right." title="\zeta (r)=\left\lbrace \begin{array}{ll}\zeta _{1}(r), & \textrm {when }0\leq r\leq d_{1}\\ \zeta _{2}(r), & \textrm {when }d_{1}<r\leq d_{2}\\ \vdots & \vdots \\ \zeta _{N}(r), & \textrm {when }r>d_{N-1} \end{array}\right." />
 
-where each piece ζn(r),n∈{1,2,…,N} is modeled as
-
-<img src="http://chart.apis.google.com/chart?cht=tx&chl=p^{{\rm{cov}}}\left({\lambda,\gamma}\right)={\rm{Pr}}\left[{{\rm{SINR}}>\gamma}\right]"/>
-
+where each piece ζn(r),n∈{1,2,…,N} is modeled as $$a-b=c$$
 
 
 <img src="https://latex.codecogs.com/gif.latex?\zeta&space;_{n}(r)=\left\lbrace&space;\begin{array}{ll}\begin{array}{l}\zeta&space;_{n}^{\textrm&space;{L}}(r)=A_{n}^{{\rm&space;{L}}}r^{-\alpha&space;_{n}^{{\rm&space;{L}}}},\\&space;\zeta&space;_{n}^{\textrm&space;{NL}}(r)=A_{n}^{{\rm&space;{NL}}}r^{-\alpha&space;_{n}^{{\rm&space;{NL}}}},&space;\end{array}&space;&&space;\begin{array}{l}\textrm&space;{LoS&space;Prob.:}\,\textrm&space;{Pr}_{n}^{\textrm&space;{L}}(r)\\&space;\textrm&space;{NLoS&space;Prob.:}\,1-\textrm&space;{Pr}_{n}^{\textrm&space;{L}}(r)&space;\end{array},\end{array}\right." title="\zeta _{n}(r)=\left\lbrace \begin{array}{ll}\begin{array}{l}\zeta _{n}^{\textrm {L}}(r)=A_{n}^{{\rm {L}}}r^{-\alpha _{n}^{{\rm {L}}}},\\ \zeta _{n}^{\textrm {NL}}(r)=A_{n}^{{\rm {NL}}}r^{-\alpha _{n}^{{\rm {NL}}}}, \end{array} & \begin{array}{l}\textrm {LoS Prob.:}\,\textrm {Pr}_{n}^{\textrm {L}}(r)\\ \textrm {NLoS Prob.:}\,1-\textrm {Pr}_{n}^{\textrm {L}}(r) \end{array},\end{array}\right." />
