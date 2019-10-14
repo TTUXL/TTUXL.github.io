@@ -114,7 +114,8 @@ percolation theory describes the behaviour of connected clusters in a random gra
  <center>Figure 5.Percolation threshold(critical value)</center>
 </center>  
 
-### Lens antenna array  
+### Millimeter Wave Lens MIMO  
+Very low cost beamforming method(Analog), 1-bit ADC(Digital)
 <center>
  <img src="./Photos/dai1abc-2725878-large.gif" width="400" height="400"><img src="./Photos/zeng1-2533490-large.gif" width="300" height="300">
  <center>Figure 6.RF Lens-Embedded Antenna Array</center>
