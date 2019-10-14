@@ -61,11 +61,40 @@ It is concluded that  the existence of an optimum BS density to maximise the are
 
 The author studies the asymptotic properties of average area spectral efficiency (ASE) of a downlink cellular network in the limit of very dense base station (BS) and user densities. When there is no constraint on the minimum operational signal-to-interference-plus-noise ratio (SINR) and instantaneous full channel state information (CSI) is available at the transmitter, the average ASE is proven to saturate to a constant.
 
-A. Propagation Model
+**A. Related Work**  
+The study of dense wireless network capacity has a rich history, in particular for the case of ad hoc multi-hop networks. The seminal result of Gupta and Kumar [3]:(Cited by 10082)showed that the transport capacity of an infrastructure-less network increases with the number of nodes n roughly as <img src="https://latex.codecogs.com/gif.latex?\sqrt{n}" title="\sqrt{n}" />, assuming a given node wishes to transmit with a randomly selected other node.
 
-<img src="https://latex.codecogs.com/gif.latex?P_{avg}=&2&space;\pi&space;\lambda&space;\int&space;\limits&space;_{0}^{\infty&space;}&space;r&space;L(r)dr" />
+**B. Contributions**  
+The main contribution is a general answer to the question of how average ASE scales in a cellular network with very large density.
+
+**Performance Analysis**  
+>Lemma 1:  
+When λ→∞ , the SINR as defined in [3] tends to zero a.s.
+
+>Lemma 2:  
+The asymptotic average ASE is lower bounded by
+<img src="https://latex.codecogs.com/gif.latex?\lim&space;_{\lambda&space;\rightarrow&space;\infty&space;}&space;\mathbb&space;{E}\left&space;[{\mathcal&space;{E}(\lambda)&space;}\right]\geq&space;\frac&space;{L_{0}}{2&space;\pi&space;\ln&space;(2)&space;\gamma&space;}." title="\lim _{\lambda \rightarrow \infty } \mathbb {E}\left [{\mathcal {E}(\lambda) }\right]\geq \frac {L_{0}}{2 \pi \ln (2) \gamma }." />
+
+>Theorem 1:  
+Let <img src="https://latex.codecogs.com/gif.latex?I=\sum&space;L(r_i)hi" title="I=\sum L(r_i)hi" />, Where Ψ is a PPP with intensity λ0 . If the second negative moment of I is finite for all λ0≥λc , where λc∈ℝ+ is a constant, then  
+<img src="https://latex.codecogs.com/gif.latex?\lim&space;\limits&space;_{\lambda&space;\rightarrow&space;\infty&space;}\mathbb&space;{E}\left&space;[{&space;\mathcal&space;{E}(\lambda)&space;}\right]=&space;\frac&space;{L_{0}}{2&space;\pi&space;\ln&space;(2)&space;\gamma&space;}" title="\lim \limits _{\lambda \rightarrow \infty }\mathbb {E}\left [{ \mathcal {E}(\lambda) }\right]= \frac {L_{0}}{2 \pi \ln (2) \gamma }" />  
+Theorem 1 shows that the average ASE converges to a finite constant, which practically means that we cannot keep harvesting performance gains by densifying the network;
+
+>Theorem 2:  
+If the path loss function satisfies the condition in Theorem 1 and θ0≥ϵ>0 , then,  
+<img src="https://latex.codecogs.com/gif.latex?\lim&space;_{\lambda&space;\rightarrow&space;\infty&space;}&space;\mathbb&space;{E}&space;\left&space;[{\tilde&space;{\mathcal&space;{E}}(\lambda,\theta&space;_{0})}\right]=0" title="\lim _{\lambda \rightarrow \infty } \mathbb {E} \left [{\tilde {\mathcal {E}}(\lambda,\theta _{0})}\right]=0" />
+
+>Theorem 3:  
+If the path loss function satisfies the conditions in Theorem 1, then for all θ0∈ℝ+ ,  
+<img src="https://latex.codecogs.com/gif.latex?\lim&space;_{\lambda&space;\rightarrow&space;\infty&space;}\mathbb&space;{E}&space;\left&space;[{\mathcal&space;{R}(\lambda,\theta&space;_{0})}\right]=0" title="\lim _{\lambda \rightarrow \infty }\mathbb {E} \left [{\mathcal {R}(\lambda,\theta _{0})}\right]=0" />  
+where R(λ) is the average potential throughput.
+
+**Open Issues**  
+1. Characterizing at what density the average ASE saturation or collapse manifest.  
+2. Considering the effects of advanced interference suppression techniques such as joint (over multiple BSs) transmission or decoding, or successive interference cancellation.
 
 ---
 ### Reference  
 [1] Lopez-Perez, David, and Ming Ding. "A Brief History on the Theoretical Analysis of Dense Small Cell Wireless Networks." arXiv preprint arXiv:1812.02269 (2018).  
-[2] AlAmmouri, Ahmad, Jeffrey G. Andrews, and François Baccelli. "A unified asymptotic analysis of area spectral efficiency in ultradense cellular networks." IEEE Transactions on Information Theory 65.2 (2018): 1236-1248.
+[2] AlAmmouri, Ahmad, Jeffrey G. Andrews, and François Baccelli. "A unified asymptotic analysis of area spectral efficiency in ultradense cellular networks." IEEE Transactions on Information Theory 65.2 (2018): 1236-1248.  
+[3] P. Gupta, P. R. Kumar, "The capacity of wireless networks", IEEE Trans. Inf. Theory, vol. 46, no. 2, pp. 388-404, Mar. 2000.
