@@ -97,7 +97,7 @@ where R(λ) is the average potential throughput.
 
 ### Stochastic Geometry
 <center>
-<img src="./Photos/Stochastic_Geometry_Random_Graph_Theory.png" width="1000" height="800">
+<img src="./Photos/Stochastic_Geometry_Random_Graph_Theory.png" width="1200" height="800">
 <center>Figure 4.Stochastic geometry development history</center>
 </center>
 
@@ -115,9 +115,9 @@ percolation theory describes the behaviour of connected clusters in a random gra
 </center>  
 
 ### Millimeter Wave Lens MIMO  
-Very low cost beamforming method(Analog), 1-bit ADC(Digital)
+Very low cost beamforming method(Analog), 1-bit ADC(igital)
 <center>
- <img src="./Photos/dai1abc-2725878-large.gif" width="400" height="400"><img src="./Photos/zeng1-2533490-large.gif" width="300" height="300">
+ <img src="./Photos/dai1abc-2725878-large.gif" width="500" height="500"><img src="./Photos/zeng1-2533490-large.gif" width="400" height="400">
  <center>Figure 6.RF Lens-Embedded Antenna Array</center>
 </center>  
 
