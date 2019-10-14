@@ -5,7 +5,7 @@
 The University of Texas at Austin
 
 
-2019 Keyword: **1-Bit, Asymptotic Analysis**
+2019 Keyword: **1-Bit ADC, Asymptotic Analysis**
 
 >[[1]](https://ieeexplore.ieee.org/document/8663458) Balevi, Eren, and **Jeffrey G. Andrews**. "One-bit OFDM receivers via deep learning." IEEE Transactions on Communications (2019). **Cited by 12**
 
