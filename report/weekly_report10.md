@@ -101,6 +101,26 @@ where R(λ) is the average potential throughput.
 <center>Figure 4.Stochastic geometry development history</center>
 </center>
 
+### Voronoi diagram  
+The partitioning of a plane with n points into convex polygons such that each polygon contains exactly one generating point and every point in a given polygon is closer to its generating point than to any other. A Voronoi diagram is sometimes also known as a Dirichlet tessellation. The cells are called Dirichlet regions, Thiessen polytopes, or Voronoi polygons.  
+<center>
+ <img src="./Photos/VoronoiDiagram_700.gif" width="300" height="300">
+</center>  
+
+### Percolation Theory  
+percolation theory describes the behaviour of connected clusters in a random graph.
+<center>
+ <img src="./Photos/Fractal.png" width="300" height="300"><img src="./Photos/Smax-p.png" width="300" height="300">
+ <center>Figure 5.Percolation threshold(critical value)</center>
+</center>  
+
+### Lens antenna array  
+<center>
+ <img src="./Photos/dai1abc-2725878-large.gif" width="400" height="400"><img src="./Photos/zeng1-2533490-large.gif" width="300" height="300">
+ <center>Figure 6.RF Lens-Embedded Antenna Array</center>
+</center>  
+
+
 ---
 ### Reference  
 [1] Lopez-Perez, David, and Ming Ding. "A Brief History on the Theoretical Analysis of Dense Small Cell Wireless Networks." arXiv preprint arXiv:1812.02269 (2018).  
