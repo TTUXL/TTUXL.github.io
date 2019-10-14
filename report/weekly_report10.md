@@ -61,6 +61,9 @@ It is concluded that  the existence of an optimum BS density to maximise the are
 
 The author studies the asymptotic properties of average area spectral efficiency (ASE) of a downlink cellular network in the limit of very dense base station (BS) and user densities. When there is no constraint on the minimum operational signal-to-interference-plus-noise ratio (SINR) and instantaneous full channel state information (CSI) is available at the transmitter, the average ASE is proven to saturate to a constant.
 
+A. Propagation Model
+
+<img src="https://latex.codecogs.com/gif.latex?P_{avg}=&2&space;\pi&space;\lambda&space;\int&space;\limits&space;_{0}^{\infty&space;}&space;r&space;L(r)dr" />
 
 ---
 ### Reference  
