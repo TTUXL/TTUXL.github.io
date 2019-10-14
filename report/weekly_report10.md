@@ -121,6 +121,10 @@ Very low cost beamforming method(Analog), 1-bit ADC(igital)
  <center>Figure 6.RF Lens-Embedded Antenna Array</center>
 </center>  
 
+<center>
+ <img src="./Photos/2-Figure4-1.png" width="500" height="500">
+ <center>Figure 6. Lens-Embedded Antenna Photo(Phase line，Different distance )</center>
+</center>  
 
 ---
 ### Reference  
