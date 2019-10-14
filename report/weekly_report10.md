@@ -72,7 +72,7 @@ The main contribution is a general answer to the question of how average ASE sca
 When λ→∞ , the SINR as defined in [3] tends to zero a.s.
 
 >Lemma 2:  
-The asymptotic average ASE is lower bounded by
+The asymptotic average ASE is lower bounded by  
 <img src="https://latex.codecogs.com/gif.latex?\lim&space;_{\lambda&space;\rightarrow&space;\infty&space;}&space;\mathbb&space;{E}\left&space;[{\mathcal&space;{E}(\lambda)&space;}\right]\geq&space;\frac&space;{L_{0}}{2&space;\pi&space;\ln&space;(2)&space;\gamma&space;}." title="\lim _{\lambda \rightarrow \infty } \mathbb {E}\left [{\mathcal {E}(\lambda) }\right]\geq \frac {L_{0}}{2 \pi \ln (2) \gamma }." />
 
 >Theorem 1:  
@@ -92,6 +92,14 @@ where R(λ) is the average potential throughput.
 **Open Issues**  
 1. Characterizing at what density the average ASE saturation or collapse manifest.  
 2. Considering the effects of advanced interference suppression techniques such as joint (over multiple BSs) transmission or decoding, or successive interference cancellation.
+
+---
+
+### Stochastic Geometry
+<center>
+<img src="./Photos/Stochastic_Geometry_Random_Graph_Theory.png" width="1000" height="800">
+<center>Figure 4.Stochastic geometry development history</center>
+</center>
 
 ---
 ### Reference  
