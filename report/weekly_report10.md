@@ -1,7 +1,7 @@
 ## Ultra-Dense Network Notes  
 ------
 
-#### [Jeffrey G. Andrews](https://ieeexplore.ieee.org/author/37271209100)  
+### [Jeffrey G. Andrews](https://ieeexplore.ieee.org/author/37271209100)  
 The University of Texas at Austin
 
 
@@ -20,7 +20,7 @@ The University of Texas at Austin
 
 ----
 
-#### [Robert Heath](https://scholar.google.com/citations?hl=zh-CN&user=17Ko8Q0AAAAJ&view_op=list_works&sortby=pubdate)  
+### [Robert Heath](https://scholar.google.com/citations?hl=zh-CN&user=17Ko8Q0AAAAJ&view_op=list_works&sortby=pubdate)  
 The University of Texas at Austin
 
 2019 Keyword: **mmWave Beam Selection, 1-Bit ADC Channel Estimation**
@@ -42,24 +42,26 @@ It is concluded that  the existence of an optimum BS density to maximise the are
 
 <center>
 <img src="./Photos/anotherSINRinvar_PrCov_AntH8p5m_varUEden_v1-1.png" width="300" height="300"> <img src="./Photos/anotherSINRinvar_ASE_AntH8p5m_varUEden_v1-1.png" width="300" height="300">
-<center>Figure 1. (a) Coverage Probability. (b) Area Spectral Efficiency.</a></center>
+<center>Figure 1. (a) Coverage Probability. (b) Area Spectral Efficiency.</center>
 </center>
 
 <center>
 <img src="./Photos/the_optimal_scheduling_problem-1.png" width="400" height="300">
 <center>Figure 2. There is an optimal UE density that maximises ASE
-[bps/Hz/km2] the ASE for a given BS density.</a></center>
+[bps/Hz/km2] the ASE for a given BS density.</center>
 </center>
 
 <center>
  <img src="./Photos/ourASE_BSden_vs_UEden_3D_v2-1.png" width="400" height="300">
-<center>Figure 3. The ASE [bps/Hz/km2] performance varies with both the BS density and the UE density..</a></center>
+<center>Figure 3. The ASE [bps/Hz/km2] performance varies with both the BS density and the UE density.</center>
 </center>
 
 ---
 ### AlAmmouri, Ahmad, Jeffrey G. Andrews, and François Baccelli. "A unified asymptotic analysis of area spectral efficiency in ultradense cellular networks." IEEE Transactions on Information Theory 65.2 (2018): 1236-1248. [[2]](https://ieeexplore.ieee.org/document/8375976)  
 
 The author studies the asymptotic properties of average area spectral efficiency (ASE) of a downlink cellular network in the limit of very dense base station (BS) and user densities. When there is no constraint on the minimum operational signal-to-interference-plus-noise ratio (SINR) and instantaneous full channel state information (CSI) is available at the transmitter, the average ASE is proven to saturate to a constant.
+
+
 ---
 ### Reference  
 [1] Lopez-Perez, David, and Ming Ding. "A Brief History on the Theoretical Analysis of Dense Small Cell Wireless Networks." arXiv preprint arXiv:1812.02269 (2018).  
