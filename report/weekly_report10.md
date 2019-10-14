@@ -20,7 +20,7 @@ The University of Texas at Austin
 
 ----
 
-### [Robert Heath](https://scholar.google.com/citations?hl=zh-CN&user=17Ko8Q0AAAAJ&view_op=list_works&sortby=pubdate)  
+### [Robert Heath](https://scholar.google.com/citations?hl=zh-CN&user=17Ko8Q0AAAAJ&view_op=list_works&sortby=pubdate)  H index= 119
 The University of Texas at Austin
 
 2019 Keyword: **mmWave Beam Selection, 1-Bit ADC Channel Estimation**
