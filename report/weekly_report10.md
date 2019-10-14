@@ -41,18 +41,18 @@ The author considers  the impact of the following factors on ultradense networks
 It is concluded that  the existence of an optimum BS density to maximise the area spectral efficiency (ASE) for a given finite UE density.  
 
 <center>
-<img src="./Photos/anotherSINRinvar_PrCov_AntH8p5m_varUEden_v1-1.png" width="300" height="300"> <img src="./Photos/anotherSINRinvar_ASE_AntH8p5m_varUEden_v1-1.png" width="300" height="300">
+<img src="./Photos/anotherSINRinvar_PrCov_AntH8p5m_varUEden_v1-1.png" width="400" height="400"> <img src="./Photos/anotherSINRinvar_ASE_AntH8p5m_varUEden_v1-1.png" width="400" height="400">
 <center>Figure 1. (a) Coverage Probability. (b) Area Spectral Efficiency.</center>
 </center>
 
 <center>
-<img src="./Photos/the_optimal_scheduling_problem-1.png" width="400" height="300">
+<img src="./Photos/the_optimal_scheduling_problem-1.png" width="500" height="400">
 <center>Figure 2. There is an optimal UE density that maximises ASE
 [bps/Hz/km2] the ASE for a given BS density.</center>
 </center>
 
 <center>
- <img src="./Photos/ourASE_BSden_vs_UEden_3D_v2-1.png" width="400" height="300">
+ <img src="./Photos/ourASE_BSden_vs_UEden_3D_v2-1.png" width="500" height="400">
 <center>Figure 3. The ASE [bps/Hz/km2] performance varies with both the BS density and the UE density.</center>
 </center>
 
