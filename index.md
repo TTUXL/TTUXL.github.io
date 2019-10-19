@@ -1,6 +1,11 @@
 ## Welcome to Xuebin Li's GitHub Pages
-[weekliy2](./report/weekly_report2.md)  
+[weekliy2](./report/weekly_report2.md)
 [weekliy3](./report/weekly_report3.md)  
+[weekliy4](./report/weekly_report4.md)
+[weekliy5](./report/weekly_report5.md)
+[weekliy6](./report/weekly_report6.md)  
+[weekliy7](./report/weekly_report7.md)
+[weekliy8](./report/weekly_report8.md)
 [weekliy9](./report/weekly_report9.md)  
 [weekliy10](./report/weekly_report10.md)
-[weekliy11](./report/weekly_report11.md) 
+[weekliy11](./report/weekly_report11.md)
