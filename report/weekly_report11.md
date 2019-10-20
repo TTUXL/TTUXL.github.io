@@ -16,40 +16,41 @@ Ultra-Dense Networks Latest research: A Surveys
 ## References：
 ### Survey
 [//]: # (survey)
-[[1]](https://ieeexplore.ieee.org/abstract/document/8454520)<!--所有技术共同合作造福：未来的移动网络概览-->
+[[1]](https://ieeexplore.ieee.org/abstract/document/8454520)<!--所有技术共同合作造福：未来的移动网络概览--> Yadav, Animesh, and Octavia A. Dobre. "All technologies work together for good: A glance at future mobile networks." IEEE Wireless Communications 25.4 (2018): 10-16.
 
-[[2]](https://ieeexplore.ieee.org/abstract/document/8436053)<!--5G超密集网络中的流量匹配-->
+[[2]](https://ieeexplore.ieee.org/abstract/document/8436053)<!--5G超密集网络中的流量匹配--> Zhong, Yi, et al. "Traffic matching in 5G ultra-dense networks." IEEE Communications Magazine 56.8 (2018): 100-105.
 
-[[3]](https://ieeexplore.ieee.org/abstract/document/8387202)<!--异构超密集网络的物理层安全性，缓存和无线能量收集的新外观-->
+[[3]](https://ieeexplore.ieee.org/abstract/document/8387202)<!--异构超密集网络的物理层安全性，缓存和无线能量收集的新外观--> Wang, Lifeng, et al. "A new look at physical layer security, caching, and wireless energy harvesting for heterogeneous ultra-dense networks." IEEE Communications Magazine 56.6 (2018): 49-55.
 
-[[4]](https://ieeexplore.ieee.org/abstract/document/8284057)<!--下一代无线通信的压缩传感技术-->
+[[4]](https://ieeexplore.ieee.org/abstract/document/8284057)<!--下一代无线通信的压缩传感技术--> Gao, Zhen, et al. "Compressive sensing techniques for next-generation wireless communications." IEEE Wireless Communications 25.3 (2018): 144-153.
 <!---->
 
-[[5]](https://ieeexplore.ieee.org/abstract/document/8387218)<!--Terahertz Technologies将在5G之后的无线系统中提供光网络体验质量-->
+[[5]](https://ieeexplore.ieee.org/abstract/document/8387218)<!--Terahertz Technologies将在5G之后的无线系统中提供光网络体验质量--> Boulogeorgos, Alexandros-Apostolos A., et al. "Terahertz technologies to deliver optical network quality of experience in wireless systems beyond 5G." IEEE Communications Magazine 56.6 (2018): 144-151.
 
-[[6]](https://ieeexplore.ieee.org/abstract/document/8387197)<!--超密集5G网络的以用户为中心的C-RAN架构：挑战和方法论-->
+[[6]](https://ieeexplore.ieee.org/abstract/document/8387197)<!--超密集5G网络的以用户为中心的C-RAN架构：挑战和方法论--> Pan, Cunhua, et al. "User-centric C-RAN architecture for ultra-dense 5G networks: Challenges and methodologies." IEEE Communications Magazine 56.6 (2018): 14-20.
 
-[[7]](https://ieeexplore.ieee.org/abstract/document/8387205)<!--在非授权频谱中保持异构超密集分布网络的可靠性-->
+[[7]](https://ieeexplore.ieee.org/abstract/document/8387205)<!--在非授权频谱中保持异构超密集分布网络的可靠性--> Cui, Qimei, et al. "Preserving reliability of heterogeneous ultra-dense distributed networks in unlicensed spectrum." IEEE Communications Magazine 56.6 (2018): 72-78.
 <!---->
-[[8]](https://ieeexplore.ieee.org/abstract/document/8454520)<!--所有技术共同合作造福：未来的移动网络概览-->
 
-[[9]](https://ieeexplore.ieee.org/abstract/document/8387203)<!--超密集HetNet满足大数据：绿色框架，技术和方法-->
+[[8]](https://ieeexplore.ieee.org/abstract/document/8454520)<!--所有技术共同合作造福：未来的移动网络概览--> Yadav, Animesh, and Octavia A. Dobre. "All technologies work together for good: A glance at future mobile networks." IEEE Wireless Communications 25.4 (2018): 10-16.
 
-[[10]](https://ieeexplore.ieee.org/abstract/document/8370884)<!--超密集小蜂窝网络的基本特征-->
+[[9]](https://ieeexplore.ieee.org/abstract/document/8387203)<!--超密集HetNet满足大数据：绿色框架，技术和方法--> Li, Yuzhou, et al. "Ultra-dense hetnets meet big data: Green frameworks, techniques, and approaches." IEEE Communications Magazine 56.6 (2018): 56-63.
 
-[[11]](https://ieeexplore.ieee.org/abstract/document/8722593)<!--超越5G的超密集网络的未来：利用异构移动细胞-->
+[[10]](https://ieeexplore.ieee.org/abstract/document/8370884)<!--超密集小蜂窝网络的基本特征--> Ding, Ming, et al. "On the fundamental characteristics of ultra-dense small cell networks." IEEE Network 32.3 (2018): 92-100.
 
-[[12]](https://ieeexplore.ieee.org/abstract/document/8387201)<!--超密集网络的广义稀疏和低秩优化-->
+[[11]](https://ieeexplore.ieee.org/abstract/document/8722593)<!--超越5G的超密集网络的未来：利用异构移动细胞--> Andreev, Sergey, et al. "Future of ultra-dense networks beyond 5G: harnessing heterogeneous moving cells." IEEE Communications Magazine (2019).
 
-[[13]](https://ieeexplore.ieee.org/abstract/document/8316764)<!--5G新无线电中的初始访问，移动性和以用户为中心的多波束操作-->
+[[12]](https://ieeexplore.ieee.org/abstract/document/8387201)<!--超密集网络的广义稀疏和低秩优化-->Shi, Yuanming, et al. "Generalized sparse and low-rank optimization for ultra-dense networks." IEEE Communications Magazine 56.6 (2018): 42-48.
+
+[[13]](https://ieeexplore.ieee.org/abstract/document/8316764)<!--5G新无线电中的初始访问，移动性和以用户为中心的多波束操作--> Liu, Jin, et al. "Initial access, mobility, and user-centric multi-beam operation in 5G new radio." IEEE Communications Magazine 56.3 (2018): 35-41.
 
 ### Reflecting Surface
 [//]: # (反射)
-[[1]](https://ieeexplore.ieee.org/abstract/document/8647620)<!--智能反射表面增强型无线网络：主动和被动波束成形联合设计-->
+[[1]](https://ieeexplore.ieee.org/abstract/document/8647620)<!--智能反射表面增强型无线网络：主动和被动波束成形联合设计--> Wu, Qingqing, and Rui Zhang. "Intelligent reflecting surface enhanced wireless network: Joint active and passive beamforming design." 2018 IEEE Global Communications Conference (GLOBECOM). IEEE, 2018.
 
-[[2]](https://ieeexplore.ieee.org/abstract/document/8253544)<!--环境后向散射辅助无线通信-->
+[[2]](https://ieeexplore.ieee.org/abstract/document/8253544)<!--环境后向散射辅助无线通信--> Lu, Xiao, et al. "Ambient backscatter assisted wireless powered communications." IEEE Wireless Communications 25.2 (2018): 170-177.
 
-[[3]](https://arxiv.org/abs/1905.00152)<!--迈向智能和可重构环境：智能反射表面辅助无线网络-->
+[[3]](https://arxiv.org/abs/1905.00152)<!--迈向智能和可重构环境：智能反射表面辅助无线网络--> Qingqing, Wu, and Zhang Rui. "Towards smart and reconfigurable environment: Intelligent reflecting surface aided wireless network." arXiv preprint arXiv:1905.00152 (2019).
 
 
 
