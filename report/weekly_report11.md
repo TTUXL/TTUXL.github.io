@@ -59,21 +59,21 @@ Ultra-Dense Networks Latest research: A Surveys
 [//]: # (干扰管理，资源分配，移动性管理)
 <!---->
 <!---->
-[[1]](https://ieeexplore.ieee.org/abstract/document/8272494)<!--超密集网络中的干扰管理：以用户为中心的联盟形成博弈方法-->
+[[1]](https://ieeexplore.ieee.org/abstract/document/8272494)<!--超密集网络中的干扰管理：以用户为中心的联盟形成博弈方法--> Cao, Jiaqi, et al. "Interference management in ultradense networks: A user-centric coalition formation game approach." IEEE Transactions on Vehicular Technology 67.6 (2018): 5188-5202.
 
-[[2]](https://ieeexplore.ieee.org/abstract/document/8304530)<!--超密集网络中的移动性管理：切换跳过技术-->
+[[2]](https://ieeexplore.ieee.org/abstract/document/8304530)<!--超密集网络中的移动性管理：切换跳过技术--> Demarchou, Eleni, Constantinos Psomas, and Ioannis Krikidis. "Mobility management in ultra-dense networks: Handover skipping techniques." IEEE Access 6 (2018): 11921-11930.
 
-[[3]](https://ieeexplore.ieee.org/abstract/document/8447187)<!--超密集网络的资源分配：一项调查，一些研究问题和挑战-->
+[[3]](https://ieeexplore.ieee.org/abstract/document/8447187)<!--超密集网络的资源分配：一项调查，一些研究问题和挑战--> Teng, Yinglei, et al. "Resource allocation for ultra-dense networks: A survey, some research issues and challenges." IEEE Communications Surveys & Tutorials (2018).
 
-[[4]](https://ieeexplore.ieee.org/abstract/document/8467353)<!--雾网络中超可靠和增强的移动宽带IoT应用的资源分配-->
+[[4]](https://ieeexplore.ieee.org/abstract/document/8467353)<!--雾网络中超可靠和增强的移动宽带IoT应用的资源分配--> Abedin, Sarder Fakhrul, et al. "Resource allocation for ultra-reliable and enhanced mobile broadband IoT applications in fog network." IEEE Transactions on Communications 67.1 (2018): 489-502.
 
-[[5]](https://ieeexplore.ieee.org/abstract/document/8247283)<!--CSI不完善的以用户为中心的超密集TDD C-RAN的联合导频分配和鲁棒传输设计-->
+[[5]](https://ieeexplore.ieee.org/abstract/document/8247283)<!--CSI不完善的以用户为中心的超密集TDD C-RAN的联合导频分配和鲁棒传输设计--> Pan, Cunhua, et al. "Joint pilot allocation and robust transmission design for ultra-dense user-centric TDD C-RAN with imperfect CSI." IEEE Transactions on Wireless Communications 17.3 (2018): 2038-2053.
 
-[[6]](https://ieeexplore.ieee.org/abstract/document/8327815)<!--具有干扰的超密集无线网络的有效容量分析-->
+[[6]](https://ieeexplore.ieee.org/abstract/document/8327815)<!--具有干扰的超密集无线网络的有效容量分析--> Pan, Cunhua, et al. "Joint pilot allocation and robust transmission design for ultra-dense user-centric TDD C-RAN with imperfect CSI." IEEE Transactions on Wireless Communications 17.3 (2018): 2038-2053.
 
-[[7]](https://ieeexplore.ieee.org/abstract/document/8274926)<!--具有NLoS和LoS传输的超密集异构网络的节能部署-->
+[[7]](https://ieeexplore.ieee.org/abstract/document/8274926)<!--具有NLoS和LoS传输的超密集异构网络的节能部署--> Yang, Bin, et al. "On the energy-efficient deployment for ultra-dense heterogeneous networks with NLoS and LoS transmissions." IEEE Transactions on Green Communications and Networking 2.2 (2018): 369-384.
 
-[[8]](https://ieeexplore.ieee.org/abstract/document/8249837)<!--回程受限的超密集异构网络的灵活覆盖范围：吞吐量分析和η-最佳偏置-->
+[[8]](https://ieeexplore.ieee.org/abstract/document/8249837)<!--回程受限的超密集异构网络的灵活覆盖范围：吞吐量分析和η-最佳偏置--> Zhang, Hongtao, et al. "Flexible Coverage for Backhaul-Limited Ultradense Heterogeneous Networks: Throughput Analysis and $\eta $-Optimal Biasing." IEEE Transactions on Vehicular Technology 67.5 (2018): 4161-4172.
 
 ### Task Offloading
 [//]: # (边缘计算，任务分载)  
@@ -145,29 +145,32 @@ Ultra-Dense Networks Latest research: A Surveys
 [//]: # (超可靠和低延迟)
 [[1]](https://ieeexplore.ieee.org/abstract/document/8367785)<!-- 低延迟调查--> Parvez, I, Rahmati, A, Guvenc, I and .... "A survey on low latency towards 5G: RAN, core network and caching solutions." … Surveys & Tutorials ieeexplore.ieee.org, 2018
 
-[[2]](https://ieeexplore.ieee.org/abstract/document/8472907)<!--超可靠和低延迟的无线通信：尾部，风险和规模-->
+[[2]](https://ieeexplore.ieee.org/abstract/document/8472907)<!--超可靠和低延迟的无线通信：尾部，风险和规模--> Bennis, Mehdi, Mérouane Debbah, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.
 
-[[3]](https://ieeexplore.ieee.org/abstract/document/8329619)<!--超可靠的低延迟通信的无线访问：原理和构建块-->
+[[3]](https://ieeexplore.ieee.org/abstract/document/8329619)<!--超可靠的低延迟通信的无线访问：原理和构建块--> Popovski, Petar, et al. "Wireless access for ultra-reliable low-latency communication: Principles and building blocks." Ieee Network 32.2 (2018): 16-23.
 <!---->
-[[4]](https://ieeexplore.ieee.org/abstract/document/8329625)<!--5G中具有中继功能的超可靠低延迟通信-->
 
-[[5]](https://ieeexplore.ieee.org/abstract/document/8329621)<!--5G中URLLC的数据包复制：体系结构增强和性能分析-->
+[[4]](https://ieeexplore.ieee.org/abstract/document/8329625)<!--5G中具有中继功能的超可靠低延迟通信--> Hu, Yulin, M. Cenk Gursoy, and Anke Schmeink. "Relaying-enabled ultra-reliable low-latency communications in 5G." IEEE Network 32.2 (2018): 62-68.
+
+[[5]](https://ieeexplore.ieee.org/abstract/document/8329621)<!--5G中URLLC的数据包复制：体系结构增强和性能分析--> Rao, Jaya, and Sophie Vrzic. "Packet duplication for URLLC in 5G: Architectural enhancements and performance analysis." IEEE Network 32.2 (2018): 32-40.
 <!---->
-[[6]](https://ieeexplore.ieee.org/abstract/document/8319949)<!--低延迟毫米波通信：流量分散还是网络密集？-->
 
-[[7]](https://ieeexplore.ieee.org/abstract/document/8329627)<!--通过非授权频谱实现超可靠和低延迟的通信-->
+[[6]](https://ieeexplore.ieee.org/abstract/document/8319949)<!--低延迟毫米波通信：流量分散还是网络密集？--> Yang, Guang, Ming Xiao, and H. Vincent Poor. "Low-latency millimeter-wave communications: Traffic dispersion or network densification?." IEEE Transactions on Communications 66.8 (2018): 3526-3539.
 
-[[8]](https://ieeexplore.ieee.org/abstract/document/8399832)<!--通过多连接性提高超可靠和低延迟通信的网络可用性-->
+[[7]](https://ieeexplore.ieee.org/abstract/document/8329627)<!--通过非授权频谱实现超可靠和低延迟的通信--> Sutton, Gordon J., et al. "Enabling ultra-reliable and low-latency communications through unlicensed spectrum." IEEE Network 32.2 (2018): 70-77.
+
+[[8]](https://ieeexplore.ieee.org/abstract/document/8399832)<!--通过多连接性提高超可靠和低延迟通信的网络可用性--> She, Changyang, et al. "Improving network availability of ultra-reliable and low-latency communications with multi-connectivity." IEEE Transactions on Communications 66.11 (2018): 5482-5496.
 
 ### Deep Learning
 [//]: # (机器学习)
-[[1]](https://ieeexplore.ieee.org/abstract/document/8618345)<!--基于深度学习的毫米波大规模MIMO用于混合预编码-->
+[[1]](https://ieeexplore.ieee.org/abstract/document/8618345)<!--基于深度学习的毫米波大规模MIMO用于混合预编码--> Huang, Hongji, et al. "Deep-learning-based millimeter-wave massive MIMO for hybrid precoding." IEEE Transactions on Vehicular Technology 68.3 (2019): 3027-3032.
 <!---->
 
-[[2]](https://ieeexplore.ieee.org/abstract/document/8422864)<!--考虑QoS的HetNet中功率分配的机器学习方法-->
+[[2]](https://ieeexplore.ieee.org/abstract/document/8422864)<!--考虑QoS的HetNet中功率分配的机器学习方法--> Amiri, Roohollah, et al. "A machine learning approach for power allocation in HetNets considering QoS." 2018 IEEE International Conference on Communications (ICC). IEEE, 2018.
 
-[[3]](https://ieeexplore.ieee.org/abstract/document/8726067)<!--区块链和深度强化学习助力智能5G超越-->
+[[3]](https://ieeexplore.ieee.org/abstract/document/8726067)<!--区块链和深度强化学习助力智能5G超越--> Dai, Yueyue, et al. "Blockchain and deep reinforcement learning empowered intelligent 5g beyond." IEEE Network 33.3 (2019): 10-17.
 
-[[4]](https://ieeexplore.ieee.org/abstract/document/8553651)<!--基于深度学习的5G超密集网络无线资源分配技术-->
+[[4]](https://ieeexplore.ieee.org/abstract/document/8553651)<!--基于深度学习的5G超密集网络无线资源分配技术--> Zhou, Yibo, et al. "A deep-learning-based radio resource assignment technique for 5G ultra dense networks." IEEE Network 32.6 (2018): 28-34.
 <!---->
-[[5]](https://ieeexplore.ieee.org/abstract/document/8553655)<!--人工智能管理5G无线网络的网络流量-->
+
+[[5]](https://ieeexplore.ieee.org/abstract/document/8553655)<!--人工智能管理5G无线网络的网络流量--> Fu, Yu, et al. "Artificial intelligence to manage network traffic of 5G wireless networks." IEEE Network 32.6 (2018): 58-64.
