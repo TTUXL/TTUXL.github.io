@@ -79,66 +79,67 @@ Ultra-Dense Networks Latest research: A Surveys
 [//]: # (边缘计算，任务分载)  
 [[1]](https://ieeexplore.ieee.org/abstract/document/8314696)<!--通信模型，分流模型，目标函数，任务放置算法，收敛分析--> Chen, M and Hao, Y. "Task offloading for mobile edge computing in software defined ultra-dense network." IEEE Journal on Selected Areas in … ieeexplore.ieee.org, 2018  
 
-[[2]](https://ieeexplore.ieee.org/abstract/document/8485977)
+[[2]](https://ieeexplore.ieee.org/abstract/document/8485977)<!--密集网络中移动边缘计算的联合服务缓存和任务分载--> Xu, Jie, Lixing Chen, and Pan Zhou. "Joint service caching and task offloading for mobile edge computing in dense networks." IEEE INFOCOM 2018-IEEE Conference on Computer Communications. IEEE, 2018.
 
-[[3]](https://ieeexplore.ieee.org/abstract/document/8361406)<!--超密集物联网网络的移动边缘计算分流-->
+[[3]](https://ieeexplore.ieee.org/abstract/document/8361406)<!--超密集物联网网络的移动边缘计算分流--> Guo, Hongzhi, et al. "Mobile-edge computation offloading for ultradense IoT networks." IEEE Internet of Things Journal 5.6 (2018): 4977-4988.
 
-[[4]](https://ieeexplore.ieee.org/abstract/document/8533343)<!--多服务器移动边缘计算网络的联合任务分载和资源分配-->
+[[4]](https://ieeexplore.ieee.org/abstract/document/8533343)<!--多服务器移动边缘计算网络的联合任务分载和资源分配--> Tran, Tuyen X., and Dario Pompili. "Joint task offloading and resource allocation for multi-server mobile-edge computing networks." IEEE Transactions on Vehicular Technology 68.1 (2018): 856-868.
 
-[[5]](https://ieeexplore.ieee.org/abstract/document/8403947)<!--Edge-CoCaCo：实现边缘云上计算，缓存和通信的联合优化-->
+[[5]](https://ieeexplore.ieee.org/abstract/document/8403947)<!--Edge-CoCaCo：实现边缘云上计算，缓存和通信的联合优化--> Chen, Min, et al. "Edge-CoCaCo: Toward joint optimization of computation, caching, and communication on edge cloud." IEEE Wireless Communications 25.3 (2018): 21-27.
 
-[[6]](https://ieeexplore.ieee.org/abstract/document/8553648)<!--边缘网络中流量控制的无标签学习-->
+[[6]](https://ieeexplore.ieee.org/abstract/document/8553648)<!--边缘网络中流量控制的无标签学习--> Chen, Min, et al. "Label-less learning for traffic control in an edge network." IEEE Network 32.6 (2018): 8-14.
 <!---->
 
-[[7]](https://ieeexplore.ieee.org/abstract/document/8436044)<!--车辆边缘多路访问网络中的协作任务分载-->
+[[7]](https://ieeexplore.ieee.org/abstract/document/8436044)<!--车辆边缘多路访问网络中的协作任务分载--> Qiao, Guanhua, et al. "Collaborative task offloading in vehicular edge multi-access networks." IEEE Communications Magazine 56.8 (2018): 48-54.
 
-[[8]](https://ieeexplore.ieee.org/abstract/document/8690980)<!--通过深度强化学习优化移动边缘计算中的性能-->
+[[8]](https://ieeexplore.ieee.org/abstract/document/8690980)<!--通过深度强化学习优化移动边缘计算中的性能--> Chen, Xianfu, et al. "Performance optimization in mobile-edge computing via deep reinforcement learning." 2018 IEEE 88th Vehicular Technology Conference (VTC-Fall). IEEE, 2018.
 
-[[9]](https://ieeexplore.ieee.org/abstract/document/8463562)<!--在边缘跟随我：移动边缘计算的移动感知动态服务放置-->
+[[9]](https://ieeexplore.ieee.org/abstract/document/8463562)<!--在边缘跟随我：移动边缘计算的移动感知动态服务放置--> Ouyang, Tao, Zhi Zhou, and Xu Chen. "Follow me at the edge: Mobility-aware dynamic service placement for mobile edge computing." IEEE Journal on Selected Areas in Communications 36.10 (2018): 2333-2345.
 <!---->
 
-[[10]](https://ieeexplore.ieee.org/abstract/document/8436044)<!--车辆边缘多路访问网络中的协作任务分载-->
+[[10]](https://ieeexplore.ieee.org/abstract/document/8436044)<!--车辆边缘多路访问网络中的协作任务分载--> Qiao, Guanhua, et al. "Collaborative task offloading in vehicular edge multi-access networks." IEEE Communications Magazine 56.8 (2018): 48-54.
 
-[[11]](https://ieeexplore.ieee.org/abstract/document/8334688)<!--使用设备到设备通信的5G超密集网络的负载平衡-->
+[[11]](https://ieeexplore.ieee.org/abstract/document/8334688)<!--使用设备到设备通信的5G超密集网络的负载平衡--> Zhang, Hongliang, Lingyang Song, and Ying Jun Zhang. "Load balancing for 5G ultra-dense networks using device-to-device communications." IEEE Transactions on Wireless Communications 17.6 (2018): 4039-4050.
 
-[[12]](https://ieeexplore.ieee.org/abstract/document/8436039)<!--超密集网络中用于多路访问移动边缘计算的计算分流-->
+[[12]](https://ieeexplore.ieee.org/abstract/document/8436039)<!--超密集网络中用于多路访问移动边缘计算的计算分流--> Guo, Hongzhi, Jiajia Liu, and Jie Zhang. "Computation offloading for multi-access mobile edge computing in ultra-dense networks." IEEE Communications Magazine 56.8 (2018): 14-19.
 
 ### Non-Orthogonal Access
 [//]: # (非正交通信)
-[[1]](https://ieeexplore.ieee.org/abstract/document/8387207)<!--启用统一NOMA的异构超密集网络中的用户关联和资源分配-->
+[[1]](https://ieeexplore.ieee.org/abstract/document/8387207)<!--启用统一NOMA的异构超密集网络中的用户关联和资源分配--> Qin, Zhijin, et al. "User association and resource allocation in unified NOMA enabled heterogeneous ultra dense networks." IEEE Communications Magazine 56.6 (2018): 86-92.
 <!---->
 
-[[2]](https://ieeexplore.ieee.org/abstract/document/8352627)<!--可见光通信的光学非正交多路访问-->
+[[2]](https://ieeexplore.ieee.org/abstract/document/8352627)<!--可见光通信的光学非正交多路访问--> Marshoud, Hanaa, et al. "Optical non-orthogonal multiple access for visible light communication." IEEE Wireless Communications 25.2 (2018): 82-88.
 <!---->
 
-[[3]](https://ieeexplore.ieee.org/abstract/document/8352616)<!--非正交多路访问：统一视角-->
+[[3]](https://ieeexplore.ieee.org/abstract/document/8352616)<!--非正交多路访问：统一视角--> Wang, Qi, et al. "Non-orthogonal multiple access: A unified perspective." IEEE Wireless Communications 25.2 (2018): 10-16.
 
-[[4]](https://ieeexplore.ieee.org/abstract/document/8375949)<!--具有非均匀小蜂窝部署的异构网络中的下行链路NOMA-->
+[[4]](https://ieeexplore.ieee.org/abstract/document/8375949)<!--具有非均匀小蜂窝部署的异构网络中的下行链路NOMA--> Wang, Qi, et al. "Non-orthogonal multiple access: A unified perspective." IEEE Wireless Communications 25.2 (2018): 10-16.
 
 ### Network Slicing
 [//]: # (网络切片)
 [[1]](https://ieeexplore.ieee.org/abstract/document/8320765)<!--网络切片调查--> Afolabi, I, Taleb, T, Samdanis, K and .... "Network slicing and softwarization: A survey on principles, enabling technologies, and solutions." … Surveys & Tutorials ieeexplore.ieee.org, 2018
 <!---->
-[[2]](https://ieeexplore.ieee.org/abstract/document/8334921)<!--5G网络中网络切片的调查与分析-->
 
+[[2]](https://ieeexplore.ieee.org/abstract/document/8334921)<!--5G网络中网络切片的调查与分析--> Kaloxylos, Alexandros. "A survey and an analysis of network slicing in 5G networks." IEEE Communications Standards Magazine 2.1 (2018): 60-65.
 
+### Air-Ground Integrated
 [//]: # (车辆，无人机)
 [[1]](https://ieeexplore.ieee.org/abstract/document/8368236) Liu, J, Shi, Y, Fadlullah, ZM and Kato, N. "Space-air-ground integrated network: A survey." … Communications Surveys & … ieeexplore.ieee.org, 2018
 
-[[2]](https://ieeexplore.ieee.org/abstract/document/8387199)
+[[2]](https://ieeexplore.ieee.org/abstract/document/8387199)<!--无人机支持的超密集网络中的功率控制：通信，缓存和能量传输--> Wang, Haichao, et al. "Power control in UAV-supported ultra dense networks: Communications, caching, and energy transfer." IEEE Communications Magazine 56.6 (2018): 28-34.
 
-[[3]](https://ieeexplore.ieee.org/abstract/document/8436041)<!--空地集成移动边缘网络：架构，挑战和机遇-->
+[[3]](https://ieeexplore.ieee.org/abstract/document/8436041)<!--空地集成移动边缘网络：架构，挑战和机遇--> Cheng, Nan, et al. "Air-ground integrated mobile edge networks: Architecture, challenges, and opportunities." IEEE Communications Magazine 56.8 (2018): 26-32.
 
-[[4]](https://ieeexplore.ieee.org/abstract/document/8255764)<!--基于FSO的5G +无线网络垂直回传/前传框架-->
+[[4]](https://ieeexplore.ieee.org/abstract/document/8255764)<!--基于FSO的5G +无线网络垂直回传/前传框架--> Alzenad, Mohamed, et al. "FSO-based vertical backhaul/fronthaul framework for 5G+ wireless networks." IEEE Communications Magazine 56.1 (2018): 218-224.
 
-[[5]](https://ieeexplore.ieee.org/abstract/document/8675384)<!--无人机蜂窝通信调查：实践方面，标准化进展，监管和安全挑战-->
+[[5]](https://ieeexplore.ieee.org/abstract/document/8675384)<!--无人机蜂窝通信调查：实践方面，标准化进展，监管和安全挑战--> Fotouhi, Azade, et al. "Survey on uav cellular communications: Practical aspects, standardization advancements, regulation, and security challenges." IEEE Communications Surveys & Tutorials (2019).
 <!---->
 
-[[5]](https://ieeexplore.ieee.org/abstract/document/8338071)<!--MmWave车对基础设施通信：城市微蜂窝网络分析-->
+[[5]](https://ieeexplore.ieee.org/abstract/document/8338071)<!--MmWave车对基础设施通信：城市微蜂窝网络分析--> Wang, Yuyang, et al. "MmWave vehicle-to-infrastructure communication: Analysis of urban microcellular networks." IEEE Transactions on Vehicular Technology 67.8 (2018): 7086-7100.
 
-[[6]](https://ieeexplore.ieee.org/abstract/document/8422685)<!--重塑空中蜂窝网络：主要因素和可行性-->
+[[6]](https://ieeexplore.ieee.org/abstract/document/8422685)<!--重塑空中蜂窝网络：主要因素和可行性--> Azari, Mohammad Mahdi, Fernando Rosas, and Sofie Pollin. "Reshaping cellular networks for the sky: Major factors and feasibility." 2018 IEEE International Conference on Communications (ICC). IEEE, 2018.
 <!---->
-[[7]](https://ieeexplore.ieee.org/abstract/document/8692749)<!--无人机的蜂窝连接性：网络建模，性能分析和设计指南-->
+[[7]](https://ieeexplore.ieee.org/abstract/document/8692749)<!--无人机的蜂窝连接性：网络建模，性能分析和设计指南--> Azari, M. Mahdi, Fernando Rosas, and Sofie Pollin. "Cellular connectivity for UAVs: Network modeling, performance analysis and design guidelines." IEEE Transactions on Wireless Communications (2019).
 
 
 ### Ultrareliable and Low-Latency
