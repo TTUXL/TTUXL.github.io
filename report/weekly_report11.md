@@ -139,6 +139,7 @@ Ultra-Dense Networks Latest research: A Surveys
 
 [[6]](https://ieeexplore.ieee.org/abstract/document/8422685)<!--重塑空中蜂窝网络：主要因素和可行性--> Azari, Mohammad Mahdi, Fernando Rosas, and Sofie Pollin. "Reshaping cellular networks for the sky: Major factors and feasibility." 2018 IEEE International Conference on Communications (ICC). IEEE, 2018.
 <!---->
+
 [[7]](https://ieeexplore.ieee.org/abstract/document/8692749)<!--无人机的蜂窝连接性：网络建模，性能分析和设计指南--> Azari, M. Mahdi, Fernando Rosas, and Sofie Pollin. "Cellular connectivity for UAVs: Network modeling, performance analysis and design guidelines." IEEE Transactions on Wireless Communications (2019).
 
 
