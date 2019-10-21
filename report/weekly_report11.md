@@ -2,15 +2,7 @@ Ultra-Dense Networks Latest research: A Surveys
 ---
 ### I have a questions.
 What do I need to do this semester?  
-for example: write a Conference, write a Survey, find a topic and do related experiments。
-
-
-
-
-<center>
-<img src="./Photos/Ultra-Dense-Networks-survey.png" width="850" height="500">
-<center>Figure 1. Taxonomy of spectrum prediction algorithms<a href="https://ieeexplore.ieee.org/document/8031332">[1]</a></center>
-</center>
+for example: write a Conference, write a Survey, find a topic and do related experiments.  
 
 
 ### Cited by 145. Bennis, Mehdi, Mérouane Debbah, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.[[1]](https://ieeexplore.ieee.org/abstract/document/8472907)
@@ -24,7 +16,7 @@ URLLC can be broken down into three major building blocks, namely: 1) risk; 2) t
 >**Scale:** This is motivated by the sheer amount of devices, antennas, sensors and other nodes which pose serious challenges in terms of resource allocation and network design. For this purpose, ***mean field (and mean field game) theory, statistical physics and random matrix theory*** are important tools.
 
 <center>
-<img src="./Photos/benni1-2867029-large.gif" width="850" height="500">
+<img src="./Photos/benni1-2867029-large.gif" width="850" height="600">
 <center>Figure 1. Anatomy of the URLLC building blocks, composed of tail, scale and risk alongside their unique characteristics. In addition, mathematical tools tailored to the requirements of every block are highlighted therein. <a href="https://ieeexplore.ieee.org/abstract/document/8472907">[1]</a></center>
 </center>
 
@@ -44,6 +36,13 @@ URLLC can be broken down into three major building blocks, namely: 1) risk; 2) t
 >3. interference from users in adjacent channels;
 >4. Doppler shifts from moving devices;
 >5. difficulty of synchronization, outdated channel state information, time-varying channel effects or delayed packet reception.
+
+
+
+<center>
+<img src="./Photos/Ultra-Dense-Networks-survey.png" width="850" height="500">
+<center>Figure 1. Taxonomy of spectrum prediction algorithms<a href="https://ieeexplore.ieee.org/document/8031332">[1]</a></center>
+</center>
 
 ---
 ## High Citation：
