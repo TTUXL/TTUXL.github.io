@@ -1,4 +1,4 @@
-Ultra-Dense Networks Latest research: A Surveys
+Ultra-Dense Networks Notes
 ---
 ### I have a Questions.
 **What do I need to do this semester?**
@@ -14,7 +14,7 @@ Ultra-Dense Networks Latest research: A Surveys
 ### [Merouane Debbah](https://ieeexplore.ieee.org/author/37271209100)  
 Centralesupelec
 
-### Cited by 145. Bennis, Mehdi, **Mérouane Debbah**, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.[[1]](https://ieeexplore.ieee.org/abstract/document/8472907)
+### Cited by 145. Bennis, Mehdi, **Mérouane Debbah**, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.[[2]](https://ieeexplore.ieee.org/abstract/document/8472907)
 
 #### The main points:   
 URLLC can be broken down into three major building blocks, namely: 1) risk; 2) tail; and 3) scale.
