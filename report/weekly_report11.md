@@ -1,6 +1,6 @@
 Ultra-Dense Networks Notes
 ---
-### I have a Questions.
+### I have two Questions.
 >**What do I need to do this semester?**
 >1. write a paper follow Jeffrey G.Andrews.
 >2. write a UDN Survey to summarize what learning this semester.
