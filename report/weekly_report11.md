@@ -1,8 +1,11 @@
 Ultra-Dense Networks Latest research: A Surveys
 ---
-### I have a questions.
-What do I need to do this semester?  
-for example: write a Conference, write a Survey, find a topic and do related experiments.  
+### I have a Questions.
+What do I need to do this semester?  for example:
+1. write a paper follow Jeffrey G.Andrews.
+2. write a UDN Survey to summarize what learning this semester.
+
+
 
 
 ### Cited by 145. Bennis, Mehdi, Mérouane Debbah, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.[[1]](https://ieeexplore.ieee.org/abstract/document/8472907)
