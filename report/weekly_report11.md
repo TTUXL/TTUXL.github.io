@@ -1,19 +1,52 @@
 Ultra-Dense Networks Latest research: A Surveys
 ---
+### I have a questions.
+What do I need to do this semester?  
+for example: write a Conference, write a Survey, find a topic and do related experiments。
 
 
 
 
+<center>
+<img src="./Photos/Ultra-Dense-Networks-survey.png" width="850" height="500">
+<center>Figure 1. Taxonomy of spectrum prediction algorithms<a href="https://ieeexplore.ieee.org/document/8031332">[1]</a></center>
+</center>
 
 
+### Cited by 145. Bennis, Mehdi, Mérouane Debbah, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.[[1]](https://ieeexplore.ieee.org/abstract/document/8472907)
 
+#### The main points:   
+URLLC can be broken down into three major building blocks, namely: 1) risk; 2) tail; and 3) scale.
+>**Risk:** It is naturally encountered when dealing with decision making under uncertainty, when channels are time-varying and in the presence of network dynamics. Here, decentralized or semi-centralized algorithms providing performance guarantees and robustness are at stake, and notably ***game theory and reinforcement learning***.
 
+>**Tail:** The notion of tail behavior in wireless systems is inherently related to the tail of random traffic demand, tail of latency distribution, intra/inter-cell interference, and users that are at the cell edge, power-limited or in deep fade. In this regard, ***extreme value theory, mathematical finance and network calculus*** are important methodologies.
 
+>**Scale:** This is motivated by the sheer amount of devices, antennas, sensors and other nodes which pose serious challenges in terms of resource allocation and network design. For this purpose, ***mean field (and mean field game) theory, statistical physics and random matrix theory*** are important tools.
 
+<center>
+<img src="./Photos/benni1-2867029-large.gif" width="850" height="500">
+<center>Figure 1. Anatomy of the URLLC building blocks, composed of tail, scale and risk alongside their unique characteristics. In addition, mathematical tools tailored to the requirements of every block are highlighted therein. <a href="https://ieeexplore.ieee.org/abstract/document/8472907">[1]</a></center>
+</center>
 
+#### various enablers for low-latency communication
+>1. Short transmission time interval (TTI), short frame structure, and hybrid automatic repeat request (HARQ);
+>2. eMBB/URLLC multiplexing;
+>3. Edge caching, computing, and slicing;
+>4. On-device machine learning and artificial intelligence (AI) at the network edge;
+>5. Grant-free versus grant-based access;
+>6. Nonorthogonal multiple access (NOMA);
+>7. Low/medium-earth orbit (LEO/MEO) satellites and unmanned aerial vehicles (UAVs);
+>8. Joint flexible resource allocation for uplink/downlink;
+
+#### The main factors affecting reliability stem from:
+>1. collisions with other users due to uncoordinated channel access;
+>2. coexistence with other systems in the same frequency bands;
+>3. interference from users in adjacent channels;
+>4. Doppler shifts from moving devices;
+>5. difficulty of synchronization, outdated channel state information, time-varying channel effects or delayed packet reception.
 
 ---
-## References：
+## High Citation：
 ### Survey
 [//]: # (survey)
 [[1]](https://ieeexplore.ieee.org/abstract/document/8454520)<!--所有技术共同合作造福：未来的移动网络概览--> Yadav, Animesh, and Octavia A. Dobre. "All technologies work together for good: A glance at future mobile networks." IEEE Wireless Communications 25.4 (2018): 10-16.
@@ -147,7 +180,7 @@ Ultra-Dense Networks Latest research: A Surveys
 [//]: # (超可靠和低延迟)
 [[1]](https://ieeexplore.ieee.org/abstract/document/8367785)<!-- 低延迟调查--> Parvez, I, Rahmati, A, Guvenc, I and .... "A survey on low latency towards 5G: RAN, core network and caching solutions." … Surveys & Tutorials ieeexplore.ieee.org, 2018
 
-[[2]](https://ieeexplore.ieee.org/abstract/document/8472907)<!--超可靠和低延迟的无线通信：尾部，风险和规模--> Bennis, Mehdi, Mérouane Debbah, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.
+[[2]](https://ieeexplore.ieee.org/abstract/document/8472907)<!--超可靠和低延迟的无线通信：尾部，风险和规模--> Bennis, Mehdi, Mérouane Debbah, and H. Vincent Poor. "Ultra reliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.
 
 [[3]](https://ieeexplore.ieee.org/abstract/document/8329619)<!--超可靠的低延迟通信的无线访问：原理和构建块--> Popovski, Petar, et al. "Wireless access for ultra-reliable low-latency communication: Principles and building blocks." Ieee Network 32.2 (2018): 16-23.
 <!---->
