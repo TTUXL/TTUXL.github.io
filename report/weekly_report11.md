@@ -1,14 +1,20 @@
 Ultra-Dense Networks Latest research: A Surveys
 ---
 ### I have a Questions.
-What do I need to do this semester?  for example:
+**What do I need to do this semester?**
 1. write a paper follow Jeffrey G.Andrews.
 2. write a UDN Survey to summarize what learning this semester.
 
+**If I read this kind of mathematical proof article, it should be read from new to old, or from old to new？**
 
 
 
-### Cited by 145. Bennis, Mehdi, Mérouane Debbah, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.[[1]](https://ieeexplore.ieee.org/abstract/document/8472907)
+---
+
+### [Merouane Debbah](https://ieeexplore.ieee.org/author/37271209100)  
+Centralesupelec
+
+### Cited by 145. Bennis, Mehdi, **Mérouane Debbah**, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.[[1]](https://ieeexplore.ieee.org/abstract/document/8472907)
 
 #### The main points:   
 URLLC can be broken down into three major building blocks, namely: 1) risk; 2) tail; and 3) scale.
@@ -46,6 +52,8 @@ URLLC can be broken down into three major building blocks, namely: 1) risk; 2) t
 <img src="./Photos/Ultra-Dense-Networks-survey.png" width="850" height="500">
 <center>Figure 1. Taxonomy of spectrum prediction algorithms<a href="https://ieeexplore.ieee.org/document/8031332">[1]</a></center>
 </center>
+
+
 
 ---
 ## High Citation：
