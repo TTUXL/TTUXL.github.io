@@ -11,7 +11,7 @@ Ultra-Dense Networks Notes
 
 ---
 
-### [Merouane Debbah](https://ieeexplore.ieee.org/author/37271209100)  
+### [Merouane Debbah](https://scholar.google.com/citations?hl=zh-CN&user=HU5I0X4AAAAJ)  H index=78
 Centralesupelec
 
 ### Cited by 145. Bennis, Mehdi, **Mérouane Debbah**, and H. Vincent Poor. "Ultrareliable and low-latency wireless communication: Tail, risk, and scale." Proceedings of the IEEE 106.10 (2018): 1834-1853.[[2]](https://ieeexplore.ieee.org/abstract/document/8472907)
