@@ -46,11 +46,12 @@ URLLC can be broken down into three major building blocks, namely: 1) risk; 2) t
 >4. Doppler shifts from moving devices;
 >5. difficulty of synchronization, outdated channel state information, time-varying channel effects or delayed packet reception.
 
+---
 
 
 <center>
 <img src="./Photos/Ultra-Dense-Networks-survey.png" width="850" height="500">
-<center>Figure 1. Taxonomy of spectrum prediction algorithms<a href="https://ieeexplore.ieee.org/document/8031332">[1]</a></center>
+<center>Figure 2. Ultra density network research framework<a href="https://ieeexplore.ieee.org/document/8031332">[3]</a></center>
 </center>
 
 
