@@ -5,7 +5,7 @@ Ultra-Dense Networks Latest research: A Surveys
 1. write a paper follow Jeffrey G.Andrews.
 2. write a UDN Survey to summarize what learning this semester.
 
-**If I read this kind of mathematical proof article, it should be read from new to old, or from old to new？**
+**If I read this [[1]](https://ieeexplore.ieee.org/abstract/document/8274926) kind of mathematical proof articles, it should be read from new article to old article, or from old to new？**
 
 
 
