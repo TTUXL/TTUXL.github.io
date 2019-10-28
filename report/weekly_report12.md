@@ -65,3 +65,8 @@ C. Static UAV Placement
 >for the case of static UAVs with full information of user locations, the obtained location of each UAV is the weighted average of all user locations over all the N epochs.
 
 ---
+
+### Reference  
+[1] Samarakoon, Sumudu, et al. "Ultra dense small cell networks: Turning density into energy efficiency." IEEE Journal on Selected Areas in Communications 34.5 (2016): 1267-1280.
+
+[2] Liu, Liang, Shuowen Zhang, and Rui Zhang. "CoMP in the sky: UAV placement and movement optimization for multi-user communications." IEEE Transactions on Communications (2019).
