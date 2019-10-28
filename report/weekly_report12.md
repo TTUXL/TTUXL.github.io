@@ -14,7 +14,7 @@ As the number of SBSs becomes large(BS->∞), the author considers that the inte
 <center>Figure 1. Mean-field interference from the perspective of an SBS<a href="https://ieeexplore.ieee.org/abstract/document/7439746/">[1]</a></center>
 </center>
 
-**As BS->∞,the Interference**
+#### As BS->∞,the Interference
 
 <img src="https://latex.codecogs.com/gif.latex?I(t,{\rho}(t)\right))&space;=&space;{\eta}&space;\int_{\mathcal{X}}&space;p\left(t,\bm{x}^{\prime}\right)\vert&space;\tilde{h}\vert&space;^2\rho(t,\bm{x}^{\prime})&space;d\bm{x}^{\prime}" title="I(t,{\rho}(t)\right)) = {\eta} \int_{\mathcal{X}} p\left(t,\bm{x}^{\prime}\right)\vert \tilde{h}\vert ^2\rho(t,\bm{x}^{\prime}) d\bm{x}^{\prime}" />
 
@@ -23,26 +23,45 @@ As the number of SBSs becomes large(BS->∞), the author considers that the inte
 <center>Figure 2. Number of iterations to solve the HJB-FPK PDEs for different number of SBSs in the system.<a href="https://ieeexplore.ieee.org/abstract/document/7439746/">[1]</a></center>
 </center>
 
-The optimal transmit power strategy is given by  
+#### The optimal transmit power strategy is given by  
 
 <img src="https://latex.codecogs.com/gif.latex?p^\star(t,\check{x}(t))=\underset{p(t,\check{x}(t))}{arg&space;max}\left&space;[&space;X_t&space;\frac{\partial}{\partial&space;x}[\Gamma(t,\check{x}(t)]&plus;f(t)&plus;\frac{1}{2}tr\left(X^2_z&space;\frac{\partial^2}{\partial&space;x^2}[\Gamma(t,\check{x}(t)]\right)\right&space;]" title="p^\star(t,\check{x}(t))=\underset{p(t,\check{x}(t))}{arg max}\left [ X_t \frac{\partial}{\partial x}[\Gamma(t,\check{x}(t)]+f(t)+\frac{1}{2}tr\left(X^2_z \frac{\partial^2}{\partial x^2}[\Gamma(t,\check{x}(t)]\right)\right ]" />
 
 ---
 ### Cited by 24. Liu, Liang, Shuowen Zhang, and Rui Zhang. "CoMP in the sky: UAV placement and movement optimization for multi-user communications." IEEE Transactions on Communications (2019).[[2]](https://ieeexplore.ieee.org/abstract/document/8675440)
 
-The author consider the case where the users may move on the ground, thus the UAVs need to adjust their locations in accordance with the user locations over time to maximize the network throughput.   
-***The contribution*** is to give the upper and lower bounded of ergodic rate.
+The author consider the case where the users may move on the ground, thus the UAVs need to adjust their locations in accordance with the user locations over time to maximize the network throughput.
+
+***The contribution***
+1. given the upper and lower bounded of ergodic rate.
+2. The dynamic position of UAV under different user location information
 
 <center>
 <img src="./Photos/CoMP_UAV.jpg" width="650" height="400">
 <center>Figure 3. Schematic of a UAV-enabled CoMP system.<a href="https://ieeexplore.ieee.org/abstract/document/7439746/">[2]</a></center>
 </center>
 
-In case of  LoS channel with Random phase.
+#### Lemma 1: Ergodic user rate is bounded by
+
+<img src="https://latex.codecogs.com/gif.latex?R_{k,l}^{lower}[n]&space;=&space;{\log&space;_2}&space;\left&space;(&space;{1&space;&plus;&space;\frac{P}{E\left[[(H_l[n]_l^H&space;H_[n])^{-1}]_{k,k}\right]&space;\sigma^2}&space;}&space;\right)" title="R_{k,l}^{lower}[n] = {\log _2} \left ( {1 + \frac{P}{E\left[[(H_l[n]_l^H H_[n])^{-1}]_{k,k}\right] \sigma^2} } \right)" />
+
+<img src="https://latex.codecogs.com/gif.latex?R_{k,l}^{upper}[n]&space;=&space;{\log&space;_2}&space;\left&space;(&space;{1&space;&plus;&space;\frac{PE{\left[|w_{k,l}[n]^Hh_{k,l}[n]|^2\right]}}{\sigma^2}&space;}&space;\right)" title="R_{k,l}^{upper}[n] = {\log _2} \left ( {1 + \frac{PE{\left[|w_{k,l}[n]^Hh_{k,l}[n]|^2\right]}}{\sigma^2} } \right)" />
+
+
+#### In case of  LoS channel with Random phase.
 
 <center>
 <img src="./Photos/LoS_channel_random_phase.jpg" width="650" height="400">
 <center>Figure 4. Simulated user ergodic rate under the LoS channel with random phase versus various approximations.<a href="https://ieeexplore.ieee.org/abstract/document/7439746/">[2]</a></center>
 </center>
 
-<img src="https://latex.codecogs.com/gif.latex?R_{k,l}^{upper}[n]&space;=&space;{\log&space;_2}&space;\left&space;(&space;{1&space;&plus;&space;\frac{PE{\left[|w_{k,l}[n]^Hh_{k,l}[n]|^2\right]}}{\sigma^2}&space;}&space;\right)" title="R_{k,l}^{upper}[n] = {\log _2} \left ( {1 + \frac{PE{\left[|w_{k,l}[n]^Hh_{k,l}[n]|^2\right]}}{\sigma^2} } \right)" />
+A. Dynamic UAV Placement With Full User Location Information
+>the optimal location of UAV m is the weighted average of user locations at the current epoch (epoch n ), as well as the locations of UAV m in the next epoch (epoch n+1 ) and previous epoch (epoch n−1 ), where the weights are the corresponding optimal dual variables
+
+B. Dynamic UAV Placement With Current User Location Information
+>the location of each UAV at any epoch is the weighted average of the user locations at the current epoch as well as its location in the previous epoch.
+
+C. Static UAV Placement
+>for the case of static UAVs with full information of user locations, the obtained location of each UAV is the weighted average of all user locations over all the N epochs.
+
+---
