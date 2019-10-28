@@ -44,9 +44,3 @@ In case of  LoS channel with Random phase.
 <img src="./Photos/LoS_channel_random_phase.jpg" width="650" height="400">
 <center>Figure 4. Simulated user ergodic rate under the LoS channel with random phase versus various approximations.<a href="https://ieeexplore.ieee.org/abstract/document/7439746/">[2]</a></center>
 </center>
-
-
-
-
-
-<img src="https://latex.codecogs.com/gif.latex?R_{k,l}^{upper}[n]&space;=&space;{\log&space;_2}\left(&space;{1&space;&plus;&space;\frac{{PE\left[&space;{\left|&space;{\bf{w}_{k,l}{[n]^H}{\bf{h}_{k,l}}[n]}&space;\right|}^2&space;\right]}}{\sigma&space;^2}}&space;\right)" title="R_{k,l}^{upper}[n] = {\log _2}\left( {1 + \frac{{PE\left[ {\left| {\bf{w}_{k,l}{[n]^H}{\bf{h}_{k,l}}[n]} \right|}^2 \right]}}{\sigma ^2}} \right)" />
