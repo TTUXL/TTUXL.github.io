@@ -9,7 +9,7 @@ Ultra-Dense Networks Notes
 3. (Stochastic graph) => (Stochastic geometry) => (Complex network) => (n->∞) => (Random Matrix Theory)
 4. "Random Matrix Theory" with "complex network" can get About 2,550,000 Results in google scholar. however，with "Ultra-dense network" only get About 78,200 results.
 
-#### topic：
+#### Facing Issues：
 
 Ultra-dense Network how to building modeled by random Matrix?   
 
