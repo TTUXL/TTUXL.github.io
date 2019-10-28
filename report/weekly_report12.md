@@ -47,6 +47,6 @@ In case of  LoS channel with Random phase.
 
 
 
-<img src="https://latex.codecogs.com/gif.latex?R_{k,l}^{lower}&space;[n]&space;=&space;{\log&space;_2}\left(&space;{1&space;&plus;&space;\frac{P}{{E\left[&space;{{{[{{({H_l}[n]_l^HH[n])}^{&space;-&space;1}}]}_{k,k}}}&space;\right]{\sigma&space;^2}}}}&space;\right)" title="R_{k,l}^{lower} [n] = {\log _2}\left( {1 + \frac{P}{{E\left[ {{{[{{({H_l}[n]_l^HH[n])}^{ - 1}}]}_{k,k}}} \right]{\sigma ^2}}}} \right)" />
 
-<img src="https://latex.codecogs.com/gif.latex?R_{k,l}^{upper}[n]&space;=&space;{\log&space;_2}\left(&space;{1&space;&plus;&space;\frac{{PE\left[&space;{{{\left|&space;{{{\bf{w}}_{k,l}}{{[n]}^H}{{\bf{h}}_{k,l}}[n]}&space;\right|}^2}}&space;\right]}}{{{\sigma&space;^2}}}}&space;\right)" title="R_{k,l}^{upper}[n] = {\log _2}\left( {1 + \frac{{PE\left[ {{{\left| {{{\bf{w}}_{k,l}}{{[n]}^H}{{\bf{h}}_{k,l}}[n]} \right|}^2}} \right]}}{{{\sigma ^2}}}} \right)" />
+
+<img src="https://latex.codecogs.com/gif.latex?R_{k,l}^{upper}[n]&space;=&space;{\log&space;_2}\left(&space;{1&space;&plus;&space;\frac{{PE\left[&space;{\left|&space;{\bf{w}_{k,l}{[n]^H}{\bf{h}_{k,l}}[n]}&space;\right|}^2&space;\right]}}{\sigma&space;^2}}&space;\right)" title="R_{k,l}^{upper}[n] = {\log _2}\left( {1 + \frac{{PE\left[ {\left| {\bf{w}_{k,l}{[n]^H}{\bf{h}_{k,l}}[n]} \right|}^2 \right]}}{\sigma ^2}} \right)" />
