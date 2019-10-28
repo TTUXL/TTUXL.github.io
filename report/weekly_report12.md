@@ -1,6 +1,24 @@
 Ultra-Dense Networks Notes
 ---
 
+### Application of Random Matrix in Complex Network Analysis[3-5]
+
+#### Motivation：
+1. (Base Station(BS) density increase) => (Ultra-dense Networks) => (Mean Field Theory) => (BS->∞) => (Random Matrix Theory)
+2. (Stochastic graph) => (Stochastic geometry) => (Complex network) => (n->∞) => (Random Matrix Theory)
+3. "Random Matrix Theory" and "complex network" can get About 2,550,000 Results in google scholar. however，with "Ultra-dense network" only get About 78,200 results.
+4. Previously, the number of mobile network base stations was small, and the random matrix theory was not well applied. In the past 10 years, the random matrix theory has dealt with multi-dimensional problems(Angle of arrival(AoA)) of MIMO antennas (128 antennas or more), and there are many research results [6].  
+However, in the research of smart grid, due to its large scale and many detection nodes, there are many research results on grid analysis using random matrix theory [7].
+
+#### topic：
+
+Ultra-dense Network how to building modeled by random Matrix?
+Heterogeneous Ultra-Dense Networks how to building modeled by random Matrix?
+
+
+
+
+---
 ### Cited by 107. Samarakoon, Sumudu, et al. "Ultra dense small cell networks: Turning density into energy efficiency." IEEE Journal on Selected Areas in Communications 34.5 (2016): 1267-1280.[[1]](https://ieeexplore.ieee.org/abstract/document/7439746/)
 
 The author of this paper focuses on the study of two issues. Joint power control and user scheduling in Ultra-Dense Networks.  
@@ -64,9 +82,21 @@ B. Dynamic UAV Placement With Current User Location Information
 C. Static UAV Placement
 >for the case of static UAVs with full information of user locations, the obtained location of each UAV is the weighted average of all user locations over all the N epochs.
 
+
+
 ---
 
 ### Reference  
 [1] Samarakoon, Sumudu, et al. "Ultra dense small cell networks: Turning density into energy efficiency." IEEE Journal on Selected Areas in Communications 34.5 (2016): 1267-1280.
 
 [2] Liu, Liang, Shuowen Zhang, and Rui Zhang. "CoMP in the sky: UAV placement and movement optimization for multi-user communications." IEEE Transactions on Communications (2019).
+
+[3] Watts, Duncan J., and Steven H. Strogatz. "Collective dynamics of ‘small-world’networks." nature 393.6684 (1998): 440.Cited by 39990
+
+[4] Barabási, Albert-László, and Réka Albert. "Emergence of scaling in random networks." science 286.5439 (1999): 509-512. Cited by 34519
+
+[5] Barabási, Albert-László. "Linked: The new science of networks." (2003): 409-410. cited by 8339
+
+[6] Zheng, Kan, et al. "Survey of large-scale MIMO systems." IEEE Communications Surveys & Tutorials 17.3 (2015): 1738-1760.
+
+[7] Diksha, M., and T. S. Raghavendra. "A Survey on Big Data Energy Based on Smart Grid." Int. J. of Adv. Res., Id. and Innov. in Tech. 3.1 (2017): 594-598.
