@@ -7,14 +7,14 @@ The author of this paper focuses on the study of two issues. Joint power control
 >Optimal Power control: ***Mean Field Theory***  
 >UE Scheduling: ***Lyapunov Framework***
 
-As the number of SBSs becomes large(|B|->∞), the author considers that the interference tends to be bounded, since the path loss is modeled according to the inverse square law.
+As the number of SBSs becomes large(B->∞), the author considers that the interference tends to be bounded, since the path loss is modeled according to the inverse square law.
 
 <center>
 <img src="./Photos/mean_field_interference.jpg" width="650" height="400">
 <center>Figure 1. Mean-field interference from the perspective of an SBS<a href="https://ieeexplore.ieee.org/abstract/document/7439746/">[1]</a></center>
 </center>
 
-**As |B|->∞,the Interference**
+**As B->∞,the Interference**
 
 <img src="https://latex.codecogs.com/gif.latex?I(t,{\rho}(t)\right))&space;=&space;{\eta}&space;\int_{\mathcal{X}}&space;p\left(t,\bm{x}^{\prime}\right)\vert&space;\tilde{h}\vert&space;^2\rho(t,\bm{x}^{\prime})&space;d\bm{x}^{\prime}" title="I(t,{\rho}(t)\right)) = {\eta} \int_{\mathcal{X}} p\left(t,\bm{x}^{\prime}\right)\vert \tilde{h}\vert ^2\rho(t,\bm{x}^{\prime}) d\bm{x}^{\prime}" />
 
