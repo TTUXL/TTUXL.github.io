@@ -11,7 +11,8 @@ Ultra-Dense Networks Notes
 
 #### topic：
 
-Ultra-dense Network how to building modeled by random Matrix?
+Ultra-dense Network how to building modeled by random Matrix?   
+
 Heterogeneous Ultra-Dense Networks how to building modeled by random Matrix?
 
 
