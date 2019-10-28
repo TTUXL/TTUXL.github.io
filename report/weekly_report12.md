@@ -71,14 +71,16 @@ The author consider the case where the users may move on the ground, thus the UA
 <center>Figure 4. Simulated user ergodic rate under the LoS channel with random phase versus various approximations.<a href="https://ieeexplore.ieee.org/abstract/document/7439746/">[2]</a></center>
 </center>
 
+#### The dynamic position of UAV under different user location information
+
 A. Dynamic UAV Placement With Full User Location Information
->the optimal location of UAV m is the weighted average of user locations at the current epoch (epoch n ), as well as the locations of UAV m in the next epoch (epoch n+1 ) and previous epoch (epoch n−1 ), where the weights are the corresponding optimal dual variables
+>The optimal location of UAV m is the weighted average of user locations at the current epoch (epoch n ), as well as the locations of UAV m in the next epoch (epoch n+1 ) and previous epoch (epoch n−1 ), where the weights are the corresponding optimal dual variables
 
 B. Dynamic UAV Placement With Current User Location Information
->the location of each UAV at any epoch is the weighted average of the user locations at the current epoch as well as its location in the previous epoch.
+>The location of each UAV at any epoch is the weighted average of the user locations at the current epoch as well as its location in the previous epoch.
 
 C. Static UAV Placement
->for the case of static UAVs with full information of user locations, the obtained location of each UAV is the weighted average of all user locations over all the N epochs.
+>For the case of static UAVs with full information of user locations, the obtained location of each UAV is the weighted average of all user locations over all the N epochs.
 
 
 
