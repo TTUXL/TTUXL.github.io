@@ -11,6 +11,8 @@ Ultra-Dense Networks Notes
 
 #### Facing Issues：
 
+Ultra-Dense Networks how to building modeled by Random Matrix Theory?
+
 Heterogeneous Ultra-Dense Networks how to building modeled by Random Matrix Theory?
 
 
