@@ -49,7 +49,7 @@ As the number of SBSs becomes large(BS->∞), the author considers that the inte
 The author consider the case where the users may move on the ground, thus the UAVs need to adjust their locations in accordance with the user locations over time to maximize the network throughput.
 
 ***The contribution***
-1. given the upper and lower bounded of ergodic rate.
+1. Given the upper and lower bounded of ergodic rate.
 2. The dynamic position of UAV under different user location information
 
 <center>
