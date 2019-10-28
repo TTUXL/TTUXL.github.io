@@ -1,21 +1,18 @@
 Ultra-Dense Networks Notes
 ---
 
-### Application of Random Matrix in Complex Network Analysis[3-5]
+### New Idea: Application of Random Matrix in Complex Network Analysis[3-5]
 
 #### Motivation：
-1. (Base Station(BS) density increase) => (Ultra-dense Networks) => (Mean Field Theory) => (BS->∞) => (Random Matrix Theory)
-2. (Stochastic graph) => (Stochastic geometry) => (Complex network) => (n->∞) => (Random Matrix Theory)
-3. "Random Matrix Theory" and "complex network" can get About 2,550,000 Results in google scholar. however，with "Ultra-dense network" only get About 78,200 results.
-4. Previously, the number of mobile network base stations was small, and the random matrix theory was not well applied. In the past 10 years, the random matrix theory has dealt with multi-dimensional problems(Angle of arrival(AoA)) of MIMO antennas (128 antennas or more), and there are many research results [6].  
-However, in the research of smart grid, due to its large scale and many detection nodes, there are many research results on grid analysis using random matrix theory [7].
+1.  Previously, the number of mobile network base stations was small, and the random matrix theory was not well applied. In the past 10 years, the random matrix theory has dealt with multi-dimensional problems(Angle of arrival(AoA)) of MIMO antennas (128 antennas or more), and there are many research results [6]. However, The smart grid it's a large scale and many detection nodes,  there are many research results on grid analysis using random matrix theory [7].
+2. (Base Station(BS) density increase) => (Ultra-dense Networks) => (Mean Field Theory) => (BS->∞) => (Random Matrix Theory)
+3. (Stochastic graph) => (Stochastic geometry) => (Complex network) => (n->∞) => (Random Matrix Theory)
+4. "Random Matrix Theory" with "complex network" can get About 2,550,000 Results in google scholar. however，with "Ultra-dense network" only get About 78,200 results.
 
 #### topic：
 
 Ultra-dense Network how to building modeled by random Matrix?
 Heterogeneous Ultra-Dense Networks how to building modeled by random Matrix?
-
-
 
 
 ---
