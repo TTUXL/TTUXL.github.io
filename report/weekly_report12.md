@@ -1,7 +1,7 @@
 Ultra-Dense Networks Notes
 ---
 
-### New Idea: Application of Random Matrix in Complex Network Analysis[3-5]
+### New Idea: Application of Random Matrix Theory in Complex Network Analysis[3-5]
 
 #### Motivation：
 1.  Previously, the number of mobile network base stations was small, and the random matrix theory was not well applied. In the past 10 years, the random matrix theory has dealt with multi-dimensional problems(Angle of arrival(AoA)) of MIMO antennas (128 antennas or more), and there are many research results [6]. However, The smart grid it's a large scale and many detection nodes,  there are many research results on grid analysis using random matrix theory [7].
