@@ -25,12 +25,6 @@ The RA process can be decomposed into several sub-problems or conducted distribu
 Whether this problem can be turned into a Recommendation System. The Matrix Completion algorithm is used to recommend user requirements and reduce signaling overhead.
 
 
->D. Mobility Management  
-
->"In dense scenarios, the challenges of mobility management are mainly induced by the large amount of different terminal types and a broad range of services and mobility demands ranging from zero or nomadic mobility to high speed terminals."
-
-Mobile-Edge Computation Offloading：I haven’t studied this problem yet.
-
 ---
 The Optimal Number of BS per unit area in UND Environment
 
