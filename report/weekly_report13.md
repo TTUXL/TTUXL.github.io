@@ -24,7 +24,7 @@ The RA process can be decomposed into several sub-problems or conducted distribu
 
 Whether this problem can be turned into a Recommendation System. The Matrix Completion algorithm is used to recommend user requirements and reduce signaling overhead.
 
-
+---
 ---
 The Optimal Number of BS per unit area in UND Environment
 
@@ -34,7 +34,7 @@ Function f is BS service range. Sight Rate is LoS/NLoS.
 QSI characterization of Quality of services（QoS）.
 utility is energy efficiency.
 
-
+---
 
 ### Reference
 [1]  Teng, Yinglei, et al. "Resource allocation for ultra-dense networks: A survey, some research issues and challenges." IEEE Communications Surveys & Tutorials (2018).  
