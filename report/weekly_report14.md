@@ -11,15 +11,15 @@ Problems Formulation in Ultra-Dense Networks Environment
 ### New Version
 Driven by the explosive traffic demand of mobile users, Ultra-Dense Network (UDN) becomes the preferred access network for mobile users. However，due to the rapid increase in network density, classical network Resource Allocation (RA) techniques aren't sufficient to study resource optimization in Ultra-Dense Networks. An effective and robust resource allocation scheme is required.
 
-In recent years, some researchers have proposed some effective solutions [1]-[3], Adopting some approaches like convex optimization, game theory, graph theory, stochastic geometry methods, stochastic optimization, grouping/clustering method, etc. As a result, these studies provide valuable insights into resource allocation in the UDN environment, but optimal resource allocation relies on perfect user state information (CSI, QSI, etc.). This is very difficult, especially in large networks like UDN, which will require a lot of signaling overhead. Nodes consume a lot of resources in order to get the best efficiency. it goes against the concept of RA which obtain the high energy efficiency. Therefore, it is necessary to study the resource allocation problem in the case of not satisfying the perfect user state information.
+In recent years, some researchers have proposed some effective solutions [1]-[6], Adopting some approaches like convex optimization, game theory, graph theory, stochastic geometry methods, stochastic optimization, grouping/clustering method, etc. As a result, these studies provide valuable insights into resource allocation in the UDN environment, but optimal resource allocation relies on perfect user state information (CSI, QSI, etc.). This is very difficult, especially in large networks like UDN, which will require a lot of signaling overhead. Nodes consume a lot of resources in order to get the best efficiency. it goes against the concept of RA which obtain the high energy efficiency. Therefore, it is necessary to study the resource allocation problem in the case of not satisfying the perfect user state information.
 
 In the UDNs, the RA issues are always interpreted as a highly complex large-scale optimization problem[1], which optimizes the efficiency function through user information. As more and more researchers realize that accessing perfect CSI information is time consuming and technically impossible. Opportunistic constraint optimization has received great attention [4][5][6]. The main feature of the opportunity constrained programming is that the constraints contain random parameters, which solves the problem of not being able to obtain perfect CSI information. [[4]](https://ieeexplore.ieee.org/document/7434069) consider the joint power and admission control (JPAC) problem  with imperfect CSI. The JPAC problem is formulated as a chance-limited procedure in which the SINR outage probability of each link is forced to be less than or equal to the specified tolerance. [[5]](https://ieeexplore.ieee.org/document/5946309) discussed a robust beamforming problem, which minimizes the SINR-constrained transmit power consumption. Reference [[6]](https://ieeexplore.ieee.org/abstract/document/7876873) studies the transmit power minimization problem and the max-min fairness EH problem under both the bounded CSI error model and the probabilistic CSI error model. Despite their interesting analytical perspectives, existing work is limited to traditional networks and cannot solve the problems faced by UDN with massive devices.
 
 
 
-[WIKI:Chance Constrained Programming](https://optimization.mccormick.northwestern.edu/index.php/Chance-constraint_method)
-CSI(channel state information)
-QSI(queue state information)
+[WIKI:Chance Constrained Programming](https://optimization.mccormick.northwestern.edu/index.php/Chance-constraint_method)  
+CSI(channel state information)  
+QSI(queue state information)  
 
 ---
 
@@ -32,15 +32,20 @@ QSI(queue state information)
 ### Old Version
 Driven by the explosive traffic demand of mobile users, ultra-dense networks must become the preferred access network for mobile users. Due to the rapid increase in network density, classical network resource allocation techniques are not sufficient to study resource optimization in UND. Due to the scale effect of the network, an effective resource allocation scheme has very important practical significance.
 
-In recent years, some researchers have proposed some effective solutions [1][2][3]. In the work of [1], the average field game and Lyapunov control theory are combined to solve the joint power allocation and user scheduling problems. Energy efficiency management is defined as a stochastic differential optimization problem, while the user scheduling part solves the queue-aware stochastic optimization problem based on the Lypunov DPP method. In [2] from the perspective of network decomposition, by finding the optimal network graph decomposition, the network graph is divided into a certain number of subgraphs, thereby reducing the network scale and thus reducing the computational complexity. The los and Nlos channel fading was modeled using a stochastic geometric model in [3] to calculate coverage and capacity. These studies provide valuable insights into resource allocation in a UDN environment, but optimal resource allocation relies on perfect user state information (CSI, QSI, etc.). This is very difficult, especially in large networks like UDN, which will require huge computational and signaling overhead. Nodes consume a lot of resources in order to get the best efficiency. Therefore, it is necessary to study a resource allocation problem in the case where only partial user status information is acquired.
+In recent years, some researchers have proposed some effective solutions [1][2][3]. In the work of [[2]](https://ieeexplore.ieee.org/abstract/document/7439746), the average field game and Lyapunov control theory are combined to solve the joint power allocation and user scheduling problems. Energy efficiency management is defined as a stochastic differential optimization problem, while the user scheduling part solves the queue-aware stochastic optimization problem based on the Lypunov DPP method. In [2] from the perspective of network decomposition, by finding the optimal network graph decomposition, the network graph is divided into a certain number of subgraphs, thereby reducing the network scale and thus reducing the computational complexity. The los and Nlos channel fading was modeled using a stochastic geometric model in [3] to calculate coverage and capacity. These studies provide valuable insights into resource allocation in a UDN environment, but optimal resource allocation relies on perfect user state information (CSI, QSI, etc.). This is very difficult, especially in large networks like UDN, which will require huge computational and signaling overhead. Nodes consume a lot of resources in order to get the best efficiency. Therefore, it is necessary to study a resource allocation problem in the case where only partial user status information is acquired.
 
 ---
----
+
 
 ### Reference
 [1]  Teng, Yinglei, et al. "Resource allocation for ultra-dense networks: A survey, some research issues and challenges." IEEE Communications Surveys & Tutorials (2018).  
-[2] L. Dai, B. Bai, "Optimal decomposition for large-scale infrastructure-based wireless networks", IEEE Trans. Wireless Commun., vol. 16, no. 8, pp. 4956-4969, Aug. 2017.  
-[3] Samarakoon, Sumudu, et al. "Ultra dense small cell networks: Turning density into energy efficiency." IEEE Journal on Selected Areas in Communications 34.5 (2016): 1267-1280.
+
+[2] Samarakoon, Sumudu, et al. "Ultra dense small cell networks: Turning density into energy efficiency." IEEE Journal on Selected Areas in Communications 34.5 (2016): 1267-1280.
+
+[3] Dai, Lin, and Bo Bai. "Optimal decomposition for large-scale infrastructure-based wireless networks." IEEE Transactions on Wireless Communications 16.8 (2017): 4956-4969.
+
 [4] Y.-F. Liu, M. Hong, E. Song, "Sample approximation-based deflation approaches for chance SINR-constrained joint power and admission control", IEEE Trans. Wireless Commun., vol. 15, no. 7, pp. 4535-4547, Jul. 2016.
+
 [5] K.-Y. Wang, T.-H. Chang, W.-K. Ma, A. M.-C. So, C.-Y. Chi, "Probabilistic SINR constrained robust transmit beamforming: A Bernstein-type inequality based conservative approach", Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP), pp. 3080-3083, May 2011.
+
 [6] K.-Y. Wang, T.-H. Chang, W.-K. Ma, A. M.-C. So, C.-Y. Chi, "Probabilistic SINR constrained robust transmit beamforming: A Bernstein-type inequality based conservative approach", Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP), pp. 3080-3083, May 2011.
