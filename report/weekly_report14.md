@@ -19,15 +19,16 @@ In the UDNs, the RA issues are always interpreted as a highly complex large-scal
 
 [WIKI:Chance-constraint method](https://optimization.mccormick.northwestern.edu/index.php/Chance-constraint_method)  
 CSI(channel state information)  
+
 QSI(queue state information)  
 
-**The bounded CSI error model** []   
+**The bounded CSI error model** [[7]](https://ieeexplore.ieee.org/abstract/document/7876873)   
 
-**The probabilistic CSI error model** []
+**The probabilistic CSI error model** [[7]](https://ieeexplore.ieee.org/abstract/document/7876873)
 
 ---
 
-### Simplified Mean Field Calculation
+### Simplification of Ultra Dense Network in the case of millimeter waves
 <!--超密集网络会带来很多好处，其中最主要的是能够使频谱在地理空间上复用，从而降低在单个基站上用户对资源的竞争，但是随着基站密度的增加，基站数量 n 趋近无穷。一些研究者通过平均场博弈理论[]-[]，将这一多体问题简化为一个单体在一个场下的行为简化了计算。但现有工作没有考虑到毫米波的视距传播特性。毫米波传播损耗具有指数路径衰落特性，所以这也给简化平均场模型带来了可能性。
 
 本文提出的优化方法将平均场理解为一张动态涵噪声的图片，通过卷积和小波变换的方法对平均场分布进行滤波，压缩。以宏观的视角去寻求最优资源分配决策。
@@ -78,3 +79,5 @@ In recent years, some researchers have proposed some effective solutions [1][2][
 [5] K.-Y. Wang, T.-H. Chang, W.-K. Ma, A. M.-C. So, C.-Y. Chi, "Probabilistic SINR constrained robust transmit beamforming: A Bernstein-type inequality based conservative approach", Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP), pp. 3080-3083, May 2011.
 
 [6] K.-Y. Wang, T.-H. Chang, W.-K. Ma, A. M.-C. So, C.-Y. Chi, "Probabilistic SINR constrained robust transmit beamforming: A Bernstein-type inequality based conservative approach", Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP), pp. 3080-3083, May 2011.
+
+[7] Zhou, F., Li, Z., Cheng, J., Li, Q., & Si, J. (2017). Robust AN-aided beamforming and power splitting design for secure MISO cognitive radio with SWIPT. IEEE Transactions on Wireless Communications, 16(4), 2450-2464.
