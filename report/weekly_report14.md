@@ -22,6 +22,7 @@ CSI(channel state information)
 QSI(queue state information)  
 **The bounded CSI error model** []
 **The probabilistic CSI error model** []
+
 ---
 
 ### Simplified Mean Field Calculation
@@ -38,14 +39,14 @@ The optimization method proposed in this paper interpreted as the mean-field as 
 Starting from graph theory, the method proposed in this paper is equivalent to giving a new network decomposition scheme.
 
 <center>
-<img src="./Photos/1Z2119206_0.gif" width="700" height="650">
+<img src="./Photos/1Z2119206_0.gif" width="500" height="550">
 </center>
 
 <center>
 <img src="./Photos/compress_noise.png" width="700" height="250">
 </center>
 
----
+
 
 <!--
 在移动用户爆炸性的流量需求的推动下，超密网络必然成为移动用户的首选接入网络。由于网络密度的急剧增长，经典网络资源分配技术不足以研究UND中的资源优化。由于网络的规模效应，有效的资源分配方案具有非常重要的现实意义。
