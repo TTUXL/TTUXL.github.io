@@ -35,7 +35,7 @@ QSI(queue state information)
 从图论的视角出发，本文提出的方法相当于用全局搜索的方法寻找最优网络分解，
 -->
 
-Ultra-dense networks will bring many benefits, the most important of which is the ability to reuse the spectrum in geographical space, thereby reducing the competition for resources on a single base station.  Some researchers have simplified this many-body problem to a one-body problem under a field by simplifying the calculation through the mean-field game theory []-[]. However, the existing work does not take into account the line-of-sight propagation characteristics of millimeter waves. The millimeter-wave propagation loss has an exponential path fading characteristic, so this also brings the possibility to simplify the mean-field model.
+Ultra-dense networks will bring many benefits, the most important of which is the ability to reuse the spectrum in geographical space, thereby reducing the competition for resources on a single base station.  Some researchers have simplified this many-body problem to a one-body problem under a field by simplifying the calculation through the mean-field game theory [8]-[10]. However, the existing work does not take into account the line-of-sight propagation characteristics of millimeter waves. The millimeter-wave propagation loss has an exponential path fading characteristic, so this also brings the possibility to simplify the mean-field model.
 
 The optimization method proposed in this paper interpreted as the mean-field as a dynamic picture, and filters and compresses the mean-field distribution by convolution and wavelet transform. Seek optimal resource allocation decisions from a macro perspective.
 
@@ -81,3 +81,9 @@ In recent years, some researchers have proposed some effective solutions [1][2][
 [6] K.-Y. Wang, T.-H. Chang, W.-K. Ma, A. M.-C. So, C.-Y. Chi, "Probabilistic SINR constrained robust transmit beamforming: A Bernstein-type inequality based conservative approach", Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP), pp. 3080-3083, May 2011.
 
 [7] Zhou, F., Li, Z., Cheng, J., Li, Q., & Si, J. (2017). Robust AN-aided beamforming and power splitting design for secure MISO cognitive radio with SWIPT. IEEE Transactions on Wireless Communications, 16(4), 2450-2464.
+
+[8] Samarakoon, Sumudu, et al. "Ultra dense small cell networks: Turning density into energy efficiency." IEEE Journal on Selected Areas in Communications 34.5 (2016): 1267-1280.
+
+[9] Abuzainab, N., Saad, W., & MacKenzie, A. B. (2019). Distributed Uplink Power Control in an Ultra-Dense Millimeter Wave Network: A Mean-field Game Approach. IEEE Wireless Communications Letters.
+
+[10] De Mari, Matthieu, et al. "Joint stochastic geometry and mean field game optimization for energy-efficient proactive scheduling in ultra dense networks." IEEE Transactions on Cognitive Communications and Networking 3.4 (2017): 766-781.
