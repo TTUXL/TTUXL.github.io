@@ -20,7 +20,9 @@ In the UDNs, the RA issues are always interpreted as a highly complex large-scal
 [WIKI:Chance-constraint method](https://optimization.mccormick.northwestern.edu/index.php/Chance-constraint_method)  
 CSI(channel state information)  
 QSI(queue state information)  
-**The bounded CSI error model** []
+
+**The bounded CSI error model** []   
+
 **The probabilistic CSI error model** []
 
 ---
