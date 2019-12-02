@@ -35,10 +35,14 @@ Ultra-dense networks will bring many benefits, the most important of which is th
 
 The optimization method proposed in this paper interpreted as the mean-field as a dynamic picture, and filters and compresses the mean-field distribution by convolution and wavelet transform. Seek optimal resource allocation decisions from a macro perspective.
 
-Starting from graph theory, the method proposed in this paper is equivalent to listing all network decomposition schemes.
+Starting from graph theory, the method proposed in this paper is equivalent to giving a new network decomposition scheme.
 
 <center>
-<img src="./Photos/1Z2119206_0.gif" width="700" height="250">
+<img src="./Photos/1Z2119206_0.gif" width="700" height="650">
+</center>
+
+<center>
+<img src="./Photos/compress_noise.png" width="700" height="250">
 </center>
 
 ---
