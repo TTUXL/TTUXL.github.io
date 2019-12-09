@@ -10,7 +10,7 @@ In order to obtain the best energy efficiency in the ultra-dense network environ
 2. In order to obtain the field distribution, a large amount of signaling overhead is needed to delay the system response.
 3. The user density under each base station is different, and there may be no users under some base stations. It is not meaningful to consider the mean field distribution in this part.
 
-ultra-density network Base Stations(BS) can be abstracted as a process of mutual learning and gaming between **homogeneous agents**.
+ultra-density network Base Stations(BS) can be abstracted as a process of mutual learning and gaming between **homogeneous agents**[[4]](https://arxiv.org/pdf/1802.05438.pdf).
 
 ### Solution:
 
@@ -26,3 +26,5 @@ ultra-density network Base Stations(BS) can be abstracted as a process of mutual
 [2] Samarakoon, Sumudu, et al. "Ultra dense small cell networks: Turning density into energy efficiency." IEEE Journal on Selected Areas in Communications 34.5 (2016): 1267-1280.
 
 [3] Pan, Cunhua, et al. "Joint pilot allocation and robust transmission design for ultra-dense user-centric TDD C-RAN with imperfect CSI." IEEE Transactions on Wireless Communications 17.3 (2018): 2038-2053.
+
+[4] Yang, Yaodong, et al. "Mean field multi-agent reinforcement learning." arXiv preprint arXiv:1802.05438 (2018).
