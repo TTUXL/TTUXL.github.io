@@ -22,7 +22,7 @@ ultra-density network Base Stations(BS) can be abstracted as a process of mutual
 </center>
 
 <center>
-<img src="./Photos/Untitled_picture.gif" width="400" height="500">
+<img src="./Photos/Untitled_picture.gif" width="500" height="600">
 </center>
 
 
