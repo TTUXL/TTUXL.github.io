@@ -21,6 +21,10 @@ ultra-density network Base Stations(BS) can be abstracted as a process of mutual
 <img src="./Photos/mean_field_interference.jpg" width="500" height="250">
 </center>
 
+<center>
+<img src="./Photos/Untitled_picture.gif" width="400" height="650">
+</center>
+
 
 ### Reference
 [1]  Popovski, Petar, et al. "Wireless access for ultra-reliable low-latency communication: Principles and building blocks." Ieee Network 32.2 (2018): 16-23.
