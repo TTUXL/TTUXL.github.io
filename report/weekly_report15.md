@@ -11,11 +11,15 @@ In order to obtain the best energy efficiency in the ultra-dense network environ
 
 3. The user density under each base station is different, and there may be no users under some base stations. It is not meaningful to consider the mean field distribution in this part.
 
-4. According to the channel exponential attenuation characteristic, only a few Base Stations(BS) that are closer to the principal component of the mean field distribution function of the BS, the Mean Field effect of the BS that are far away can be approximated by a fixed distribution.
+4. According to the channel exponential attenuation characteristic, only a few Base Stations(BS) that are closer to the principal component of the mean field distribution function of the BS, the Mean Field effect of the BS that are far away can be approximated by a fixed distribution. This is like long-term and short-term benefits in reinforcement learning.
 
-5. CSI can be divided into long-term characteristics and short-term characteristics. The CSI entropy is calculated when the CSI is feedback and transmitted when it exceeds a certain threshold, otherwise the CSI is not feedback. Other BS Calculate using estimates
+5. CSI can be divided into long-term characteristics and short-term characteristics. The CSI entropy is calculated when the CSI is feedback and transmitted when it exceeds a certain threshold, otherwise the CSI is not feedback. Other BSs use estimates for calculations.[[5]](https://ieeexplore.ieee.org/abstract/document/6404011)
 
 ultra-density network Base Stations(BS) can be abstracted as a process of mutual learning and gaming between **homogeneous agents**[[4]](https://arxiv.org/pdf/1802.05438.pdf).
+
+<center>
+<img src="./Photos/mean_field_interference.jpg" width="500" height="250">
+</center>
 
 
 ### Reference
@@ -26,3 +30,5 @@ ultra-density network Base Stations(BS) can be abstracted as a process of mutual
 [3] Pan, Cunhua, et al. "Joint pilot allocation and robust transmission design for ultra-dense user-centric TDD C-RAN with imperfect CSI." IEEE Transactions on Wireless Communications 17.3 (2018): 2038-2053.
 
 [4] Yang, Yaodong, et al. "Mean field multi-agent reinforcement learning." arXiv preprint arXiv:1802.05438 (2018).
+
+[5] Elizondo, Victor M., and Milan S. Derpich. "Maximum expected rates of block-fading channels with entropy-constrained channel state feedback." IEEE Transactions on Communications 61.2 (2013): 576-589.
