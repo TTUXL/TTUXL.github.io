@@ -1,11 +1,28 @@
-尽可能详细的描述问题是什么：
-在超密度网络环境下，为了获取最佳能源效率，需要获取大量的信道状态信息，数量巨大的信令传输将降低能源效率，并且引发处理延时，【】中作者通过平均场博弈将多体优化问题转变为单体在平均场内的优化问题，有效的降低了计算复杂度。【】通过概率条件约束的方法，定义了概率csi模型，降低了对csi信息的获取要求。当基站数量N趋于无穷大时，如何有效的计算能源效率和干扰的关系已经成为了重要的研究热点。
-【】中有效的提出了通过平均场理论简化多体问题，但是，对于实时性和平均场的分布情况并没有给出良好的分析。
-1. 平均场博弈非常优秀，但是需要全体CSI，没有考虑到非完美CSI的情况。
-2. 为获取平均场分布，使系统响应速度慢。
+### Energy efficiency optimization of ultra-density networks using imperfect CSI
 
-动机，为什么重要：
-高密度网络基站可以被抽象为同质智能体（homogeneous agent）之间的相互学习以及博弈的过程。【】已经证明去中心化的优化可以接近集中优化。去中心化的方法优点突出。
-1. 根据信号指数衰减特性，只有距离待优化基站最近的几个基站干扰占主要成分，这就给优化提出了可能性，
-2. 根据信道信息可分为长期信道特征和短期信道特征，在信道状态信息反馈时计算信道状态信息信息熵，超过某一阈值时传输，否则不反馈信道状态信息。
-解决方案：
+---
+
+#### Describe the Problem
+
+In order to obtain the best energy efficiency in the ultra-dense network environment, a large amount of Channel State Information(CSI) needs to be obtained. The huge amount of signaling overhead will reduce energy efficiency and cause processing delays[[1]](https://ieeexplore.ieee.org/abstract/document/8329619). The author in [[2]](https://ieeexplore.ieee.org/document/7439746) transformed the multi-body optimization problem into the optimization problem of the single body in the average field through the average field game, effectively reducing the computational complexity. [[3]](https://ieeexplore.ieee.org/abstract/document/8247283)The user-centric cluster is adopted to reduce the computational complexity, while the incomplete CSI is considered to reduce the heavy channel training overhead.
+
+1. The mean field game is a Distributed optimization algorithm, but it requires overall CSI, without considering the situation of imperfect CSI.
+2. In order to obtain the field distribution, a large amount of signaling overhead is needed to delay the system response.
+3. The user density under each base station is different, and there may be no users under some base stations. It is not meaningful to consider the mean field distribution in this part.
+
+ultra-density network Base Stations(BS) can be abstracted as a process of mutual learning and gaming between **homogeneous agents**.
+
+### Solution:
+
+1. According to the channel exponential attenuation characteristic, only a few Base Stations(BS) that are closer to the main component of the mean field distribution function of the BS, the Mean field effect of the base stations that are far away can be approximated by a fixed distribution.
+
+2. CSI can be divided into long-term characteristics and short-term characteristics. The CSI entropy is calculated when the CSI is feedback and transmitted when it exceeds a certain threshold, otherwise the CSI is not feedback. Calculate using estimates
+
+
+
+### Reference
+[1]  Popovski, Petar, et al. "Wireless access for ultra-reliable low-latency communication: Principles and building blocks." Ieee Network 32.2 (2018): 16-23.
+
+[2] Samarakoon, Sumudu, et al. "Ultra dense small cell networks: Turning density into energy efficiency." IEEE Journal on Selected Areas in Communications 34.5 (2016): 1267-1280.
+
+[3] Pan, Cunhua, et al. "Joint pilot allocation and robust transmission design for ultra-dense user-centric TDD C-RAN with imperfect CSI." IEEE Transactions on Wireless Communications 17.3 (2018): 2038-2053.
