@@ -1,6 +1,6 @@
 ## Problem Formulation
 
-we formulate the optimization problem to minimize the total energy by jointly ultra-reliable and low-latency communications(URLLC) and imperfect channel stat information(CSI).
+we formulate the optimization problem to minimize the total energy by ultra-reliable and low-latency communications(URLLC).
 
 An ultra density network constructs by numbers of base stations, which can increase the capacity of network by using large number of base stations. Hoverer due to the increasing numbers of base station, the issue of energy consumption has more and more challenged.
 
@@ -40,6 +40,6 @@ where Xij is the number of user under everyone BS.
 
 For energy efficient communication, we aim to maximize the total communication data rate with the unit power cost. Therefore, we formulate the system energy efficiency as a ratio of the system sum rate to the total power consumption. The energy efficiency of the system is formulated as
 
-<a href="https://www.codecogs.com/eqnedit.php?latex={\eta&space;_{EE}}(U,P)&space;=&space;\frac{{R(U,P)}}{{P_s}(U,P)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{\eta&space;_{EE}}(U,P)&space;=&space;\frac{{R(U,P)}}{{{P_s}(U,P)}}" title="{\eta _{EE}}(U,P) = \frac{{R(U,P)}}{{{P_s}(U,P)}}" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex={\eta&space;_{EE}}(U,P)&space;=&space;\frac{R(U,P)}{{P_s}(U,P)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{\eta&space;_{EE}}(U,P)&space;=&space;\frac{{R(U,P)}}{{{P_s}(U,P)}}" title="{\eta _{EE}}(U,P) = \frac{{R(U,P)}}{{{P_s}(U,P)}}" /></a>
 
 where U is user scheduling policy, P is power allocation policy. R(U,P) is Data transfer rate. Ps(U, P) = Pc + PT is the total power consumption of the system; Pc and PT are the circuit power consumption and transmission power.
