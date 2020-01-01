@@ -2,13 +2,14 @@
 
 we formulate the optimization problem to minimize the total energy by ultra-reliable and low-latency communications(URLLC).
 
-An ultra density network constructs by numbers of base stations, which can increase the capacity of network by using large number of base stations. Hoverer due to the increasing numbers of base station, the issue of energy consumption has more and more challenged.
+An ultra density network constructs by numbers of base stations, which can increase the capacity of network by using large number of Base Stations(BS). Hoverer due to the increasing numbers of base station, the issue of energy consumption has more and more challenged.
 
 
 Here, the network energy efficiency can be expressed as a non-convex optimization problem, considering the best energy efficiency under the premise of meeting Quality of service (QoS).
-As the network becomes denser, the cost of acquiring channel state information increases significantly. Obtaining perfect CSI is almost no longer possible. A lot of literature has been researched on this issue []-[], and many practical methods to maximize energy efficiency have been proposed. However, how to improve QoS is the final goal.
+As the network becomes denser, the cost of acquiring channel state information increases significantly. Obtaining perfect CSI is almost no longer possible. A lot of literature has been researched on this issue []-[], and many practical methods to maximize energy efficiency have been proposed.
 
-In this problem, low latency and ultra-high reliability are two contradictory requirements. On one hand, if it is only optimized minimum waiting time, this requires using short packets, which results in a reduction in channel coding gain. At the same time, it increases the demand for channel information acquisition.  On the other hand, in order to ensure reliable transmission, more checksum redundancy is required. Although the need for real-time channel is reduced, the delay time is greatly increased. Considering these two control strategies, how to optimize them two has become an urgent need.
+In this problem, low latency and ultra-high reliability are two contradictory requirements. On one hand, if it is only optimized minimum waiting time, this requires using short packets, which results in a reduction in channel coding gain. At the same time, it increases the demand for channel information acquisition.  On the other hand, in order to ensure reliable transmission, more checksum redundancy is required. Although the need for real-time channel is reduced, the delay time is greatly increased. Considering these two control issue, how to optimize them two has become an urgent need.
+
 ---
 ### A. Constraints:
 
@@ -42,4 +43,4 @@ For energy efficient communication, we aim to maximize the total communication d
 
 <a href="https://www.codecogs.com/eqnedit.php?latex={\eta&space;_{EE}}(U,P)&space;=&space;\frac{R(U,P)}{P_s(U,P)}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?{\eta&space;_{EE}}(U,P)&space;=&space;\frac{{R(U,P)}}{{P_s}(U,P)}" title="{\eta _{EE}}(U,P) = \frac{{R(U,P)}}{{{P_s}(U,P)}}" /></a>
 
-where U is user scheduling policy, P is power allocation policy. R(U,P) is Data transfer rate. Ps(U, P) = Pc + PT is the total power consumption of the system; Pc and PT are the circuit power consumption and transmission power.
+where U is user scheduling policy, P is power allocation policy. R(U,P) is Successful Data transfer rate. Ps(U, P) = Pc + PT is the total power consumption of the system; Pc and PT are the circuit power consumption and transmission power.
