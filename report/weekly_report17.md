@@ -8,13 +8,13 @@ High-Capacity and Ultra-reliable communication are the research focus of current
 
 multi-connectivity provides user-centric services and a reliable connection method to deal with the dynamic network environment, which facilitates a smoother and more stable network experience for mobile users. multi-connectivity can increase the user average throughput at low user density scenarios[1]. as in [2]-[3], in Multi-connectivity, reasonable management of the serving cell enables improvement in mobility robustness. In Research on energy efficiency，[5] expressed spectrum and energy efficiency of UDNs with stochastic geometry and also showed the improvements and limitations of network densification. Other works focus on new cell association schemes for HetNets and UDNs, such as [6]-[7]. However, The above work focuses on the robustness of the connection or the energy consumption in the case of a single Connectivity and does not consider the energy consumption in the case of multiple Connectivity in an ultra-density network. My research questions will focus on energy efficiency under multiple Connectivity in heterogeneous networks with millimeter-wave units.
 
-The energy consumption minimization problem is formulated as a joint Problem of Multi-connectivity scheduling and power control. 
+The energy consumption minimization problem is formulated as a joint Problem of Multi-connectivity scheduling and power control.
 
 
 ### system Model
 <center>
-<img src="./Photos/Untitled_picture.gif" width="300" height="350">
-<img src="./Photos/comp.gif" width="300" height="250">
+<img src="./Photos/Untitled_picture.gif" width="400" height="450">
+<img src="./Photos/comp.gif" width="400" height="350">
 </center>
 #### Transmission Model
 
