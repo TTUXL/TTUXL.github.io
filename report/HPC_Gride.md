@@ -2,8 +2,8 @@
 ---
 ### Loading Miniconda module
 
-     module load miniconda     % loading miniconda
-     conda info  --envs        % list information of existed work environment
+     $ module load miniconda     % loading miniconda
+     $ conda info  --envs        % list information of existed work environment
 
 
 ### Creating Miniconda environment
