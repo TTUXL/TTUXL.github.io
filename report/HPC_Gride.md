@@ -2,9 +2,9 @@
 ---
 ### Loading Miniconda module
 
-     $ module load miniconda     % loading miniconda
+     $ module load miniconda                 % loading miniconda
 
-     $ conda info  --envs        % list information of existed work environment
+     $ conda info  --envs                    % list information of existed work environment
      or $ conda env list
 
 
@@ -19,7 +19,24 @@
     $ source deactivate                       % exit environment
     or conda deactivate
 
-    $ conda remove -n tf-2.0 --all            $ delete tf-2.0 environment
+    $ conda remove -n tf-2.0 --all            % delete tf-2.0 environment
     or $ conda env remove --name tf-2.0
 
-###
+### login GPU node(First install)
+
+    $ hpcshell --gres=gpu --mem=16G           % Apply for GPU node
+    $ source activate tf-2.0                  % Activate this environment on the GPU Node
+    $ pip install --upgrade tensorflow-gpu    % TF-GPU can only be installed on GPU nodes
+    $ module load cuda10.0 cudnn              % Load the CUDA driver
+    $ Python helloworld.py                    % run demo code
+    $ exit                                    % exist
+
+---
+### Quick to use
+
+    $ module load miniconda
+    $ source activate tf-2.0-test
+    $ hpcshell --gres=gpu --mem=8G
+    $ python xxx.py
+    $ exit
+---
