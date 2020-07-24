@@ -18,7 +18,8 @@
 
     $ source deactivate                       % exit environment
     or conda deactivate
+
     $ conda remove -n tf-2.0 --all            $ delete tf-2.0 environment
     or $ conda env remove --name tf-2.0
 
-### 
+###
