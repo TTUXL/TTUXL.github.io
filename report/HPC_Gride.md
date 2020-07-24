@@ -42,12 +42,12 @@
 ---
 ### Submitting jobs using script
     1. create a new txt and name xx.sh
-    >#!/bin/bash  
-    >#SBATCH --gres=gpu:1 --mem=4G  
-    >#SBATCH --time=1:00:00  
-    >module load miniconda  
-    >module load cuda10.0 cudnn  
-    >source activate tf-2.0-test  
+>#!/bin/bash  
+>#SBATCH --gres=gpu:1 --mem=4G  
+>#SBATCH --time=1:00:00  
+>module load miniconda  
+>module load cuda10.0 cudnn  
+>source activate tf-2.0-test  
     2. $ scp /home/xx.sh xli44@shell.hpc.tntech.edu:   % File directory is set according to personal computer
 
     3. $ sbatch xx.sh
