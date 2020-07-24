@@ -17,6 +17,8 @@
     or conda activate tf-2.0                  % As of conda 4.4, conda activate is the preferred way to activate an environment.
 
     $ source deactivate                       % exit environment
-
+    or conda deactivate
     $ conda remove -n tf-2.0 --all            $ delete tf-2.0 environment
     or $ conda env remove --name tf-2.0
+
+### 
