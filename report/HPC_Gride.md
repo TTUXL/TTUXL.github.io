@@ -7,7 +7,8 @@
 
 
 ### Creating Miniconda environment
->conda create --name tf-2.0 python=3.7   % create new environment name is tf-2.0 ,python version is 3.7
->source activate tf-2.0                  % acivate environment
->do somethings
->source deactivate
+
+    conda create --name tf-2.0 python=3.7   % create new environment name is tf-2.0 ,python version is 3.7
+    source activate tf-2.0                  % acivate environment
+
+    source deactivate                       % exit environment
