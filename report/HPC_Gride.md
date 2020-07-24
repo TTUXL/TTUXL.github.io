@@ -3,8 +3,8 @@
 ### Loading Miniconda module
 <html>
   <head>
-  >module load miniconda     % loading miniconda
-  >conda info  --envs        % list information of existed work environment
+     >module load miniconda     % loading miniconda
+     >conda info  --envs        % list information of existed work environment
 
   </head>
 </html>
