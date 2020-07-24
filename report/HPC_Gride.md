@@ -4,7 +4,6 @@
 <html>
   <head>
   >module load miniconda     % loading miniconda
-
   >conda info  --envs        % list information of existed work environment
 
   </head>
