@@ -48,7 +48,8 @@
 >module load miniconda  
 >module load cuda10.0 cudnn  
 >source activate tf-2.0-test
+>python xxx.py
 
-    2. $ scp /home/xx.sh xli44@shell.hpc.tntech.edu:   % cope File to target.  File directory is set according to personal computer
+    2. $ scp /home/xx.sh xli44@shell.hpc.tntech.edu:   % cope File to server.File directory is set according to personal computer
 
     3. $ sbatch xx.sh
